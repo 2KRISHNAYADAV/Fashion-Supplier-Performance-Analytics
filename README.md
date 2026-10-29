@@ -283,35 +283,7 @@ git clone https://github.com/2KRISHNAYADAV/Fashion-Supplier-Performance-Analytic
 cd Fashion-Supplier-Performance-Analytics
 ```
 
-### 2. Create a virtual environment
 
-```bash
-python -m venv .venv
-```
-
-Activate it on Windows:
-
-```bash
-.venv\Scripts\activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Generate the dataset
-
-```bash
-python scripts/generate_data.py
-```
-
-### 4. Validate the data
-
-```bash
-python scripts/validate_data.py
-```
 
 ### 5. Continue with analysis
 
