@@ -1,0 +1,2228 @@
+issue_id,table,record_key,column,issue_type,original_value,injected_value
+DQ0001,suppliers,S027,payment_terms_days,missing_value,60,
+DQ0002,suppliers,S020,payment_terms_days,missing_value,60,
+DQ0003,deliveries,DL0017640,ship_mode,missing_value,Sea,
+DQ0004,deliveries,DL0020129,ship_mode,missing_value,Sea,
+DQ0005,deliveries,DL0012849,ship_mode,missing_value,Sea,
+DQ0006,deliveries,DL0010184,ship_mode,missing_value,Sea,
+DQ0007,deliveries,DL0006300,ship_mode,missing_value,Sea,
+DQ0008,deliveries,DL0000080,ship_mode,missing_value,Sea,
+DQ0009,deliveries,DL0013180,ship_mode,missing_value,Road,
+DQ0010,deliveries,DL0007273,ship_mode,missing_value,Sea,
+DQ0011,deliveries,DL0011716,ship_mode,missing_value,Road,
+DQ0012,deliveries,DL0002924,ship_mode,missing_value,Road,
+DQ0013,deliveries,DL0006140,ship_mode,missing_value,Air,
+DQ0014,deliveries,DL0005720,ship_mode,missing_value,Sea,
+DQ0015,deliveries,DL0018552,ship_mode,missing_value,Sea,
+DQ0016,deliveries,DL0009620,ship_mode,missing_value,Sea,
+DQ0017,deliveries,DL0001476,ship_mode,missing_value,Sea,
+DQ0018,deliveries,DL0012281,ship_mode,missing_value,Sea,
+DQ0019,deliveries,DL0018826,ship_mode,missing_value,Sea,
+DQ0020,deliveries,DL0012774,ship_mode,missing_value,Sea,
+DQ0021,deliveries,DL0005236,ship_mode,missing_value,Sea,
+DQ0022,deliveries,DL0005558,ship_mode,missing_value,Air,
+DQ0023,deliveries,DL0004660,ship_mode,missing_value,Sea,
+DQ0024,deliveries,DL0012113,ship_mode,missing_value,Sea,
+DQ0025,deliveries,DL0000280,ship_mode,missing_value,Sea,
+DQ0026,deliveries,DL0008385,ship_mode,missing_value,Air,
+DQ0027,deliveries,DL0014571,ship_mode,missing_value,Air,
+DQ0028,deliveries,DL0011478,ship_mode,missing_value,Road,
+DQ0029,deliveries,DL0007241,ship_mode,missing_value,Air,
+DQ0030,deliveries,DL0008641,ship_mode,missing_value,Sea,
+DQ0031,deliveries,DL0007257,ship_mode,missing_value,Air,
+DQ0032,deliveries,DL0018886,ship_mode,missing_value,Sea,
+DQ0033,deliveries,DL0013987,ship_mode,missing_value,Air,
+DQ0034,deliveries,DL0003870,ship_mode,missing_value,Road,
+DQ0035,deliveries,DL0017716,ship_mode,missing_value,Air,
+DQ0036,deliveries,DL0003293,ship_mode,missing_value,Road,
+DQ0037,deliveries,DL0013104,ship_mode,missing_value,Air,
+DQ0038,deliveries,DL0007545,ship_mode,missing_value,Air,
+DQ0039,deliveries,DL0004895,ship_mode,missing_value,Road,
+DQ0040,deliveries,DL0006104,ship_mode,missing_value,Air,
+DQ0041,deliveries,DL0013794,ship_mode,missing_value,Air,
+DQ0042,deliveries,DL0016201,ship_mode,missing_value,Air,
+DQ0043,deliveries,DL0007168,ship_mode,missing_value,Air,
+DQ0044,deliveries,DL0017394,ship_mode,missing_value,Road,
+DQ0045,deliveries,DL0009106,ship_mode,missing_value,Sea,
+DQ0046,deliveries,DL0013475,ship_mode,missing_value,Sea,
+DQ0047,deliveries,DL0017627,ship_mode,missing_value,Sea,
+DQ0048,deliveries,DL0003314,ship_mode,missing_value,Air,
+DQ0049,deliveries,DL0019794,ship_mode,missing_value,Road,
+DQ0050,deliveries,DL0002630,ship_mode,missing_value,Sea,
+DQ0051,deliveries,DL0018757,ship_mode,missing_value,Sea,
+DQ0052,deliveries,DL0018363,ship_mode,missing_value,Road,
+DQ0053,deliveries,DL0000409,ship_mode,missing_value,Road,
+DQ0054,deliveries,DL0014111,ship_mode,missing_value,Sea,
+DQ0055,deliveries,DL0020075,ship_mode,missing_value,Sea,
+DQ0056,deliveries,DL0012506,ship_mode,missing_value,Air,
+DQ0057,deliveries,DL0009344,ship_mode,missing_value,Sea,
+DQ0058,deliveries,DL0002565,ship_mode,missing_value,Sea,
+DQ0059,deliveries,DL0016821,ship_mode,missing_value,Air,
+DQ0060,deliveries,DL0014087,ship_mode,missing_value,Sea,
+DQ0061,deliveries,DL0001652,ship_mode,missing_value,Sea,
+DQ0062,deliveries,DL0003019,ship_mode,missing_value,Sea,
+DQ0063,deliveries,DL0012004,ship_mode,missing_value,Sea,
+DQ0064,deliveries,DL0015004,ship_mode,missing_value,Sea,
+DQ0065,deliveries,DL0013925,ship_mode,missing_value,Sea,
+DQ0066,deliveries,DL0012695,ship_mode,missing_value,Air,
+DQ0067,deliveries,DL0017960,ship_mode,missing_value,Air,
+DQ0068,deliveries,DL0002780,ship_mode,missing_value,Sea,
+DQ0069,deliveries,DL0016517,ship_mode,missing_value,Sea,
+DQ0070,deliveries,DL0015135,ship_mode,missing_value,Sea,
+DQ0071,deliveries,DL0013467,ship_mode,missing_value,Air,
+DQ0072,deliveries,DL0019029,ship_mode,missing_value,Air,
+DQ0073,deliveries,DL0000666,ship_mode,missing_value,Air,
+DQ0074,deliveries,DL0006531,ship_mode,missing_value,Road,
+DQ0075,deliveries,DL0007465,ship_mode,missing_value,Sea,
+DQ0076,deliveries,DL0016805,ship_mode,missing_value,Sea,
+DQ0077,deliveries,DL0002100,ship_mode,missing_value,Road,
+DQ0078,deliveries,DL0011552,ship_mode,missing_value,Air,
+DQ0079,deliveries,DL0008978,ship_mode,missing_value,Sea,
+DQ0080,deliveries,DL0010049,ship_mode,missing_value,Sea,
+DQ0081,deliveries,DL0007757,ship_mode,missing_value,Sea,
+DQ0082,deliveries,DL0015893,ship_mode,missing_value,Air,
+DQ0083,deliveries,DL0000254,ship_mode,missing_value,Road,
+DQ0084,deliveries,DL0012210,ship_mode,missing_value,Sea,
+DQ0085,deliveries,DL0009964,ship_mode,missing_value,Sea,
+DQ0086,deliveries,DL0007909,ship_mode,missing_value,Road,
+DQ0087,deliveries,DL0017250,ship_mode,missing_value,Air,
+DQ0088,deliveries,DL0016066,ship_mode,missing_value,Sea,
+DQ0089,deliveries,DL0002452,ship_mode,missing_value,Sea,
+DQ0090,deliveries,DL0000812,ship_mode,missing_value,Air,
+DQ0091,deliveries,DL0002910,ship_mode,missing_value,Sea,
+DQ0092,deliveries,DL0013614,ship_mode,missing_value,Sea,
+DQ0093,deliveries,DL0014016,ship_mode,missing_value,Air,
+DQ0094,deliveries,DL0014871,ship_mode,missing_value,Air,
+DQ0095,deliveries,DL0018704,ship_mode,missing_value,Sea,
+DQ0096,deliveries,DL0013173,ship_mode,missing_value,Sea,
+DQ0097,deliveries,DL0016117,ship_mode,missing_value,Sea,
+DQ0098,deliveries,DL0005664,ship_mode,missing_value,Air,
+DQ0099,deliveries,DL0007726,ship_mode,missing_value,Sea,
+DQ0100,deliveries,DL0017780,ship_mode,missing_value,Sea,
+DQ0101,deliveries,DL0003037,ship_mode,missing_value,Air,
+DQ0102,deliveries,DL0001037,ship_mode,missing_value,Sea,
+DQ0103,deliveries,DL0016397,ship_mode,missing_value,Sea,
+DQ0104,deliveries,DL0013738,ship_mode,missing_value,Sea,
+DQ0105,deliveries,DL0000083,ship_mode,missing_value,Sea,
+DQ0106,deliveries,DL0007946,ship_mode,missing_value,Air,
+DQ0107,deliveries,DL0019150,ship_mode,missing_value,Sea,
+DQ0108,deliveries,DL0006803,ship_mode,missing_value,Road,
+DQ0109,deliveries,DL0014650,ship_mode,missing_value,Sea,
+DQ0110,deliveries,DL0010060,ship_mode,missing_value,Road,
+DQ0111,deliveries,DL0004461,ship_mode,missing_value,Road,
+DQ0112,deliveries,DL0004380,ship_mode,missing_value,Sea,
+DQ0113,deliveries,DL0012864,ship_mode,missing_value,Sea,
+DQ0114,deliveries,DL0002001,ship_mode,missing_value,Sea,
+DQ0115,deliveries,DL0017628,ship_mode,missing_value,Road,
+DQ0116,deliveries,DL0005489,ship_mode,missing_value,Sea,
+DQ0117,deliveries,DL0017555,ship_mode,missing_value,Sea,
+DQ0118,deliveries,DL0013872,ship_mode,missing_value,Sea,
+DQ0119,deliveries,DL0012629,ship_mode,missing_value,Road,
+DQ0120,deliveries,DL0013630,ship_mode,missing_value,Road,
+DQ0121,deliveries,DL0004123,ship_mode,missing_value,Sea,
+DQ0122,deliveries,DL0005971,ship_mode,missing_value,Road,
+DQ0123,deliveries,DL0001769,ship_mode,missing_value,Sea,
+DQ0124,deliveries,DL0010061,ship_mode,missing_value,Road,
+DQ0125,deliveries,DL0009784,ship_mode,missing_value,Sea,
+DQ0126,deliveries,DL0019936,ship_mode,missing_value,Road,
+DQ0127,deliveries,DL0006799,ship_mode,missing_value,Sea,
+DQ0128,deliveries,DL0002017,ship_mode,missing_value,Air,
+DQ0129,deliveries,DL0018083,ship_mode,missing_value,Air,
+DQ0130,deliveries,DL0019321,ship_mode,missing_value,Road,
+DQ0131,deliveries,DL0008035,ship_mode,missing_value,Air,
+DQ0132,deliveries,DL0017947,ship_mode,missing_value,Sea,
+DQ0133,deliveries,DL0000763,ship_mode,missing_value,Road,
+DQ0134,deliveries,DL0006463,ship_mode,missing_value,Road,
+DQ0135,deliveries,DL0017206,ship_mode,missing_value,Sea,
+DQ0136,deliveries,DL0011655,ship_mode,missing_value,Sea,
+DQ0137,deliveries,DL0009921,ship_mode,missing_value,Air,
+DQ0138,deliveries,DL0018792,ship_mode,missing_value,Sea,
+DQ0139,deliveries,DL0017320,ship_mode,missing_value,Air,
+DQ0140,deliveries,DL0009652,ship_mode,missing_value,Sea,
+DQ0141,deliveries,DL0010638,ship_mode,missing_value,Air,
+DQ0142,deliveries,DL0011218,ship_mode,missing_value,Sea,
+DQ0143,deliveries,DL0009729,ship_mode,missing_value,Air,
+DQ0144,deliveries,DL0008958,ship_mode,missing_value,Air,
+DQ0145,deliveries,DL0015145,ship_mode,missing_value,Road,
+DQ0146,deliveries,DL0015994,ship_mode,missing_value,Air,
+DQ0147,deliveries,DL0018559,ship_mode,missing_value,Air,
+DQ0148,deliveries,DL0012482,ship_mode,missing_value,Sea,
+DQ0149,deliveries,DL0016575,ship_mode,missing_value,Road,
+DQ0150,deliveries,DL0008340,ship_mode,missing_value,Road,
+DQ0151,deliveries,DL0003416,ship_mode,missing_value,Sea,
+DQ0152,deliveries,DL0018784,ship_mode,missing_value,Sea,
+DQ0153,deliveries,DL0015496,ship_mode,missing_value,Air,
+DQ0154,deliveries,DL0011058,ship_mode,missing_value,Road,
+DQ0155,deliveries,DL0002517,ship_mode,missing_value,Sea,
+DQ0156,deliveries,DL0004499,ship_mode,missing_value,Sea,
+DQ0157,deliveries,DL0020074,ship_mode,missing_value,Road,
+DQ0158,deliveries,DL0013904,ship_mode,missing_value,Air,
+DQ0159,deliveries,DL0009949,ship_mode,missing_value,Air,
+DQ0160,deliveries,DL0004501,ship_mode,missing_value,Sea,
+DQ0161,deliveries,DL0018376,ship_mode,missing_value,Sea,
+DQ0162,deliveries,DL0006428,ship_mode,missing_value,Sea,
+DQ0163,deliveries,DL0008610,ship_mode,missing_value,Air,
+DQ0164,deliveries,DL0009754,ship_mode,missing_value,Air,
+DQ0165,deliveries,DL0009220,ship_mode,missing_value,Sea,
+DQ0166,deliveries,DL0016537,ship_mode,missing_value,Road,
+DQ0167,deliveries,DL0019896,ship_mode,missing_value,Sea,
+DQ0168,deliveries,DL0005534,ship_mode,missing_value,Sea,
+DQ0169,deliveries,DL0002539,ship_mode,missing_value,Sea,
+DQ0170,deliveries,DL0008394,ship_mode,missing_value,Road,
+DQ0171,deliveries,DL0005653,ship_mode,missing_value,Sea,
+DQ0172,deliveries,DL0000082,ship_mode,missing_value,Sea,
+DQ0173,deliveries,DL0016794,ship_mode,missing_value,Sea,
+DQ0174,deliveries,DL0008323,ship_mode,missing_value,Sea,
+DQ0175,deliveries,DL0000841,ship_mode,missing_value,Sea,
+DQ0176,deliveries,DL0009081,ship_mode,missing_value,Road,
+DQ0177,deliveries,DL0005639,ship_mode,missing_value,Road,
+DQ0178,deliveries,DL0005536,ship_mode,missing_value,Sea,
+DQ0179,deliveries,DL0006122,ship_mode,missing_value,Road,
+DQ0180,deliveries,DL0017061,ship_mode,missing_value,Sea,
+DQ0181,deliveries,DL0000929,ship_mode,missing_value,Road,
+DQ0182,deliveries,DL0002947,ship_mode,missing_value,Sea,
+DQ0183,deliveries,DL0000201,ship_mode,missing_value,Sea,
+DQ0184,deliveries,DL0008262,ship_mode,missing_value,Sea,
+DQ0185,deliveries,DL0018382,ship_mode,missing_value,Road,
+DQ0186,deliveries,DL0009725,ship_mode,missing_value,Air,
+DQ0187,deliveries,DL0010765,ship_mode,missing_value,Road,
+DQ0188,deliveries,DL0016961,ship_mode,missing_value,Sea,
+DQ0189,deliveries,DL0005437,ship_mode,missing_value,Sea,
+DQ0190,deliveries,DL0011585,ship_mode,missing_value,Sea,
+DQ0191,deliveries,DL0001521,ship_mode,missing_value,Sea,
+DQ0192,deliveries,DL0016088,ship_mode,missing_value,Sea,
+DQ0193,deliveries,DL0015993,ship_mode,missing_value,Sea,
+DQ0194,deliveries,DL0011419,ship_mode,missing_value,Road,
+DQ0195,deliveries,DL0011570,ship_mode,missing_value,Sea,
+DQ0196,deliveries,DL0010207,ship_mode,missing_value,Sea,
+DQ0197,deliveries,DL0010814,ship_mode,missing_value,Sea,
+DQ0198,deliveries,DL0019309,ship_mode,missing_value,Sea,
+DQ0199,deliveries,DL0008259,ship_mode,missing_value,Road,
+DQ0200,deliveries,DL0015914,ship_mode,missing_value,Air,
+DQ0201,deliveries,DL0005804,ship_mode,missing_value,Sea,
+DQ0202,deliveries,DL0000869,ship_mode,missing_value,Sea,
+DQ0203,deliveries,DL0018441,ship_mode,missing_value,Air,
+DQ0204,deliveries,DL0009175,ship_mode,missing_value,Sea,
+DQ0205,deliveries,DL0001282,ship_mode,missing_value,Sea,
+DQ0206,deliveries,DL0009102,ship_mode,missing_value,Sea,
+DQ0207,deliveries,DL0014983,ship_mode,missing_value,Sea,
+DQ0208,deliveries,DL0004626,ship_mode,missing_value,Air,
+DQ0209,deliveries,DL0018874,ship_mode,missing_value,Sea,
+DQ0210,deliveries,DL0010083,ship_mode,missing_value,Sea,
+DQ0211,deliveries,DL0019005,ship_mode,missing_value,Sea,
+DQ0212,deliveries,DL0014926,ship_mode,missing_value,Sea,
+DQ0213,deliveries,DL0019996,ship_mode,missing_value,Sea,
+DQ0214,deliveries,DL0015910,ship_mode,missing_value,Air,
+DQ0215,deliveries,DL0010737,ship_mode,missing_value,Sea,
+DQ0216,deliveries,DL0011447,ship_mode,missing_value,Sea,
+DQ0217,deliveries,DL0010889,ship_mode,missing_value,Sea,
+DQ0218,deliveries,DL0019397,ship_mode,missing_value,Air,
+DQ0219,deliveries,DL0007362,ship_mode,missing_value,Air,
+DQ0220,deliveries,DL0019536,ship_mode,missing_value,Road,
+DQ0221,deliveries,DL0010849,ship_mode,missing_value,Air,
+DQ0222,deliveries,DL0015180,ship_mode,missing_value,Road,
+DQ0223,deliveries,DL0013884,ship_mode,missing_value,Air,
+DQ0224,deliveries,DL0007373,ship_mode,missing_value,Road,
+DQ0225,deliveries,DL0013349,ship_mode,missing_value,Air,
+DQ0226,deliveries,DL0011316,ship_mode,missing_value,Sea,
+DQ0227,deliveries,DL0014705,ship_mode,missing_value,Air,
+DQ0228,deliveries,DL0006055,ship_mode,missing_value,Road,
+DQ0229,deliveries,DL0015234,ship_mode,missing_value,Sea,
+DQ0230,deliveries,DL0002373,ship_mode,missing_value,Sea,
+DQ0231,deliveries,DL0003073,ship_mode,missing_value,Air,
+DQ0232,deliveries,DL0018917,ship_mode,missing_value,Road,
+DQ0233,deliveries,DL0001942,ship_mode,missing_value,Air,
+DQ0234,deliveries,DL0016661,ship_mode,missing_value,Air,
+DQ0235,deliveries,DL0000672,ship_mode,missing_value,Sea,
+DQ0236,deliveries,DL0005728,ship_mode,missing_value,Road,
+DQ0237,deliveries,DL0004049,ship_mode,missing_value,Road,
+DQ0238,deliveries,DL0001650,ship_mode,missing_value,Air,
+DQ0239,deliveries,DL0005758,ship_mode,missing_value,Sea,
+DQ0240,deliveries,DL0011454,ship_mode,missing_value,Sea,
+DQ0241,deliveries,DL0017606,ship_mode,missing_value,Sea,
+DQ0242,deliveries,DL0008466,ship_mode,missing_value,Air,
+DQ0243,deliveries,DL0018137,ship_mode,missing_value,Sea,
+DQ0244,deliveries,DL0005433,ship_mode,missing_value,Sea,
+DQ0245,deliveries,DL0017656,ship_mode,missing_value,Sea,
+DQ0246,deliveries,DL0003484,ship_mode,missing_value,Sea,
+DQ0247,deliveries,DL0019685,ship_mode,missing_value,Sea,
+DQ0248,deliveries,DL0012836,ship_mode,missing_value,Sea,
+DQ0249,deliveries,DL0016656,ship_mode,missing_value,Road,
+DQ0250,deliveries,DL0015083,ship_mode,missing_value,Air,
+DQ0251,deliveries,DL0019766,ship_mode,missing_value,Road,
+DQ0252,deliveries,DL0010004,ship_mode,missing_value,Sea,
+DQ0253,deliveries,DL0005321,ship_mode,missing_value,Air,
+DQ0254,deliveries,DL0018974,ship_mode,missing_value,Road,
+DQ0255,deliveries,DL0003023,ship_mode,missing_value,Road,
+DQ0256,deliveries,DL0001008,ship_mode,missing_value,Road,
+DQ0257,deliveries,DL0005369,ship_mode,missing_value,Sea,
+DQ0258,deliveries,DL0008395,ship_mode,missing_value,Sea,
+DQ0259,deliveries,DL0001860,ship_mode,missing_value,Sea,
+DQ0260,deliveries,DL0010572,ship_mode,missing_value,Sea,
+DQ0261,deliveries,DL0011796,ship_mode,missing_value,Road,
+DQ0262,deliveries,DL0003760,ship_mode,missing_value,Sea,
+DQ0263,deliveries,DL0004247,ship_mode,missing_value,Sea,
+DQ0264,deliveries,DL0003763,ship_mode,missing_value,Road,
+DQ0265,deliveries,DL0016816,ship_mode,missing_value,Air,
+DQ0266,deliveries,DL0017346,ship_mode,missing_value,Sea,
+DQ0267,deliveries,DL0003478,ship_mode,missing_value,Air,
+DQ0268,deliveries,DL0013123,ship_mode,missing_value,Road,
+DQ0269,deliveries,DL0015431,ship_mode,missing_value,Air,
+DQ0270,deliveries,DL0019847,ship_mode,missing_value,Sea,
+DQ0271,deliveries,DL0018751,ship_mode,missing_value,Sea,
+DQ0272,deliveries,DL0002510,ship_mode,missing_value,Sea,
+DQ0273,deliveries,DL0011126,ship_mode,missing_value,Sea,
+DQ0274,deliveries,DL0014549,ship_mode,missing_value,Air,
+DQ0275,deliveries,DL0005320,ship_mode,missing_value,Sea,
+DQ0276,deliveries,DL0010747,ship_mode,missing_value,Air,
+DQ0277,deliveries,DL0005368,ship_mode,missing_value,Air,
+DQ0278,deliveries,DL0012190,ship_mode,missing_value,Sea,
+DQ0279,deliveries,DL0010968,ship_mode,missing_value,Air,
+DQ0280,deliveries,DL0012137,ship_mode,missing_value,Sea,
+DQ0281,deliveries,DL0015280,ship_mode,missing_value,Air,
+DQ0282,deliveries,DL0007496,ship_mode,missing_value,Sea,
+DQ0283,deliveries,DL0000398,ship_mode,missing_value,Sea,
+DQ0284,deliveries,DL0009900,ship_mode,missing_value,Air,
+DQ0285,deliveries,DL0017184,ship_mode,missing_value,Sea,
+DQ0286,deliveries,DL0003208,ship_mode,missing_value,Sea,
+DQ0287,deliveries,DL0006391,ship_mode,missing_value,Air,
+DQ0288,deliveries,DL0011088,ship_mode,missing_value,Air,
+DQ0289,deliveries,DL0009711,ship_mode,missing_value,Sea,
+DQ0290,deliveries,DL0012781,ship_mode,missing_value,Road,
+DQ0291,deliveries,DL0011270,ship_mode,missing_value,Sea,
+DQ0292,deliveries,DL0013644,ship_mode,missing_value,Road,
+DQ0293,deliveries,DL0018444,ship_mode,missing_value,Air,
+DQ0294,deliveries,DL0019434,ship_mode,missing_value,Air,
+DQ0295,deliveries,DL0013432,ship_mode,missing_value,Sea,
+DQ0296,deliveries,DL0007991,ship_mode,missing_value,Road,
+DQ0297,deliveries,DL0012777,ship_mode,missing_value,Sea,
+DQ0298,deliveries,DL0016189,ship_mode,missing_value,Road,
+DQ0299,deliveries,DL0004394,ship_mode,missing_value,Road,
+DQ0300,deliveries,DL0005678,ship_mode,missing_value,Sea,
+DQ0301,deliveries,DL0019145,ship_mode,missing_value,Sea,
+DQ0302,deliveries,DL0009079,ship_mode,missing_value,Road,
+DQ0303,deliveries,DL0018959,ship_mode,missing_value,Road,
+DQ0304,deliveries,DL0002359,ship_mode,missing_value,Road,
+DQ0305,quality_inspections,QI0017144,primary_defect_type,missing_value,Measurement,
+DQ0306,quality_inspections,QI0003799,primary_defect_type,missing_value,Stitching,
+DQ0307,quality_inspections,QI0007153,primary_defect_type,missing_value,Colour Mismatch,
+DQ0308,quality_inspections,QI0018668,primary_defect_type,missing_value,Colour Mismatch,
+DQ0309,quality_inspections,QI0007474,primary_defect_type,missing_value,Fabric Flaw,
+DQ0310,quality_inspections,QI0006977,primary_defect_type,missing_value,Fabric Flaw,
+DQ0311,quality_inspections,QI0016117,primary_defect_type,missing_value,Colour Mismatch,
+DQ0312,quality_inspections,QI0020138,primary_defect_type,missing_value,Measurement,
+DQ0313,quality_inspections,QI0020772,primary_defect_type,missing_value,Stitching,
+DQ0314,quality_inspections,QI0000045,primary_defect_type,missing_value,Colour Mismatch,
+DQ0315,quality_inspections,QI0015655,primary_defect_type,missing_value,Finishing,
+DQ0316,quality_inspections,QI0007135,primary_defect_type,missing_value,Fabric Flaw,
+DQ0317,quality_inspections,QI0004288,primary_defect_type,missing_value,Finishing,
+DQ0318,quality_inspections,QI0004983,primary_defect_type,missing_value,Finishing,
+DQ0319,quality_inspections,QI0016174,primary_defect_type,missing_value,Colour Mismatch,
+DQ0320,quality_inspections,QI0003548,primary_defect_type,missing_value,Measurement,
+DQ0321,quality_inspections,QI0016473,primary_defect_type,missing_value,Stitching,
+DQ0322,quality_inspections,QI0010377,primary_defect_type,missing_value,Stitching,
+DQ0323,quality_inspections,QI0018084,primary_defect_type,missing_value,Finishing,
+DQ0324,quality_inspections,QI0019978,primary_defect_type,missing_value,Measurement,
+DQ0325,quality_inspections,QI0018805,primary_defect_type,missing_value,Stitching,
+DQ0326,quality_inspections,QI0013678,primary_defect_type,missing_value,Finishing,
+DQ0327,quality_inspections,QI0011510,primary_defect_type,missing_value,Colour Mismatch,
+DQ0328,quality_inspections,QI0004117,primary_defect_type,missing_value,Fabric Flaw,
+DQ0329,quality_inspections,QI0000033,primary_defect_type,missing_value,Finishing,
+DQ0330,quality_inspections,QI0003963,primary_defect_type,missing_value,Fabric Flaw,
+DQ0331,quality_inspections,QI0006121,primary_defect_type,missing_value,Finishing,
+DQ0332,quality_inspections,QI0020219,primary_defect_type,missing_value,Stitching,
+DQ0333,quality_inspections,QI0019874,primary_defect_type,missing_value,Measurement,
+DQ0334,quality_inspections,QI0016980,primary_defect_type,missing_value,Finishing,
+DQ0335,quality_inspections,QI0016322,primary_defect_type,missing_value,Fabric Flaw,
+DQ0336,quality_inspections,QI0005192,primary_defect_type,missing_value,Fabric Flaw,
+DQ0337,quality_inspections,QI0004623,primary_defect_type,missing_value,Finishing,
+DQ0338,quality_inspections,QI0010788,primary_defect_type,missing_value,Finishing,
+DQ0339,quality_inspections,QI0015289,primary_defect_type,missing_value,Fabric Flaw,
+DQ0340,quality_inspections,QI0002304,primary_defect_type,missing_value,Colour Mismatch,
+DQ0341,quality_inspections,QI0002779,primary_defect_type,missing_value,Finishing,
+DQ0342,quality_inspections,QI0004190,primary_defect_type,missing_value,Measurement,
+DQ0343,quality_inspections,QI0015522,primary_defect_type,missing_value,Fabric Flaw,
+DQ0344,quality_inspections,QI0019115,primary_defect_type,missing_value,Fabric Flaw,
+DQ0345,quality_inspections,QI0018170,primary_defect_type,missing_value,Stitching,
+DQ0346,quality_inspections,QI0013486,primary_defect_type,missing_value,Finishing,
+DQ0347,quality_inspections,QI0001497,primary_defect_type,missing_value,Colour Mismatch,
+DQ0348,quality_inspections,QI0005313,primary_defect_type,missing_value,Measurement,
+DQ0349,quality_inspections,QI0006331,primary_defect_type,missing_value,Stitching,
+DQ0350,quality_inspections,QI0016320,primary_defect_type,missing_value,Finishing,
+DQ0351,quality_inspections,QI0017246,primary_defect_type,missing_value,Fabric Flaw,
+DQ0352,quality_inspections,QI0015480,primary_defect_type,missing_value,Colour Mismatch,
+DQ0353,quality_inspections,QI0007687,primary_defect_type,missing_value,Measurement,
+DQ0354,quality_inspections,QI0009409,primary_defect_type,missing_value,Stitching,
+DQ0355,quality_inspections,QI0020125,primary_defect_type,missing_value,Finishing,
+DQ0356,quality_inspections,QI0001954,primary_defect_type,missing_value,Fabric Flaw,
+DQ0357,quality_inspections,QI0019717,primary_defect_type,missing_value,Fabric Flaw,
+DQ0358,quality_inspections,QI0003827,primary_defect_type,missing_value,Finishing,
+DQ0359,quality_inspections,QI0004350,primary_defect_type,missing_value,Fabric Flaw,
+DQ0360,quality_inspections,QI0000187,primary_defect_type,missing_value,Measurement,
+DQ0361,quality_inspections,QI0006145,primary_defect_type,missing_value,Fabric Flaw,
+DQ0362,quality_inspections,QI0011424,primary_defect_type,missing_value,Stitching,
+DQ0363,quality_inspections,QI0018331,primary_defect_type,missing_value,Colour Mismatch,
+DQ0364,quality_inspections,QI0002605,primary_defect_type,missing_value,Fabric Flaw,
+DQ0365,quality_inspections,QI0014666,primary_defect_type,missing_value,Fabric Flaw,
+DQ0366,quality_inspections,QI0009845,primary_defect_type,missing_value,Stitching,
+DQ0367,quality_inspections,QI0003802,primary_defect_type,missing_value,Stitching,
+DQ0368,quality_inspections,QI0014348,primary_defect_type,missing_value,Stitching,
+DQ0369,quality_inspections,QI0003711,primary_defect_type,missing_value,Stitching,
+DQ0370,quality_inspections,QI0020005,primary_defect_type,missing_value,Fabric Flaw,
+DQ0371,quality_inspections,QI0011887,primary_defect_type,missing_value,Measurement,
+DQ0372,quality_inspections,QI0011675,primary_defect_type,missing_value,Colour Mismatch,
+DQ0373,quality_inspections,QI0017201,primary_defect_type,missing_value,Finishing,
+DQ0374,quality_inspections,QI0001815,primary_defect_type,missing_value,Fabric Flaw,
+DQ0375,quality_inspections,QI0006400,primary_defect_type,missing_value,Fabric Flaw,
+DQ0376,quality_inspections,QI0003941,primary_defect_type,missing_value,Colour Mismatch,
+DQ0377,quality_inspections,QI0007907,primary_defect_type,missing_value,Fabric Flaw,
+DQ0378,quality_inspections,QI0013814,primary_defect_type,missing_value,Stitching,
+DQ0379,quality_inspections,QI0018009,primary_defect_type,missing_value,Colour Mismatch,
+DQ0380,quality_inspections,QI0006576,primary_defect_type,missing_value,Finishing,
+DQ0381,quality_inspections,QI0016071,primary_defect_type,missing_value,Measurement,
+DQ0382,quality_inspections,QI0016304,primary_defect_type,missing_value,Fabric Flaw,
+DQ0383,quality_inspections,QI0015291,primary_defect_type,missing_value,Colour Mismatch,
+DQ0384,quality_inspections,QI0019525,primary_defect_type,missing_value,Fabric Flaw,
+DQ0385,quality_inspections,QI0013765,primary_defect_type,missing_value,Stitching,
+DQ0386,quality_inspections,QI0012618,primary_defect_type,missing_value,Colour Mismatch,
+DQ0387,quality_inspections,QI0005857,primary_defect_type,missing_value,Colour Mismatch,
+DQ0388,quality_inspections,QI0004390,primary_defect_type,missing_value,Measurement,
+DQ0389,quality_inspections,QI0009441,primary_defect_type,missing_value,Stitching,
+DQ0390,quality_inspections,QI0006428,primary_defect_type,missing_value,Stitching,
+DQ0391,quality_inspections,QI0011529,primary_defect_type,missing_value,Finishing,
+DQ0392,quality_inspections,QI0018012,primary_defect_type,missing_value,Stitching,
+DQ0393,quality_inspections,QI0009229,primary_defect_type,missing_value,Finishing,
+DQ0394,quality_inspections,QI0010899,primary_defect_type,missing_value,Fabric Flaw,
+DQ0395,quality_inspections,QI0005822,primary_defect_type,missing_value,Measurement,
+DQ0396,quality_inspections,QI0007761,primary_defect_type,missing_value,Fabric Flaw,
+DQ0397,quality_inspections,QI0013211,primary_defect_type,missing_value,Fabric Flaw,
+DQ0398,quality_inspections,QI0008993,primary_defect_type,missing_value,Colour Mismatch,
+DQ0399,quality_inspections,QI0003112,primary_defect_type,missing_value,Fabric Flaw,
+DQ0400,quality_inspections,QI0011587,primary_defect_type,missing_value,Stitching,
+DQ0401,quality_inspections,QI0000293,primary_defect_type,missing_value,Measurement,
+DQ0402,quality_inspections,QI0004163,primary_defect_type,missing_value,Fabric Flaw,
+DQ0403,quality_inspections,QI0011354,primary_defect_type,missing_value,Stitching,
+DQ0404,quality_inspections,QI0010509,primary_defect_type,missing_value,Stitching,
+DQ0405,quality_inspections,QI0018976,primary_defect_type,missing_value,Stitching,
+DQ0406,quality_inspections,QI0005179,primary_defect_type,missing_value,Measurement,
+DQ0407,quality_inspections,QI0003049,primary_defect_type,missing_value,Fabric Flaw,
+DQ0408,quality_inspections,QI0000551,primary_defect_type,missing_value,Finishing,
+DQ0409,quality_inspections,QI0003414,primary_defect_type,missing_value,Finishing,
+DQ0410,quality_inspections,QI0017866,primary_defect_type,missing_value,Fabric Flaw,
+DQ0411,quality_inspections,QI0001106,primary_defect_type,missing_value,Colour Mismatch,
+DQ0412,quality_inspections,QI0014578,primary_defect_type,missing_value,Measurement,
+DQ0413,quality_inspections,QI0018328,primary_defect_type,missing_value,Fabric Flaw,
+DQ0414,quality_inspections,QI0007177,primary_defect_type,missing_value,Fabric Flaw,
+DQ0415,quality_inspections,QI0000268,primary_defect_type,missing_value,Colour Mismatch,
+DQ0416,quality_inspections,QI0004275,primary_defect_type,missing_value,Fabric Flaw,
+DQ0417,quality_inspections,QI0019335,primary_defect_type,missing_value,Stitching,
+DQ0418,quality_inspections,QI0006267,primary_defect_type,missing_value,Stitching,
+DQ0419,quality_inspections,QI0020272,primary_defect_type,missing_value,Colour Mismatch,
+DQ0420,quality_inspections,QI0018718,primary_defect_type,missing_value,Fabric Flaw,
+DQ0421,quality_inspections,QI0004820,primary_defect_type,missing_value,Stitching,
+DQ0422,quality_inspections,QI0016370,primary_defect_type,missing_value,Fabric Flaw,
+DQ0423,quality_inspections,QI0005450,primary_defect_type,missing_value,Stitching,
+DQ0424,quality_inspections,QI0017443,primary_defect_type,missing_value,Finishing,
+DQ0425,quality_inspections,QI0006674,primary_defect_type,missing_value,Fabric Flaw,
+DQ0426,quality_inspections,QI0016817,primary_defect_type,missing_value,Finishing,
+DQ0427,quality_inspections,QI0007594,primary_defect_type,missing_value,Finishing,
+DQ0428,quality_inspections,QI0008571,primary_defect_type,missing_value,Finishing,
+DQ0429,quality_inspections,QI0006303,primary_defect_type,missing_value,Finishing,
+DQ0430,quality_inspections,QI0001252,primary_defect_type,missing_value,Stitching,
+DQ0431,quality_inspections,QI0012398,primary_defect_type,missing_value,Measurement,
+DQ0432,quality_inspections,QI0002772,primary_defect_type,missing_value,Fabric Flaw,
+DQ0433,quality_inspections,QI0012482,primary_defect_type,missing_value,Fabric Flaw,
+DQ0434,quality_inspections,QI0020291,primary_defect_type,missing_value,Measurement,
+DQ0435,quality_inspections,QI0016786,primary_defect_type,missing_value,Fabric Flaw,
+DQ0436,quality_inspections,QI0009110,primary_defect_type,missing_value,Stitching,
+DQ0437,quality_inspections,QI0013149,primary_defect_type,missing_value,Fabric Flaw,
+DQ0438,quality_inspections,QI0012190,primary_defect_type,missing_value,Finishing,
+DQ0439,quality_inspections,QI0009547,primary_defect_type,missing_value,Colour Mismatch,
+DQ0440,quality_inspections,QI0015076,primary_defect_type,missing_value,Fabric Flaw,
+DQ0441,quality_inspections,QI0007057,primary_defect_type,missing_value,Stitching,
+DQ0442,quality_inspections,QI0005592,primary_defect_type,missing_value,Stitching,
+DQ0443,quality_inspections,QI0006296,primary_defect_type,missing_value,Finishing,
+DQ0444,quality_inspections,QI0020665,primary_defect_type,missing_value,Finishing,
+DQ0445,quality_inspections,QI0000899,primary_defect_type,missing_value,Fabric Flaw,
+DQ0446,quality_inspections,QI0013959,primary_defect_type,missing_value,Finishing,
+DQ0447,quality_inspections,QI0015839,primary_defect_type,missing_value,Stitching,
+DQ0448,quality_inspections,QI0002619,primary_defect_type,missing_value,Stitching,
+DQ0449,quality_inspections,QI0012633,primary_defect_type,missing_value,Colour Mismatch,
+DQ0450,quality_inspections,QI0001563,primary_defect_type,missing_value,Stitching,
+DQ0451,quality_inspections,QI0006238,primary_defect_type,missing_value,Colour Mismatch,
+DQ0452,quality_inspections,QI0005146,primary_defect_type,missing_value,Measurement,
+DQ0453,quality_inspections,QI0017847,primary_defect_type,missing_value,Finishing,
+DQ0454,quality_inspections,QI0003177,primary_defect_type,missing_value,Stitching,
+DQ0455,quality_inspections,QI0018106,primary_defect_type,missing_value,Colour Mismatch,
+DQ0456,quality_inspections,QI0013653,primary_defect_type,missing_value,Stitching,
+DQ0457,quality_inspections,QI0010765,primary_defect_type,missing_value,Finishing,
+DQ0458,quality_inspections,QI0005185,primary_defect_type,missing_value,Stitching,
+DQ0459,quality_inspections,QI0005455,primary_defect_type,missing_value,Fabric Flaw,
+DQ0460,quality_inspections,QI0016413,primary_defect_type,missing_value,Fabric Flaw,
+DQ0461,quality_inspections,QI0000634,primary_defect_type,missing_value,Colour Mismatch,
+DQ0462,quality_inspections,QI0018707,primary_defect_type,missing_value,Finishing,
+DQ0463,quality_inspections,QI0000158,primary_defect_type,missing_value,Fabric Flaw,
+DQ0464,quality_inspections,QI0008794,primary_defect_type,missing_value,Fabric Flaw,
+DQ0465,quality_inspections,QI0001372,primary_defect_type,missing_value,Colour Mismatch,
+DQ0466,quality_inspections,QI0013115,primary_defect_type,missing_value,Colour Mismatch,
+DQ0467,quality_inspections,QI0019538,primary_defect_type,missing_value,Stitching,
+DQ0468,quality_inspections,QI0000076,primary_defect_type,missing_value,Colour Mismatch,
+DQ0469,quality_inspections,QI0006247,primary_defect_type,missing_value,Finishing,
+DQ0470,quality_inspections,QI0009249,primary_defect_type,missing_value,Stitching,
+DQ0471,quality_inspections,QI0000153,primary_defect_type,missing_value,Fabric Flaw,
+DQ0472,quality_inspections,QI0009378,primary_defect_type,missing_value,Stitching,
+DQ0473,quality_inspections,QI0000628,primary_defect_type,missing_value,Stitching,
+DQ0474,quality_inspections,QI0006904,primary_defect_type,missing_value,Colour Mismatch,
+DQ0475,quality_inspections,QI0017592,primary_defect_type,missing_value,Fabric Flaw,
+DQ0476,quality_inspections,QI0017470,primary_defect_type,missing_value,Fabric Flaw,
+DQ0477,quality_inspections,QI0011859,primary_defect_type,missing_value,Measurement,
+DQ0478,quality_inspections,QI0011035,primary_defect_type,missing_value,Finishing,
+DQ0479,quality_inspections,QI0018384,primary_defect_type,missing_value,Fabric Flaw,
+DQ0480,quality_inspections,QI0017827,primary_defect_type,missing_value,Fabric Flaw,
+DQ0481,quality_inspections,QI0005435,primary_defect_type,missing_value,Colour Mismatch,
+DQ0482,quality_inspections,QI0008867,primary_defect_type,missing_value,Colour Mismatch,
+DQ0483,quality_inspections,QI0002257,primary_defect_type,missing_value,Stitching,
+DQ0484,quality_inspections,QI0008801,primary_defect_type,missing_value,Finishing,
+DQ0485,quality_inspections,QI0011744,primary_defect_type,missing_value,Measurement,
+DQ0486,quality_inspections,QI0002099,primary_defect_type,missing_value,Measurement,
+DQ0487,quality_inspections,QI0007842,primary_defect_type,missing_value,Colour Mismatch,
+DQ0488,quality_inspections,QI0001353,primary_defect_type,missing_value,Fabric Flaw,
+DQ0489,quality_inspections,QI0019496,primary_defect_type,missing_value,Finishing,
+DQ0490,quality_inspections,QI0017432,primary_defect_type,missing_value,Fabric Flaw,
+DQ0491,quality_inspections,QI0012464,primary_defect_type,missing_value,Fabric Flaw,
+DQ0492,quality_inspections,QI0009995,primary_defect_type,missing_value,Finishing,
+DQ0493,quality_inspections,QI0019306,primary_defect_type,missing_value,Colour Mismatch,
+DQ0494,quality_inspections,QI0004587,primary_defect_type,missing_value,Finishing,
+DQ0495,quality_inspections,QI0005139,primary_defect_type,missing_value,Colour Mismatch,
+DQ0496,quality_inspections,QI0002678,primary_defect_type,missing_value,Measurement,
+DQ0497,quality_inspections,QI0007290,primary_defect_type,missing_value,Stitching,
+DQ0498,quality_inspections,QI0020674,primary_defect_type,missing_value,Measurement,
+DQ0499,quality_inspections,QI0013170,primary_defect_type,missing_value,Stitching,
+DQ0500,quality_inspections,QI0009810,primary_defect_type,missing_value,Stitching,
+DQ0501,quality_inspections,QI0016841,primary_defect_type,missing_value,Colour Mismatch,
+DQ0502,quality_inspections,QI0008652,primary_defect_type,missing_value,Measurement,
+DQ0503,quality_inspections,QI0014477,primary_defect_type,missing_value,Measurement,
+DQ0504,quality_inspections,QI0003361,primary_defect_type,missing_value,Fabric Flaw,
+DQ0505,quality_inspections,QI0000448,primary_defect_type,missing_value,Stitching,
+DQ0506,quality_inspections,QI0010352,primary_defect_type,missing_value,Fabric Flaw,
+DQ0507,quality_inspections,QI0018263,primary_defect_type,missing_value,Measurement,
+DQ0508,quality_inspections,QI0001829,primary_defect_type,missing_value,Fabric Flaw,
+DQ0509,quality_inspections,QI0015518,primary_defect_type,missing_value,Fabric Flaw,
+DQ0510,quality_inspections,QI0017263,primary_defect_type,missing_value,Fabric Flaw,
+DQ0511,quality_inspections,QI0012541,primary_defect_type,missing_value,Fabric Flaw,
+DQ0512,quality_inspections,QI0008110,primary_defect_type,missing_value,Stitching,
+DQ0513,quality_inspections,QI0020354,primary_defect_type,missing_value,Stitching,
+DQ0514,quality_inspections,QI0009273,primary_defect_type,missing_value,Measurement,
+DQ0515,quality_inspections,QI0012760,primary_defect_type,missing_value,Fabric Flaw,
+DQ0516,quality_inspections,QI0006875,primary_defect_type,missing_value,Finishing,
+DQ0517,quality_inspections,QI0016184,primary_defect_type,missing_value,Stitching,
+DQ0518,quality_inspections,QI0007098,primary_defect_type,missing_value,Fabric Flaw,
+DQ0519,quality_inspections,QI0019064,primary_defect_type,missing_value,Stitching,
+DQ0520,quality_inspections,QI0014431,primary_defect_type,missing_value,Fabric Flaw,
+DQ0521,quality_inspections,QI0000159,primary_defect_type,missing_value,Finishing,
+DQ0522,quality_inspections,QI0019438,primary_defect_type,missing_value,Fabric Flaw,
+DQ0523,quality_inspections,QI0002438,primary_defect_type,missing_value,Colour Mismatch,
+DQ0524,quality_inspections,QI0007981,primary_defect_type,missing_value,Colour Mismatch,
+DQ0525,quality_inspections,QI0012712,primary_defect_type,missing_value,Fabric Flaw,
+DQ0526,quality_inspections,QI0015186,primary_defect_type,missing_value,Colour Mismatch,
+DQ0527,quality_inspections,QI0015145,primary_defect_type,missing_value,Finishing,
+DQ0528,quality_inspections,QI0014757,primary_defect_type,missing_value,Stitching,
+DQ0529,quality_inspections,QI0001824,primary_defect_type,missing_value,Fabric Flaw,
+DQ0530,quality_inspections,QI0017588,primary_defect_type,missing_value,Fabric Flaw,
+DQ0531,quality_inspections,QI0005061,primary_defect_type,missing_value,Measurement,
+DQ0532,quality_inspections,QI0012921,primary_defect_type,missing_value,Colour Mismatch,
+DQ0533,quality_inspections,QI0018826,primary_defect_type,missing_value,Colour Mismatch,
+DQ0534,quality_inspections,QI0011295,primary_defect_type,missing_value,Fabric Flaw,
+DQ0535,quality_inspections,QI0016527,primary_defect_type,missing_value,Stitching,
+DQ0536,quality_inspections,QI0014753,primary_defect_type,missing_value,Fabric Flaw,
+DQ0537,quality_inspections,QI0005142,primary_defect_type,missing_value,Fabric Flaw,
+DQ0538,quality_inspections,QI0009599,primary_defect_type,missing_value,Fabric Flaw,
+DQ0539,quality_inspections,QI0002486,primary_defect_type,missing_value,Measurement,
+DQ0540,quality_inspections,QI0015880,primary_defect_type,missing_value,Measurement,
+DQ0541,quality_inspections,QI0008371,primary_defect_type,missing_value,Fabric Flaw,
+DQ0542,quality_inspections,QI0018616,primary_defect_type,missing_value,Fabric Flaw,
+DQ0543,quality_inspections,QI0016961,primary_defect_type,missing_value,Fabric Flaw,
+DQ0544,quality_inspections,QI0003447,primary_defect_type,missing_value,Finishing,
+DQ0545,quality_inspections,QI0015047,primary_defect_type,missing_value,Finishing,
+DQ0546,quality_inspections,QI0001113,primary_defect_type,missing_value,Colour Mismatch,
+DQ0547,quality_inspections,QI0005148,primary_defect_type,missing_value,Colour Mismatch,
+DQ0548,quality_inspections,QI0002932,primary_defect_type,missing_value,Measurement,
+DQ0549,quality_inspections,QI0014407,primary_defect_type,missing_value,Finishing,
+DQ0550,quality_inspections,QI0016717,primary_defect_type,missing_value,Stitching,
+DQ0551,quality_inspections,QI0010777,primary_defect_type,missing_value,Finishing,
+DQ0552,quality_inspections,QI0008370,primary_defect_type,missing_value,Colour Mismatch,
+DQ0553,quality_inspections,QI0013224,primary_defect_type,missing_value,Finishing,
+DQ0554,quality_inspections,QI0020140,primary_defect_type,missing_value,Finishing,
+DQ0555,quality_inspections,QI0016193,primary_defect_type,missing_value,Finishing,
+DQ0556,quality_inspections,QI0006135,primary_defect_type,missing_value,Finishing,
+DQ0557,quality_inspections,QI0010335,primary_defect_type,missing_value,Fabric Flaw,
+DQ0558,quality_inspections,QI0014432,primary_defect_type,missing_value,Fabric Flaw,
+DQ0559,quality_inspections,QI0012170,primary_defect_type,missing_value,Measurement,
+DQ0560,quality_inspections,QI0014126,primary_defect_type,missing_value,Measurement,
+DQ0561,quality_inspections,QI0007691,primary_defect_type,missing_value,Stitching,
+DQ0562,quality_inspections,QI0019230,primary_defect_type,missing_value,Measurement,
+DQ0563,quality_inspections,QI0004688,primary_defect_type,missing_value,Stitching,
+DQ0564,quality_inspections,QI0015467,primary_defect_type,missing_value,Fabric Flaw,
+DQ0565,quality_inspections,QI0017583,primary_defect_type,missing_value,Stitching,
+DQ0566,quality_inspections,QI0006670,primary_defect_type,missing_value,Finishing,
+DQ0567,quality_inspections,QI0004750,primary_defect_type,missing_value,Measurement,
+DQ0568,quality_inspections,QI0005678,primary_defect_type,missing_value,Fabric Flaw,
+DQ0569,quality_inspections,QI0018819,primary_defect_type,missing_value,Measurement,
+DQ0570,quality_inspections,QI0001949,primary_defect_type,missing_value,Fabric Flaw,
+DQ0571,quality_inspections,QI0001529,primary_defect_type,missing_value,Finishing,
+DQ0572,quality_inspections,QI0003518,primary_defect_type,missing_value,Colour Mismatch,
+DQ0573,quality_inspections,QI0006166,primary_defect_type,missing_value,Stitching,
+DQ0574,quality_inspections,QI0008108,primary_defect_type,missing_value,Stitching,
+DQ0575,quality_inspections,QI0012609,primary_defect_type,missing_value,Stitching,
+DQ0576,quality_inspections,QI0000504,primary_defect_type,missing_value,Fabric Flaw,
+DQ0577,quality_inspections,QI0006511,primary_defect_type,missing_value,Measurement,
+DQ0578,quality_inspections,QI0019992,primary_defect_type,missing_value,Stitching,
+DQ0579,quality_inspections,QI0013880,primary_defect_type,missing_value,Finishing,
+DQ0580,quality_inspections,QI0013390,primary_defect_type,missing_value,Fabric Flaw,
+DQ0581,quality_inspections,QI0009852,primary_defect_type,missing_value,Measurement,
+DQ0582,quality_inspections,QI0004729,primary_defect_type,missing_value,Stitching,
+DQ0583,quality_inspections,QI0010981,primary_defect_type,missing_value,Stitching,
+DQ0584,quality_inspections,QI0013497,primary_defect_type,missing_value,Finishing,
+DQ0585,quality_inspections,QI0019227,primary_defect_type,missing_value,Stitching,
+DQ0586,quality_inspections,QI0008906,primary_defect_type,missing_value,Measurement,
+DQ0587,quality_inspections,QI0010811,primary_defect_type,missing_value,Fabric Flaw,
+DQ0588,quality_inspections,QI0000860,primary_defect_type,missing_value,Measurement,
+DQ0589,quality_inspections,QI0019938,primary_defect_type,missing_value,Measurement,
+DQ0590,quality_inspections,QI0002233,primary_defect_type,missing_value,Finishing,
+DQ0591,quality_inspections,QI0016999,primary_defect_type,missing_value,Finishing,
+DQ0592,quality_inspections,QI0015040,primary_defect_type,missing_value,Fabric Flaw,
+DQ0593,quality_inspections,QI0000665,primary_defect_type,missing_value,Stitching,
+DQ0594,quality_inspections,QI0018571,primary_defect_type,missing_value,Colour Mismatch,
+DQ0595,quality_inspections,QI0018746,primary_defect_type,missing_value,Stitching,
+DQ0596,quality_inspections,QI0007155,primary_defect_type,missing_value,Colour Mismatch,
+DQ0597,quality_inspections,QI0007473,primary_defect_type,missing_value,Fabric Flaw,
+DQ0598,quality_inspections,QI0001453,primary_defect_type,missing_value,Colour Mismatch,
+DQ0599,quality_inspections,QI0000295,primary_defect_type,missing_value,Measurement,
+DQ0600,quality_inspections,QI0019094,primary_defect_type,missing_value,Colour Mismatch,
+DQ0601,quality_inspections,QI0003138,primary_defect_type,missing_value,Measurement,
+DQ0602,quality_inspections,QI0014628,primary_defect_type,missing_value,Finishing,
+DQ0603,quality_inspections,QI0018243,primary_defect_type,missing_value,Colour Mismatch,
+DQ0604,quality_inspections,QI0013543,primary_defect_type,missing_value,Finishing,
+DQ0605,quality_inspections,QI0009523,primary_defect_type,missing_value,Colour Mismatch,
+DQ0606,quality_inspections,QI0009078,primary_defect_type,missing_value,Colour Mismatch,
+DQ0607,quality_inspections,QI0008481,primary_defect_type,missing_value,Measurement,
+DQ0608,quality_inspections,QI0011908,primary_defect_type,missing_value,Finishing,
+DQ0609,quality_inspections,QI0001518,primary_defect_type,missing_value,Measurement,
+DQ0610,quality_inspections,QI0015753,primary_defect_type,missing_value,Stitching,
+DQ0611,quality_inspections,QI0014351,primary_defect_type,missing_value,Colour Mismatch,
+DQ0612,quality_inspections,QI0013116,primary_defect_type,missing_value,Finishing,
+DQ0613,quality_inspections,QI0004085,primary_defect_type,missing_value,Stitching,
+DQ0614,quality_inspections,QI0005733,primary_defect_type,missing_value,Measurement,
+DQ0615,quality_inspections,QI0008824,primary_defect_type,missing_value,Finishing,
+DQ0616,quality_inspections,QI0005699,primary_defect_type,missing_value,Colour Mismatch,
+DQ0617,quality_inspections,QI0016630,primary_defect_type,missing_value,Measurement,
+DQ0618,quality_inspections,QI0018066,primary_defect_type,missing_value,Fabric Flaw,
+DQ0619,quality_inspections,QI0002534,primary_defect_type,missing_value,Stitching,
+DQ0620,quality_inspections,QI0019636,primary_defect_type,missing_value,Stitching,
+DQ0621,quality_inspections,QI0004538,primary_defect_type,missing_value,Fabric Flaw,
+DQ0622,quality_inspections,QI0006355,primary_defect_type,missing_value,Measurement,
+DQ0623,quality_inspections,QI0006113,primary_defect_type,missing_value,Measurement,
+DQ0624,quality_inspections,QI0004202,primary_defect_type,missing_value,Finishing,
+DQ0625,quality_inspections,QI0010290,primary_defect_type,missing_value,Fabric Flaw,
+DQ0626,quality_inspections,QI0000663,primary_defect_type,missing_value,Finishing,
+DQ0627,quality_inspections,QI0017472,primary_defect_type,missing_value,Colour Mismatch,
+DQ0628,quality_inspections,QI0002357,primary_defect_type,missing_value,Colour Mismatch,
+DQ0629,quality_inspections,QI0012666,primary_defect_type,missing_value,Stitching,
+DQ0630,quality_inspections,QI0005443,primary_defect_type,missing_value,Fabric Flaw,
+DQ0631,quality_inspections,QI0014971,primary_defect_type,missing_value,Stitching,
+DQ0632,quality_inspections,QI0012226,primary_defect_type,missing_value,Fabric Flaw,
+DQ0633,quality_inspections,QI0012729,primary_defect_type,missing_value,Stitching,
+DQ0634,quality_inspections,QI0003122,primary_defect_type,missing_value,Finishing,
+DQ0635,quality_inspections,QI0019699,primary_defect_type,missing_value,Finishing,
+DQ0636,quality_inspections,QI0008629,primary_defect_type,missing_value,Colour Mismatch,
+DQ0637,quality_inspections,QI0014455,primary_defect_type,missing_value,Colour Mismatch,
+DQ0638,quality_inspections,QI0013476,primary_defect_type,missing_value,Fabric Flaw,
+DQ0639,quality_inspections,QI0020662,primary_defect_type,missing_value,Stitching,
+DQ0640,quality_inspections,QI0010575,primary_defect_type,missing_value,Measurement,
+DQ0641,quality_inspections,QI0015828,primary_defect_type,missing_value,Finishing,
+DQ0642,quality_inspections,QI0002077,primary_defect_type,missing_value,Fabric Flaw,
+DQ0643,quality_inspections,QI0003053,primary_defect_type,missing_value,Stitching,
+DQ0644,quality_inspections,QI0016594,primary_defect_type,missing_value,Measurement,
+DQ0645,quality_inspections,QI0011643,primary_defect_type,missing_value,Finishing,
+DQ0646,quality_inspections,QI0012168,primary_defect_type,missing_value,Fabric Flaw,
+DQ0647,quality_inspections,QI0016606,primary_defect_type,missing_value,Colour Mismatch,
+DQ0648,quality_inspections,QI0017436,primary_defect_type,missing_value,Finishing,
+DQ0649,quality_inspections,QI0016949,primary_defect_type,missing_value,Stitching,
+DQ0650,quality_inspections,QI0000376,primary_defect_type,missing_value,Colour Mismatch,
+DQ0651,quality_inspections,QI0012708,primary_defect_type,missing_value,Measurement,
+DQ0652,quality_inspections,QI0019568,primary_defect_type,missing_value,Stitching,
+DQ0653,quality_inspections,QI0015157,primary_defect_type,missing_value,Fabric Flaw,
+DQ0654,quality_inspections,QI0000360,primary_defect_type,missing_value,Colour Mismatch,
+DQ0655,quality_inspections,QI0004954,primary_defect_type,missing_value,Finishing,
+DQ0656,quality_inspections,QI0011098,primary_defect_type,missing_value,Fabric Flaw,
+DQ0657,quality_inspections,QI0018687,primary_defect_type,missing_value,Finishing,
+DQ0658,quality_inspections,QI0001390,primary_defect_type,missing_value,Colour Mismatch,
+DQ0659,suppliers,S027,country,inconsistent_text,Cambodia, Cambodia
+DQ0660,suppliers,S036,country,inconsistent_text,India, India
+DQ0661,suppliers,S025,country,inconsistent_text,Romania, Romania
+DQ0662,suppliers,S003,country,inconsistent_text,Turkey,TURKEY
+DQ0663,suppliers,S020,country,inconsistent_text,Bangladesh,bangladesh
+DQ0664,products,P113,category,inconsistent_text,Jersey & Basics,jersey & basics
+DQ0665,products,P054,category,inconsistent_text,Outerwear,Outerwear 
+DQ0666,products,P003,category,inconsistent_text,Denim,denim
+DQ0667,products,P077,category,inconsistent_text,Footwear, Footwear
+DQ0668,products,P026,category,inconsistent_text,Knitwear,Knitwear 
+DQ0669,products,P133,category,inconsistent_text,Woven & Dresses,WOVEN & DRESSES
+DQ0670,purchase_orders,PO001106,po_status,inconsistent_text,Closed,CLOSED
+DQ0671,purchase_orders,PO006893,po_status,inconsistent_text,Closed,closed
+DQ0672,purchase_orders,PO004647,po_status,inconsistent_text,Closed,CLOSED
+DQ0673,purchase_orders,PO008524,po_status,inconsistent_text,Open, Open
+DQ0674,purchase_orders,PO007731,po_status,inconsistent_text,Closed,Closed 
+DQ0675,purchase_orders,PO003054,po_status,inconsistent_text,Closed,closed
+DQ0676,purchase_orders,PO007383,po_status,inconsistent_text,Closed,Closed 
+DQ0677,purchase_orders,PO006112,po_status,inconsistent_text,Cancelled,Cancelled 
+DQ0678,purchase_orders,PO007648,po_status,inconsistent_text,Closed,closed
+DQ0679,purchase_orders,PO007088,po_status,inconsistent_text,Closed,CLOSED
+DQ0680,purchase_orders,PO004418,po_status,inconsistent_text,Closed,closed
+DQ0681,purchase_orders,PO004904,po_status,inconsistent_text,Closed, Closed
+DQ0682,purchase_orders,PO008019,po_status,inconsistent_text,Open, Open
+DQ0683,purchase_orders,PO006486,po_status,inconsistent_text,Closed,Closed 
+DQ0684,purchase_orders,PO001175,po_status,inconsistent_text,Closed,Closed 
+DQ0685,purchase_orders,PO007781,po_status,inconsistent_text,Closed,closed
+DQ0686,purchase_orders,PO006090,po_status,inconsistent_text,Closed,Closed 
+DQ0687,purchase_orders,PO001261,po_status,inconsistent_text,Closed,closed
+DQ0688,purchase_orders,PO008406,po_status,inconsistent_text,Open,Open 
+DQ0689,purchase_orders,PO004889,po_status,inconsistent_text,Closed, Closed
+DQ0690,purchase_orders,PO003406,po_status,inconsistent_text,Closed, Closed
+DQ0691,purchase_orders,PO003763,po_status,inconsistent_text,Closed,Closed 
+DQ0692,purchase_orders,PO000615,po_status,inconsistent_text,Closed,CLOSED
+DQ0693,purchase_orders,PO006175,po_status,inconsistent_text,Closed,closed
+DQ0694,purchase_orders,PO008350,po_status,inconsistent_text,Partially Received,Partially Received 
+DQ0695,purchase_orders,PO006807,po_status,inconsistent_text,Closed,CLOSED
+DQ0696,purchase_orders,PO004524,po_status,inconsistent_text,Closed, Closed
+DQ0697,purchase_orders,PO002033,po_status,inconsistent_text,Closed,Closed 
+DQ0698,purchase_orders,PO001043,po_status,inconsistent_text,Closed, Closed
+DQ0699,purchase_orders,PO002756,po_status,inconsistent_text,Closed,Closed 
+DQ0700,purchase_orders,PO003271,po_status,inconsistent_text,Closed,closed
+DQ0701,purchase_orders,PO004133,po_status,inconsistent_text,Closed,closed
+DQ0702,purchase_orders,PO008609,po_status,inconsistent_text,Open,open
+DQ0703,purchase_orders,PO004315,po_status,inconsistent_text,Closed,Closed 
+DQ0704,purchase_orders,PO001359,po_status,inconsistent_text,Closed,Closed 
+DQ0705,purchase_orders,PO007439,po_status,inconsistent_text,Closed, Closed
+DQ0706,purchase_orders,PO005509,po_status,inconsistent_text,Closed,closed
+DQ0707,purchase_orders,PO002569,po_status,inconsistent_text,Closed,CLOSED
+DQ0708,purchase_orders,PO001264,po_status,inconsistent_text,Closed, Closed
+DQ0709,purchase_orders,PO003169,po_status,inconsistent_text,Closed, Closed
+DQ0710,purchase_orders,PO003086,po_status,inconsistent_text,Closed,closed
+DQ0711,purchase_orders,PO004399,po_status,inconsistent_text,Closed,Closed 
+DQ0712,purchase_orders,PO005836,po_status,inconsistent_text,Closed,CLOSED
+DQ0713,purchase_orders,PO005348,po_status,inconsistent_text,Closed,Closed 
+DQ0714,purchase_orders,PO004355,po_status,inconsistent_text,Closed,Closed 
+DQ0715,purchase_orders,PO000144,po_status,inconsistent_text,Closed,CLOSED
+DQ0716,purchase_orders,PO001409,po_status,inconsistent_text,Closed, Closed
+DQ0717,purchase_orders,PO001049,po_status,inconsistent_text,Closed,Closed 
+DQ0718,purchase_orders,PO001660,po_status,inconsistent_text,Closed, Closed
+DQ0719,purchase_orders,PO007420,po_status,inconsistent_text,Closed,CLOSED
+DQ0720,purchase_orders,PO006699,po_status,inconsistent_text,Closed,CLOSED
+DQ0721,purchase_orders,PO007404,po_status,inconsistent_text,Closed,closed
+DQ0722,purchase_orders,PO003539,po_status,inconsistent_text,Closed,CLOSED
+DQ0723,purchase_orders,PO008607,po_status,inconsistent_text,Closed,Closed 
+DQ0724,purchase_orders,PO001727,po_status,inconsistent_text,Closed,closed
+DQ0725,purchase_orders,PO007338,po_status,inconsistent_text,Closed,CLOSED
+DQ0726,purchase_orders,PO004368,po_status,inconsistent_text,Closed,Closed 
+DQ0727,purchase_orders,PO006832,po_status,inconsistent_text,Closed, Closed
+DQ0728,purchase_orders,PO000486,po_status,inconsistent_text,Closed,closed
+DQ0729,purchase_orders,PO002706,po_status,inconsistent_text,Closed,closed
+DQ0730,purchase_orders,PO005195,po_status,inconsistent_text,Closed,CLOSED
+DQ0731,purchase_orders,PO000700,po_status,inconsistent_text,Closed,Closed 
+DQ0732,purchase_orders,PO008058,po_status,inconsistent_text,Closed,Closed 
+DQ0733,purchase_orders,PO003185,po_status,inconsistent_text,Closed,CLOSED
+DQ0734,purchase_orders,PO007978,po_status,inconsistent_text,Closed,closed
+DQ0735,purchase_orders,PO007657,po_status,inconsistent_text,Closed,closed
+DQ0736,purchase_orders,PO002984,po_status,inconsistent_text,Closed,Closed 
+DQ0737,purchase_orders,PO006726,po_status,inconsistent_text,Closed,CLOSED
+DQ0738,purchase_orders,PO000730,po_status,inconsistent_text,Closed,CLOSED
+DQ0739,purchase_orders,PO003203,po_status,inconsistent_text,Closed, Closed
+DQ0740,purchase_orders,PO003055,po_status,inconsistent_text,Closed,Closed 
+DQ0741,purchase_orders,PO003669,po_status,inconsistent_text,Closed,Closed 
+DQ0742,purchase_orders,PO008202,po_status,inconsistent_text,Closed,Closed 
+DQ0743,purchase_orders,PO002722,po_status,inconsistent_text,Closed,CLOSED
+DQ0744,purchase_orders,PO001459,po_status,inconsistent_text,Closed, Closed
+DQ0745,purchase_orders,PO006487,po_status,inconsistent_text,Closed,CLOSED
+DQ0746,purchase_orders,PO000557,po_status,inconsistent_text,Closed, Closed
+DQ0747,purchase_orders,PO003194,po_status,inconsistent_text,Closed, Closed
+DQ0748,purchase_orders,PO003276,po_status,inconsistent_text,Closed,CLOSED
+DQ0749,purchase_orders,PO007538,po_status,inconsistent_text,Closed, Closed
+DQ0750,purchase_orders,PO006758,po_status,inconsistent_text,Closed,closed
+DQ0751,purchase_orders,PO007654,po_status,inconsistent_text,Closed,Closed 
+DQ0752,purchase_orders,PO003976,po_status,inconsistent_text,Closed, Closed
+DQ0753,purchase_orders,PO008281,po_status,inconsistent_text,Closed, Closed
+DQ0754,purchase_orders,PO004971,po_status,inconsistent_text,Closed,Closed 
+DQ0755,purchase_orders,PO003914,po_status,inconsistent_text,Closed, Closed
+DQ0756,purchase_orders,PO001912,po_status,inconsistent_text,Closed,CLOSED
+DQ0757,purchase_orders,PO000342,po_status,inconsistent_text,Closed, Closed
+DQ0758,purchase_orders,PO008531,po_status,inconsistent_text,Open,open
+DQ0759,purchase_orders,PO002018,po_status,inconsistent_text,Closed,Closed 
+DQ0760,purchase_orders,PO000158,po_status,inconsistent_text,Closed,Closed 
+DQ0761,purchase_orders,PO003750,po_status,inconsistent_text,Closed,closed
+DQ0762,purchase_orders,PO003640,po_status,inconsistent_text,Closed,closed
+DQ0763,purchase_orders,PO007346,po_status,inconsistent_text,Closed,closed
+DQ0764,purchase_orders,PO005943,po_status,inconsistent_text,Closed, Closed
+DQ0765,purchase_orders,PO008736,po_status,inconsistent_text,Open,Open 
+DQ0766,purchase_orders,PO002685,po_status,inconsistent_text,Closed,closed
+DQ0767,purchase_orders,PO000030,po_status,inconsistent_text,Closed,CLOSED
+DQ0768,purchase_orders,PO008046,po_status,inconsistent_text,Closed,Closed 
+DQ0769,purchase_orders,PO007842,po_status,inconsistent_text,Closed,Closed 
+DQ0770,purchase_orders,PO004939,po_status,inconsistent_text,Closed, Closed
+DQ0771,purchase_orders,PO002810,po_status,inconsistent_text,Closed,Closed 
+DQ0772,purchase_orders,PO000497,po_status,inconsistent_text,Closed,closed
+DQ0773,purchase_orders,PO008611,po_status,inconsistent_text,Cancelled,CANCELLED
+DQ0774,purchase_orders,PO006087,po_status,inconsistent_text,Closed,closed
+DQ0775,purchase_orders,PO005098,po_status,inconsistent_text,Closed,Closed 
+DQ0776,purchase_orders,PO004376,po_status,inconsistent_text,Closed,closed
+DQ0777,purchase_orders,PO000053,po_status,inconsistent_text,Closed,CLOSED
+DQ0778,purchase_orders,PO008163,po_status,inconsistent_text,Closed,closed
+DQ0779,purchase_orders,PO008497,po_status,inconsistent_text,Open,OPEN
+DQ0780,purchase_orders,PO004211,po_status,inconsistent_text,Closed, Closed
+DQ0781,purchase_orders,PO002333,po_status,inconsistent_text,Closed,Closed 
+DQ0782,purchase_orders,PO006301,po_status,inconsistent_text,Closed,Closed 
+DQ0783,purchase_orders,PO004136,po_status,inconsistent_text,Closed, Closed
+DQ0784,purchase_orders,PO002236,po_status,inconsistent_text,Closed, Closed
+DQ0785,purchase_orders,PO000733,po_status,inconsistent_text,Closed,CLOSED
+DQ0786,purchase_orders,PO003007,po_status,inconsistent_text,Closed,CLOSED
+DQ0787,purchase_orders,PO003467,po_status,inconsistent_text,Closed,CLOSED
+DQ0788,purchase_orders,PO006315,po_status,inconsistent_text,Closed, Closed
+DQ0789,purchase_orders,PO001436,po_status,inconsistent_text,Closed,CLOSED
+DQ0790,purchase_orders,PO003188,po_status,inconsistent_text,Closed,CLOSED
+DQ0791,purchase_orders,PO000363,po_status,inconsistent_text,Closed,closed
+DQ0792,purchase_orders,PO002907,po_status,inconsistent_text,Closed,CLOSED
+DQ0793,purchase_orders,PO003878,po_status,inconsistent_text,Closed,closed
+DQ0794,purchase_orders,PO007226,po_status,inconsistent_text,Closed,Closed 
+DQ0795,purchase_orders,PO002059,po_status,inconsistent_text,Closed,CLOSED
+DQ0796,purchase_orders,PO001133,po_status,inconsistent_text,Closed,Closed 
+DQ0797,purchase_orders,PO000817,po_status,inconsistent_text,Closed,CLOSED
+DQ0798,purchase_orders,PO006272,po_status,inconsistent_text,Closed,CLOSED
+DQ0799,purchase_orders,PO007441,po_status,inconsistent_text,Closed,closed
+DQ0800,purchase_orders,PO004360,po_status,inconsistent_text,Closed,Closed 
+DQ0801,purchase_orders,PO006366,po_status,inconsistent_text,Closed, Closed
+DQ0802,purchase_orders,PO006899,po_status,inconsistent_text,Closed,Closed 
+DQ0803,purchase_orders,PO006141,po_status,inconsistent_text,Closed, Closed
+DQ0804,purchase_orders,PO008767,po_status,inconsistent_text,Open,open
+DQ0805,purchase_orders,PO002464,po_status,inconsistent_text,Closed,closed
+DQ0806,purchase_orders,PO007525,po_status,inconsistent_text,Closed, Closed
+DQ0807,purchase_orders,PO008830,po_status,inconsistent_text,Open,OPEN
+DQ0808,purchase_orders,PO002945,po_status,inconsistent_text,Closed, Closed
+DQ0809,purchase_orders,PO002076,po_status,inconsistent_text,Closed,closed
+DQ0810,purchase_orders,PO003506,po_status,inconsistent_text,Closed, Closed
+DQ0811,purchase_orders,PO007466,po_status,inconsistent_text,Closed,Closed 
+DQ0812,purchase_orders,PO001032,po_status,inconsistent_text,Closed,CLOSED
+DQ0813,purchase_orders,PO005770,po_status,inconsistent_text,Closed, Closed
+DQ0814,purchase_orders,PO004150,po_status,inconsistent_text,Closed, Closed
+DQ0815,purchase_orders,PO003048,po_status,inconsistent_text,Closed,closed
+DQ0816,purchase_orders,PO006220,po_status,inconsistent_text,Closed,closed
+DQ0817,purchase_orders,PO004860,po_status,inconsistent_text,Closed,CLOSED
+DQ0818,purchase_orders,PO003430,po_status,inconsistent_text,Closed,closed
+DQ0819,purchase_orders,PO002322,po_status,inconsistent_text,Closed, Closed
+DQ0820,purchase_orders,PO006101,po_status,inconsistent_text,Closed,CLOSED
+DQ0821,purchase_orders,PO005499,po_status,inconsistent_text,Closed,Closed 
+DQ0822,purchase_orders,PO006183,po_status,inconsistent_text,Closed,CLOSED
+DQ0823,purchase_orders,PO000273,po_status,inconsistent_text,Closed,closed
+DQ0824,purchase_orders,PO006785,po_status,inconsistent_text,Closed, Closed
+DQ0825,purchase_orders,PO001341,po_status,inconsistent_text,Closed,CLOSED
+DQ0826,purchase_orders,PO002300,po_status,inconsistent_text,Closed, Closed
+DQ0827,purchase_orders,PO007746,po_status,inconsistent_text,Closed, Closed
+DQ0828,purchase_orders,PO005041,po_status,inconsistent_text,Closed,closed
+DQ0829,purchase_orders,PO005403,po_status,inconsistent_text,Closed, Closed
+DQ0830,purchase_orders,PO005077,po_status,inconsistent_text,Closed, Closed
+DQ0831,purchase_orders,PO006583,po_status,inconsistent_text,Closed, Closed
+DQ0832,purchase_orders,PO003184,po_status,inconsistent_text,Closed,Closed 
+DQ0833,purchase_orders,PO001063,po_status,inconsistent_text,Closed,Closed 
+DQ0834,purchase_orders,PO004114,po_status,inconsistent_text,Closed,Closed 
+DQ0835,purchase_orders,PO006651,po_status,inconsistent_text,Closed,CLOSED
+DQ0836,purchase_orders,PO002690,po_status,inconsistent_text,Closed,closed
+DQ0837,purchase_orders,PO001768,po_status,inconsistent_text,Closed,CLOSED
+DQ0838,purchase_orders,PO006576,po_status,inconsistent_text,Closed, Closed
+DQ0839,purchase_orders,PO002345,po_status,inconsistent_text,Closed, Closed
+DQ0840,purchase_orders,PO007966,po_status,inconsistent_text,Closed,CLOSED
+DQ0841,purchase_orders,PO006857,po_status,inconsistent_text,Closed,CLOSED
+DQ0842,purchase_orders,PO000323,po_status,inconsistent_text,Closed,Closed 
+DQ0843,purchase_orders,PO005880,po_status,inconsistent_text,Closed,Closed 
+DQ0844,purchase_orders,PO006063,po_status,inconsistent_text,Closed,CLOSED
+DQ0845,purchase_orders,PO003057,po_status,inconsistent_text,Closed, Closed
+DQ0846,purchase_orders,PO008572,po_status,inconsistent_text,Open,open
+DQ0847,purchase_orders,PO003555,po_status,inconsistent_text,Closed,closed
+DQ0848,purchase_orders,PO002881,po_status,inconsistent_text,Closed,CLOSED
+DQ0849,purchase_orders,PO003821,po_status,inconsistent_text,Closed,closed
+DQ0850,purchase_orders,PO004456,po_status,inconsistent_text,Closed, Closed
+DQ0851,purchase_orders,PO005852,po_status,inconsistent_text,Closed,CLOSED
+DQ0852,purchase_orders,PO006085,po_status,inconsistent_text,Closed, Closed
+DQ0853,purchase_orders,PO003043,po_status,inconsistent_text,Closed, Closed
+DQ0854,purchase_orders,PO000201,po_status,inconsistent_text,Closed,Closed 
+DQ0855,purchase_orders,PO003767,po_status,inconsistent_text,Closed,Closed 
+DQ0856,purchase_orders,PO000654,po_status,inconsistent_text,Closed,Closed 
+DQ0857,purchase_orders,PO005816,po_status,inconsistent_text,Closed,closed
+DQ0858,purchase_orders,PO002792,po_status,inconsistent_text,Closed, Closed
+DQ0859,purchase_orders,PO005646,po_status,inconsistent_text,Closed,CLOSED
+DQ0860,purchase_orders,PO006258,po_status,inconsistent_text,Closed,CLOSED
+DQ0861,purchase_orders,PO003841,po_status,inconsistent_text,Closed,closed
+DQ0862,purchase_orders,PO002605,po_status,inconsistent_text,Closed,closed
+DQ0863,purchase_orders,PO005342,po_status,inconsistent_text,Closed,CLOSED
+DQ0864,purchase_orders,PO008656,po_status,inconsistent_text,Open, Open
+DQ0865,purchase_orders,PO004354,po_status,inconsistent_text,Closed, Closed
+DQ0866,purchase_orders,PO004098,po_status,inconsistent_text,Closed, Closed
+DQ0867,purchase_orders,PO008267,po_status,inconsistent_text,Closed, Closed
+DQ0868,purchase_orders,PO002073,po_status,inconsistent_text,Closed,closed
+DQ0869,purchase_orders,PO003626,po_status,inconsistent_text,Closed, Closed
+DQ0870,purchase_orders,PO008209,po_status,inconsistent_text,Closed,Closed 
+DQ0871,purchase_orders,PO004479,po_status,inconsistent_text,Closed,Closed 
+DQ0872,purchase_orders,PO000589,po_status,inconsistent_text,Closed,Closed 
+DQ0873,purchase_orders,PO008476,po_status,inconsistent_text,Open,Open 
+DQ0874,purchase_orders,PO005594,po_status,inconsistent_text,Closed,Closed 
+DQ0875,purchase_orders,PO002679,po_status,inconsistent_text,Closed, Closed
+DQ0876,purchase_orders,PO005966,po_status,inconsistent_text,Closed,closed
+DQ0877,purchase_orders,PO005524,po_status,inconsistent_text,Closed, Closed
+DQ0878,purchase_orders,PO004325,po_status,inconsistent_text,Closed,CLOSED
+DQ0879,purchase_orders,PO006619,po_status,inconsistent_text,Closed,CLOSED
+DQ0880,purchase_orders,PO006877,po_status,inconsistent_text,Closed,Closed 
+DQ0881,purchase_orders,PO005630,po_status,inconsistent_text,Closed, Closed
+DQ0882,purchase_orders,PO007825,po_status,inconsistent_text,Closed,Closed 
+DQ0883,purchase_orders,PO001236,po_status,inconsistent_text,Closed,Closed 
+DQ0884,purchase_orders,PO003015,po_status,inconsistent_text,Closed,CLOSED
+DQ0885,purchase_orders,PO000438,po_status,inconsistent_text,Closed,Closed 
+DQ0886,purchase_orders,PO000494,po_status,inconsistent_text,Closed,Closed 
+DQ0887,purchase_orders,PO006680,po_status,inconsistent_text,Closed,Closed 
+DQ0888,purchase_orders,PO002258,po_status,inconsistent_text,Closed,CLOSED
+DQ0889,purchase_orders,PO007299,po_status,inconsistent_text,Closed, Closed
+DQ0890,purchase_orders,PO007421,po_status,inconsistent_text,Closed,closed
+DQ0891,purchase_orders,PO001946,po_status,inconsistent_text,Closed,closed
+DQ0892,purchase_orders,PO001541,po_status,inconsistent_text,Closed,CLOSED
+DQ0893,purchase_orders,PO004306,po_status,inconsistent_text,Closed,closed
+DQ0894,purchase_orders,PO005208,po_status,inconsistent_text,Closed, Closed
+DQ0895,purchase_orders,PO002872,po_status,inconsistent_text,Closed,CLOSED
+DQ0896,purchase_orders,PO006900,po_status,inconsistent_text,Closed,closed
+DQ0897,purchase_orders,PO000879,po_status,inconsistent_text,Closed, Closed
+DQ0898,purchase_orders,PO005829,po_status,inconsistent_text,Closed,closed
+DQ0899,purchase_orders,PO007374,po_status,inconsistent_text,Closed,CLOSED
+DQ0900,purchase_orders,PO007677,po_status,inconsistent_text,Closed,CLOSED
+DQ0901,purchase_orders,PO001119,po_status,inconsistent_text,Closed, Closed
+DQ0902,purchase_orders,PO008284,po_status,inconsistent_text,Open,open
+DQ0903,purchase_orders,PO007130,po_status,inconsistent_text,Closed,Closed 
+DQ0904,purchase_orders,PO005516,po_status,inconsistent_text,Cancelled,CANCELLED
+DQ0905,purchase_orders,PO007211,po_status,inconsistent_text,Closed,CLOSED
+DQ0906,purchase_orders,PO007429,po_status,inconsistent_text,Closed,Closed 
+DQ0907,purchase_orders,PO002531,po_status,inconsistent_text,Closed, Closed
+DQ0908,purchase_orders,PO001247,po_status,inconsistent_text,Closed,closed
+DQ0909,purchase_orders,PO000864,po_status,inconsistent_text,Closed,Closed 
+DQ0910,purchase_orders,PO002273,po_status,inconsistent_text,Closed,Closed 
+DQ0911,purchase_orders,PO005427,po_status,inconsistent_text,Closed,CLOSED
+DQ0912,purchase_orders,PO005006,po_status,inconsistent_text,Closed, Closed
+DQ0913,purchase_orders,PO000028,po_status,inconsistent_text,Closed,Closed 
+DQ0914,purchase_orders,PO004713,po_status,inconsistent_text,Closed,Closed 
+DQ0915,purchase_orders,PO006385,po_status,inconsistent_text,Closed,Closed 
+DQ0916,purchase_orders,PO005845,po_status,inconsistent_text,Closed,Closed 
+DQ0917,purchase_orders,PO006064,po_status,inconsistent_text,Closed,closed
+DQ0918,purchase_orders,PO002503,po_status,inconsistent_text,Closed, Closed
+DQ0919,purchase_orders,PO001925,po_status,inconsistent_text,Closed,Closed 
+DQ0920,purchase_orders,PO002766,po_status,inconsistent_text,Closed,CLOSED
+DQ0921,purchase_orders,PO005451,po_status,inconsistent_text,Closed,closed
+DQ0922,purchase_orders,PO007406,po_status,inconsistent_text,Closed,closed
+DQ0923,purchase_orders,PO001594,po_status,inconsistent_text,Closed,closed
+DQ0924,purchase_orders,PO008390,po_status,inconsistent_text,Closed, Closed
+DQ0925,purchase_orders,PO002581,po_status,inconsistent_text,Closed,closed
+DQ0926,purchase_orders,PO001874,po_status,inconsistent_text,Closed,closed
+DQ0927,purchase_orders,PO005833,po_status,inconsistent_text,Closed,closed
+DQ0928,purchase_orders,PO007045,po_status,inconsistent_text,Closed,closed
+DQ0929,purchase_orders,PO006319,po_status,inconsistent_text,Closed,Closed 
+DQ0930,purchase_orders,PO000149,po_status,inconsistent_text,Closed,CLOSED
+DQ0931,purchase_orders,PO004119,po_status,inconsistent_text,Closed,closed
+DQ0932,purchase_orders,PO005802,po_status,inconsistent_text,Closed,CLOSED
+DQ0933,purchase_orders,PO003220,po_status,inconsistent_text,Closed,closed
+DQ0934,purchase_orders,PO003164,po_status,inconsistent_text,Closed,CLOSED
+DQ0935,deliveries,DL0011854,ship_mode,inconsistent_text,Road, Road
+DQ0936,deliveries,DL0016679,ship_mode,inconsistent_text,Air, Air
+DQ0937,deliveries,DL0004035,ship_mode,inconsistent_text,Road, Road
+DQ0938,deliveries,DL0013473,ship_mode,inconsistent_text,Sea,sea
+DQ0939,deliveries,DL0017857,ship_mode,inconsistent_text,Sea,SEA
+DQ0940,deliveries,DL0000289,ship_mode,inconsistent_text,Road,ROAD
+DQ0941,deliveries,DL0002200,ship_mode,inconsistent_text,Road,ROAD
+DQ0942,deliveries,DL0012010,ship_mode,inconsistent_text,Road,Road 
+DQ0943,deliveries,DL0015556,ship_mode,inconsistent_text,Sea,sea
+DQ0944,deliveries,DL0018467,ship_mode,inconsistent_text,Sea,SEA
+DQ0945,deliveries,DL0019016,ship_mode,inconsistent_text,Air,AIR
+DQ0946,deliveries,DL0017915,ship_mode,inconsistent_text,Sea,SEA
+DQ0947,deliveries,DL0005082,ship_mode,inconsistent_text,Road,road
+DQ0948,deliveries,DL0002236,ship_mode,inconsistent_text,Sea,sea
+DQ0949,deliveries,DL0010773,ship_mode,inconsistent_text,Air,Air 
+DQ0950,deliveries,DL0008041,ship_mode,inconsistent_text,Sea,SEA
+DQ0951,deliveries,DL0001292,ship_mode,inconsistent_text,Sea,Ocean
+DQ0952,deliveries,DL0008233,ship_mode,inconsistent_text,Air,air
+DQ0953,deliveries,DL0007873,ship_mode,inconsistent_text,Sea,Sea 
+DQ0954,deliveries,DL0019497,ship_mode,inconsistent_text,Air,Air Freight
+DQ0955,deliveries,DL0012077,ship_mode,inconsistent_text,Air,AIR
+DQ0956,deliveries,DL0005193,ship_mode,inconsistent_text,Sea,SEA
+DQ0957,deliveries,DL0011543,ship_mode,inconsistent_text,Road,ROAD
+DQ0958,deliveries,DL0005795,ship_mode,inconsistent_text,Road,road
+DQ0959,deliveries,DL0009790,ship_mode,inconsistent_text,Sea, Sea
+DQ0960,deliveries,DL0001932,ship_mode,inconsistent_text,Sea,Ocean
+DQ0961,deliveries,DL0005926,ship_mode,inconsistent_text,Air,air
+DQ0962,deliveries,DL0012228,ship_mode,inconsistent_text,Sea,Ocean
+DQ0963,deliveries,DL0012374,ship_mode,inconsistent_text,Sea, Sea
+DQ0964,deliveries,DL0010067,ship_mode,inconsistent_text,Sea,SEA
+DQ0965,deliveries,DL0013936,ship_mode,inconsistent_text,Air,air
+DQ0966,deliveries,DL0002448,ship_mode,inconsistent_text,Sea,sea
+DQ0967,deliveries,DL0015054,ship_mode,inconsistent_text,Sea, Sea
+DQ0968,deliveries,DL0006563,ship_mode,inconsistent_text,Road,Road 
+DQ0969,deliveries,DL0004081,ship_mode,inconsistent_text,Sea, Sea
+DQ0970,deliveries,DL0013858,ship_mode,inconsistent_text,Road,Road 
+DQ0971,deliveries,DL0000912,ship_mode,inconsistent_text,Sea,SEA
+DQ0972,deliveries,DL0019458,ship_mode,inconsistent_text,Sea,Ocean
+DQ0973,deliveries,DL0003088,ship_mode,inconsistent_text,Sea,Ocean
+DQ0974,deliveries,DL0001759,ship_mode,inconsistent_text,Sea,sea
+DQ0975,deliveries,DL0010685,ship_mode,inconsistent_text,Sea, Sea
+DQ0976,deliveries,DL0011882,ship_mode,inconsistent_text,Air, Air
+DQ0977,deliveries,DL0013292,ship_mode,inconsistent_text,Sea, Sea
+DQ0978,deliveries,DL0010897,ship_mode,inconsistent_text,Sea,Ocean
+DQ0979,deliveries,DL0001833,ship_mode,inconsistent_text,Sea,Sea 
+DQ0980,deliveries,DL0017872,ship_mode,inconsistent_text,Sea,sea
+DQ0981,deliveries,DL0005706,ship_mode,inconsistent_text,Road,road
+DQ0982,deliveries,DL0005504,ship_mode,inconsistent_text,Sea,Sea 
+DQ0983,deliveries,DL0007336,ship_mode,inconsistent_text,Air,AIR
+DQ0984,deliveries,DL0018042,ship_mode,inconsistent_text,Air,air
+DQ0985,deliveries,DL0018694,ship_mode,inconsistent_text,Road, Road
+DQ0986,deliveries,DL0001656,ship_mode,inconsistent_text,Road,ROAD
+DQ0987,deliveries,DL0012832,ship_mode,inconsistent_text,Sea,Sea 
+DQ0988,deliveries,DL0017737,ship_mode,inconsistent_text,Sea,sea
+DQ0989,deliveries,DL0005248,ship_mode,inconsistent_text,Sea,Ocean
+DQ0990,deliveries,DL0001242,ship_mode,inconsistent_text,Road, Road
+DQ0991,deliveries,DL0004793,ship_mode,inconsistent_text,Sea,sea
+DQ0992,deliveries,DL0011319,ship_mode,inconsistent_text,Sea,sea
+DQ0993,deliveries,DL0002254,ship_mode,inconsistent_text,Sea,sea
+DQ0994,deliveries,DL0010455,ship_mode,inconsistent_text,Sea, Sea
+DQ0995,deliveries,DL0010353,ship_mode,inconsistent_text,Sea,SEA
+DQ0996,deliveries,DL0008691,ship_mode,inconsistent_text,Sea,sea
+DQ0997,deliveries,DL0016406,ship_mode,inconsistent_text,Sea,Ocean
+DQ0998,deliveries,DL0011206,ship_mode,inconsistent_text,Sea, Sea
+DQ0999,deliveries,DL0000699,ship_mode,inconsistent_text,Sea,Ocean
+DQ1000,deliveries,DL0007627,ship_mode,inconsistent_text,Sea, Sea
+DQ1001,deliveries,DL0014181,ship_mode,inconsistent_text,Sea,Sea 
+DQ1002,deliveries,DL0015781,ship_mode,inconsistent_text,Sea,Ocean
+DQ1003,deliveries,DL0015704,ship_mode,inconsistent_text,Air, Air
+DQ1004,deliveries,DL0006210,ship_mode,inconsistent_text,Air, Air
+DQ1005,deliveries,DL0006792,ship_mode,inconsistent_text,Sea, Sea
+DQ1006,deliveries,DL0009307,ship_mode,inconsistent_text,Sea,Ocean
+DQ1007,deliveries,DL0020102,ship_mode,inconsistent_text,Sea,SEA
+DQ1008,deliveries,DL0004565,ship_mode,inconsistent_text,Air,Air Freight
+DQ1009,deliveries,DL0015558,ship_mode,inconsistent_text,Sea,SEA
+DQ1010,deliveries,DL0008601,ship_mode,inconsistent_text,Sea,sea
+DQ1011,deliveries,DL0018543,ship_mode,inconsistent_text,Sea, Sea
+DQ1012,deliveries,DL0018716,ship_mode,inconsistent_text,Air,air
+DQ1013,deliveries,DL0009239,ship_mode,inconsistent_text,Sea,sea
+DQ1014,deliveries,DL0000229,ship_mode,inconsistent_text,Road, Road
+DQ1015,deliveries,DL0010631,ship_mode,inconsistent_text,Air,air
+DQ1016,deliveries,DL0008230,ship_mode,inconsistent_text,Sea,Sea 
+DQ1017,deliveries,DL0019306,ship_mode,inconsistent_text,Air, Air
+DQ1018,deliveries,DL0009815,ship_mode,inconsistent_text,Road,Truck
+DQ1019,deliveries,DL0017502,ship_mode,inconsistent_text,Sea, Sea
+DQ1020,deliveries,DL0003675,ship_mode,inconsistent_text,Sea,Sea 
+DQ1021,deliveries,DL0019572,ship_mode,inconsistent_text,Air,Air 
+DQ1022,deliveries,DL0013924,ship_mode,inconsistent_text,Sea,sea
+DQ1023,deliveries,DL0014534,ship_mode,inconsistent_text,Road,Road 
+DQ1024,deliveries,DL0019036,ship_mode,inconsistent_text,Air, Air
+DQ1025,deliveries,DL0003573,ship_mode,inconsistent_text,Sea,Ocean
+DQ1026,deliveries,DL0015857,ship_mode,inconsistent_text,Air,Air Freight
+DQ1027,deliveries,DL0018430,ship_mode,inconsistent_text,Air,AIR
+DQ1028,deliveries,DL0004898,ship_mode,inconsistent_text,Air,AIR
+DQ1029,deliveries,DL0002080,ship_mode,inconsistent_text,Air, Air
+DQ1030,deliveries,DL0011193,ship_mode,inconsistent_text,Sea,SEA
+DQ1031,deliveries,DL0016936,ship_mode,inconsistent_text,Sea,SEA
+DQ1032,deliveries,DL0016283,ship_mode,inconsistent_text,Road,road
+DQ1033,deliveries,DL0010048,ship_mode,inconsistent_text,Air, Air
+DQ1034,deliveries,DL0006914,ship_mode,inconsistent_text,Road,road
+DQ1035,deliveries,DL0006472,ship_mode,inconsistent_text,Sea,sea
+DQ1036,deliveries,DL0017436,ship_mode,inconsistent_text,Road, Road
+DQ1037,deliveries,DL0003321,ship_mode,inconsistent_text,Sea,Ocean
+DQ1038,deliveries,DL0000147,ship_mode,inconsistent_text,Sea, Sea
+DQ1039,deliveries,DL0004948,ship_mode,inconsistent_text,Sea, Sea
+DQ1040,deliveries,DL0015820,ship_mode,inconsistent_text,Sea,sea
+DQ1041,deliveries,DL0018408,ship_mode,inconsistent_text,Air,Air Freight
+DQ1042,deliveries,DL0006352,ship_mode,inconsistent_text,Sea, Sea
+DQ1043,deliveries,DL0017176,ship_mode,inconsistent_text,Sea,SEA
+DQ1044,deliveries,DL0006983,ship_mode,inconsistent_text,Road,Truck
+DQ1045,deliveries,DL0016161,ship_mode,inconsistent_text,Road,ROAD
+DQ1046,deliveries,DL0014941,ship_mode,inconsistent_text,Air,air
+DQ1047,deliveries,DL0016167,ship_mode,inconsistent_text,Road, Road
+DQ1048,deliveries,DL0003173,ship_mode,inconsistent_text,Road,Truck
+DQ1049,deliveries,DL0000188,ship_mode,inconsistent_text,Sea,Ocean
+DQ1050,deliveries,DL0001106,ship_mode,inconsistent_text,Sea,SEA
+DQ1051,deliveries,DL0013748,ship_mode,inconsistent_text,Air,AIR
+DQ1052,deliveries,DL0011482,ship_mode,inconsistent_text,Sea,Ocean
+DQ1053,deliveries,DL0019354,ship_mode,inconsistent_text,Road, Road
+DQ1054,deliveries,DL0018852,ship_mode,inconsistent_text,Road,Truck
+DQ1055,deliveries,DL0007117,ship_mode,inconsistent_text,Sea,SEA
+DQ1056,deliveries,DL0014910,ship_mode,inconsistent_text,Sea,Ocean
+DQ1057,deliveries,DL0017031,ship_mode,inconsistent_text,Road, Road
+DQ1058,deliveries,DL0008799,ship_mode,inconsistent_text,Sea,sea
+DQ1059,deliveries,DL0019431,ship_mode,inconsistent_text,Road, Road
+DQ1060,deliveries,DL0003661,ship_mode,inconsistent_text,Sea,SEA
+DQ1061,deliveries,DL0004976,ship_mode,inconsistent_text,Air,air
+DQ1062,deliveries,DL0018763,ship_mode,inconsistent_text,Sea,Sea 
+DQ1063,deliveries,DL0016160,ship_mode,inconsistent_text,Road, Road
+DQ1064,deliveries,DL0014004,ship_mode,inconsistent_text,Sea,Ocean
+DQ1065,deliveries,DL0004408,ship_mode,inconsistent_text,Sea, Sea
+DQ1066,deliveries,DL0009130,ship_mode,inconsistent_text,Air,air
+DQ1067,deliveries,DL0007404,ship_mode,inconsistent_text,Air,Air 
+DQ1068,deliveries,DL0007264,ship_mode,inconsistent_text,Road,ROAD
+DQ1069,deliveries,DL0002351,ship_mode,inconsistent_text,Road, Road
+DQ1070,deliveries,DL0016632,ship_mode,inconsistent_text,Sea,SEA
+DQ1071,deliveries,DL0000569,ship_mode,inconsistent_text,Air,Air Freight
+DQ1072,deliveries,DL0003970,ship_mode,inconsistent_text,Air,Air Freight
+DQ1073,deliveries,DL0010191,ship_mode,inconsistent_text,Sea, Sea
+DQ1074,deliveries,DL0019970,ship_mode,inconsistent_text,Air, Air
+DQ1075,deliveries,DL0000847,ship_mode,inconsistent_text,Road, Road
+DQ1076,deliveries,DL0011950,ship_mode,inconsistent_text,Road,road
+DQ1077,deliveries,DL0007547,ship_mode,inconsistent_text,Sea,sea
+DQ1078,deliveries,DL0002932,ship_mode,inconsistent_text,Air,air
+DQ1079,deliveries,DL0008409,ship_mode,inconsistent_text,Sea, Sea
+DQ1080,deliveries,DL0017107,ship_mode,inconsistent_text,Sea,SEA
+DQ1081,deliveries,DL0003056,ship_mode,inconsistent_text,Sea,Ocean
+DQ1082,deliveries,DL0007387,ship_mode,inconsistent_text,Sea,sea
+DQ1083,deliveries,DL0010729,ship_mode,inconsistent_text,Road,ROAD
+DQ1084,deliveries,DL0019669,ship_mode,inconsistent_text,Sea,sea
+DQ1085,deliveries,DL0013199,ship_mode,inconsistent_text,Sea,Ocean
+DQ1086,deliveries,DL0001783,ship_mode,inconsistent_text,Road, Road
+DQ1087,deliveries,DL0006397,ship_mode,inconsistent_text,Road,ROAD
+DQ1088,deliveries,DL0006813,ship_mode,inconsistent_text,Road,ROAD
+DQ1089,deliveries,DL0000502,ship_mode,inconsistent_text,Sea,SEA
+DQ1090,deliveries,DL0003290,ship_mode,inconsistent_text,Sea,Sea 
+DQ1091,deliveries,DL0019578,ship_mode,inconsistent_text,Air, Air
+DQ1092,deliveries,DL0013348,ship_mode,inconsistent_text,Air,air
+DQ1093,deliveries,DL0005835,ship_mode,inconsistent_text,Air,Air 
+DQ1094,deliveries,DL0013409,ship_mode,inconsistent_text,Air,Air 
+DQ1095,deliveries,DL0019311,ship_mode,inconsistent_text,Air,Air 
+DQ1096,deliveries,DL0014516,ship_mode,inconsistent_text,Sea,SEA
+DQ1097,deliveries,DL0000090,ship_mode,inconsistent_text,Road,Truck
+DQ1098,deliveries,DL0000647,ship_mode,inconsistent_text,Sea, Sea
+DQ1099,deliveries,DL0004479,ship_mode,inconsistent_text,Air,air
+DQ1100,deliveries,DL0014742,ship_mode,inconsistent_text,Air, Air
+DQ1101,deliveries,DL0008081,ship_mode,inconsistent_text,Sea,Sea 
+DQ1102,deliveries,DL0007858,ship_mode,inconsistent_text,Sea,SEA
+DQ1103,deliveries,DL0019373,ship_mode,inconsistent_text,Air,Air Freight
+DQ1104,deliveries,DL0003803,ship_mode,inconsistent_text,Sea,sea
+DQ1105,deliveries,DL0007736,ship_mode,inconsistent_text,Road,ROAD
+DQ1106,deliveries,DL0018374,ship_mode,inconsistent_text,Air, Air
+DQ1107,deliveries,DL0018569,ship_mode,inconsistent_text,Sea,Sea 
+DQ1108,deliveries,DL0001398,ship_mode,inconsistent_text,Road,Road 
+DQ1109,deliveries,DL0002375,ship_mode,inconsistent_text,Sea, Sea
+DQ1110,deliveries,DL0019975,ship_mode,inconsistent_text,Air,Air Freight
+DQ1111,deliveries,DL0011831,ship_mode,inconsistent_text,Road, Road
+DQ1112,deliveries,DL0019942,ship_mode,inconsistent_text,Sea,sea
+DQ1113,deliveries,DL0016036,ship_mode,inconsistent_text,Air,Air 
+DQ1114,deliveries,DL0007911,ship_mode,inconsistent_text,Sea,sea
+DQ1115,deliveries,DL0015087,ship_mode,inconsistent_text,Sea,SEA
+DQ1116,deliveries,DL0016570,ship_mode,inconsistent_text,Sea, Sea
+DQ1117,deliveries,DL0012907,ship_mode,inconsistent_text,Sea,sea
+DQ1118,deliveries,DL0008342,ship_mode,inconsistent_text,Sea,Ocean
+DQ1119,deliveries,DL0013055,ship_mode,inconsistent_text,Sea,Ocean
+DQ1120,deliveries,DL0014636,ship_mode,inconsistent_text,Road,Road 
+DQ1121,deliveries,DL0002341,ship_mode,inconsistent_text,Sea, Sea
+DQ1122,deliveries,DL0013081,ship_mode,inconsistent_text,Sea,sea
+DQ1123,deliveries,DL0005818,ship_mode,inconsistent_text,Sea,sea
+DQ1124,deliveries,DL0016083,ship_mode,inconsistent_text,Air,Air 
+DQ1125,deliveries,DL0016621,ship_mode,inconsistent_text,Air,air
+DQ1126,deliveries,DL0014779,ship_mode,inconsistent_text,Sea,Ocean
+DQ1127,deliveries,DL0005951,ship_mode,inconsistent_text,Air,AIR
+DQ1128,deliveries,DL0015253,ship_mode,inconsistent_text,Sea,SEA
+DQ1129,deliveries,DL0012871,ship_mode,inconsistent_text,Sea,Sea 
+DQ1130,deliveries,DL0013652,ship_mode,inconsistent_text,Sea, Sea
+DQ1131,deliveries,DL0018395,ship_mode,inconsistent_text,Road, Road
+DQ1132,deliveries,DL0012566,ship_mode,inconsistent_text,Sea,sea
+DQ1133,deliveries,DL0005379,ship_mode,inconsistent_text,Road,ROAD
+DQ1134,deliveries,DL0002325,ship_mode,inconsistent_text,Sea,SEA
+DQ1135,deliveries,DL0010939,ship_mode,inconsistent_text,Air,Air 
+DQ1136,deliveries,DL0000702,ship_mode,inconsistent_text,Sea,SEA
+DQ1137,deliveries,DL0016522,ship_mode,inconsistent_text,Road,Road 
+DQ1138,deliveries,DL0008796,ship_mode,inconsistent_text,Sea,sea
+DQ1139,deliveries,DL0016797,ship_mode,inconsistent_text,Sea,Ocean
+DQ1140,deliveries,DL0018819,ship_mode,inconsistent_text,Sea,Ocean
+DQ1141,deliveries,DL0003445,ship_mode,inconsistent_text,Sea,sea
+DQ1142,deliveries,DL0019577,ship_mode,inconsistent_text,Sea,Ocean
+DQ1143,deliveries,DL0000327,ship_mode,inconsistent_text,Road,Truck
+DQ1144,deliveries,DL0016068,ship_mode,inconsistent_text,Road,Road 
+DQ1145,deliveries,DL0013930,ship_mode,inconsistent_text,Road,Road 
+DQ1146,deliveries,DL0008519,ship_mode,inconsistent_text,Sea,SEA
+DQ1147,deliveries,DL0012123,ship_mode,inconsistent_text,Road,road
+DQ1148,deliveries,DL0013360,ship_mode,inconsistent_text,Sea, Sea
+DQ1149,deliveries,DL0015399,ship_mode,inconsistent_text,Sea,SEA
+DQ1150,deliveries,DL0012992,ship_mode,inconsistent_text,Road,Road 
+DQ1151,deliveries,DL0011603,ship_mode,inconsistent_text,Sea, Sea
+DQ1152,deliveries,DL0011466,ship_mode,inconsistent_text,Road, Road
+DQ1153,deliveries,DL0003376,ship_mode,inconsistent_text,Road,road
+DQ1154,deliveries,DL0006899,ship_mode,inconsistent_text,Air,Air Freight
+DQ1155,deliveries,DL0016233,ship_mode,inconsistent_text,Sea,sea
+DQ1156,deliveries,DL0019237,ship_mode,inconsistent_text,Sea,SEA
+DQ1157,deliveries,DL0013298,ship_mode,inconsistent_text,Road, Road
+DQ1158,deliveries,DL0000773,ship_mode,inconsistent_text,Sea,SEA
+DQ1159,deliveries,DL0014284,ship_mode,inconsistent_text,Sea,SEA
+DQ1160,deliveries,DL0011239,ship_mode,inconsistent_text,Sea,sea
+DQ1161,deliveries,DL0003270,ship_mode,inconsistent_text,Road,Road 
+DQ1162,deliveries,DL0017888,ship_mode,inconsistent_text,Air,Air Freight
+DQ1163,deliveries,DL0001231,ship_mode,inconsistent_text,Air,Air Freight
+DQ1164,deliveries,DL0004558,ship_mode,inconsistent_text,Sea,Ocean
+DQ1165,deliveries,DL0006503,ship_mode,inconsistent_text,Sea,SEA
+DQ1166,deliveries,DL0002749,ship_mode,inconsistent_text,Sea,Ocean
+DQ1167,deliveries,DL0013692,ship_mode,inconsistent_text,Sea,Sea 
+DQ1168,deliveries,DL0013941,ship_mode,inconsistent_text,Sea,sea
+DQ1169,deliveries,DL0014070,ship_mode,inconsistent_text,Road,ROAD
+DQ1170,deliveries,DL0010520,ship_mode,inconsistent_text,Road,Truck
+DQ1171,deliveries,DL0011423,ship_mode,inconsistent_text,Sea,SEA
+DQ1172,deliveries,DL0014793,ship_mode,inconsistent_text,Sea, Sea
+DQ1173,deliveries,DL0001934,ship_mode,inconsistent_text,Sea,SEA
+DQ1174,deliveries,DL0005512,ship_mode,inconsistent_text,Sea,Sea 
+DQ1175,deliveries,DL0019189,ship_mode,inconsistent_text,Air,Air Freight
+DQ1176,deliveries,DL0016767,ship_mode,inconsistent_text,Sea,Ocean
+DQ1177,deliveries,DL0013093,ship_mode,inconsistent_text,Air, Air
+DQ1178,deliveries,DL0007051,ship_mode,inconsistent_text,Air, Air
+DQ1179,deliveries,DL0007979,ship_mode,inconsistent_text,Road,ROAD
+DQ1180,deliveries,DL0007742,ship_mode,inconsistent_text,Road,Road 
+DQ1181,deliveries,DL0011772,ship_mode,inconsistent_text,Sea,SEA
+DQ1182,deliveries,DL0016762,ship_mode,inconsistent_text,Air,Air Freight
+DQ1183,deliveries,DL0003942,ship_mode,inconsistent_text,Sea,Sea 
+DQ1184,deliveries,DL0011300,ship_mode,inconsistent_text,Sea,sea
+DQ1185,deliveries,DL0002945,ship_mode,inconsistent_text,Sea,SEA
+DQ1186,deliveries,DL0012257,ship_mode,inconsistent_text,Sea, Sea
+DQ1187,deliveries,DL0019554,ship_mode,inconsistent_text,Sea,Ocean
+DQ1188,deliveries,DL0001517,ship_mode,inconsistent_text,Air,Air Freight
+DQ1189,deliveries,DL0002188,ship_mode,inconsistent_text,Sea,Sea 
+DQ1190,deliveries,DL0000995,ship_mode,inconsistent_text,Sea,Sea 
+DQ1191,deliveries,DL0006128,ship_mode,inconsistent_text,Air,air
+DQ1192,deliveries,DL0007247,ship_mode,inconsistent_text,Sea,sea
+DQ1193,deliveries,DL0011776,ship_mode,inconsistent_text,Air, Air
+DQ1194,deliveries,DL0018372,ship_mode,inconsistent_text,Sea, Sea
+DQ1195,deliveries,DL0013529,ship_mode,inconsistent_text,Sea,SEA
+DQ1196,deliveries,DL0002243,ship_mode,inconsistent_text,Air,Air Freight
+DQ1197,deliveries,DL0006447,ship_mode,inconsistent_text,Sea,SEA
+DQ1198,deliveries,DL0007368,ship_mode,inconsistent_text,Sea,Ocean
+DQ1199,deliveries,DL0004260,ship_mode,inconsistent_text,Air,air
+DQ1200,deliveries,DL0000471,ship_mode,inconsistent_text,Sea,Ocean
+DQ1201,deliveries,DL0015528,ship_mode,inconsistent_text,Sea,sea
+DQ1202,deliveries,DL0018077,ship_mode,inconsistent_text,Sea,Sea 
+DQ1203,deliveries,DL0012595,ship_mode,inconsistent_text,Sea,Ocean
+DQ1204,deliveries,DL0003541,ship_mode,inconsistent_text,Sea,Ocean
+DQ1205,deliveries,DL0011360,ship_mode,inconsistent_text,Sea,SEA
+DQ1206,deliveries,DL0002124,ship_mode,inconsistent_text,Sea, Sea
+DQ1207,deliveries,DL0010614,ship_mode,inconsistent_text,Road, Road
+DQ1208,deliveries,DL0014951,ship_mode,inconsistent_text,Sea, Sea
+DQ1209,deliveries,DL0001146,ship_mode,inconsistent_text,Sea,sea
+DQ1210,deliveries,DL0011985,ship_mode,inconsistent_text,Sea,sea
+DQ1211,deliveries,DL0014143,ship_mode,inconsistent_text,Sea, Sea
+DQ1212,deliveries,DL0001464,ship_mode,inconsistent_text,Sea,SEA
+DQ1213,deliveries,DL0001342,ship_mode,inconsistent_text,Air, Air
+DQ1214,deliveries,DL0010812,ship_mode,inconsistent_text,Sea,Sea 
+DQ1215,deliveries,DL0003440,ship_mode,inconsistent_text,Air,Air Freight
+DQ1216,deliveries,DL0010483,ship_mode,inconsistent_text,Sea,SEA
+DQ1217,deliveries,DL0002970,ship_mode,inconsistent_text,Air, Air
+DQ1218,deliveries,DL0012542,ship_mode,inconsistent_text,Air, Air
+DQ1219,deliveries,DL0006157,ship_mode,inconsistent_text,Air, Air
+DQ1220,deliveries,DL0016405,ship_mode,inconsistent_text,Road,ROAD
+DQ1221,deliveries,DL0019615,ship_mode,inconsistent_text,Air,Air 
+DQ1222,deliveries,DL0015331,ship_mode,inconsistent_text,Air,air
+DQ1223,deliveries,DL0005139,ship_mode,inconsistent_text,Air,air
+DQ1224,deliveries,DL0010477,ship_mode,inconsistent_text,Road,road
+DQ1225,deliveries,DL0001472,ship_mode,inconsistent_text,Air,AIR
+DQ1226,deliveries,DL0004832,ship_mode,inconsistent_text,Sea, Sea
+DQ1227,deliveries,DL0011125,ship_mode,inconsistent_text,Sea,Sea 
+DQ1228,deliveries,DL0003007,ship_mode,inconsistent_text,Sea, Sea
+DQ1229,deliveries,DL0009337,ship_mode,inconsistent_text,Sea,Ocean
+DQ1230,deliveries,DL0000476,ship_mode,inconsistent_text,Road,Road 
+DQ1231,deliveries,DL0016822,ship_mode,inconsistent_text,Sea,Ocean
+DQ1232,deliveries,DL0005497,ship_mode,inconsistent_text,Sea,sea
+DQ1233,deliveries,DL0016038,ship_mode,inconsistent_text,Sea,Sea 
+DQ1234,deliveries,DL0010869,ship_mode,inconsistent_text,Road,road
+DQ1235,deliveries,DL0003968,ship_mode,inconsistent_text,Sea,Sea 
+DQ1236,deliveries,DL0015551,ship_mode,inconsistent_text,Road, Road
+DQ1237,deliveries,DL0018002,ship_mode,inconsistent_text,Sea,SEA
+DQ1238,deliveries,DL0007866,ship_mode,inconsistent_text,Sea,Sea 
+DQ1239,deliveries,DL0016169,ship_mode,inconsistent_text,Road,ROAD
+DQ1240,deliveries,DL0007391,ship_mode,inconsistent_text,Road,road
+DQ1241,deliveries,DL0001216,ship_mode,inconsistent_text,Road, Road
+DQ1242,deliveries,DL0009393,ship_mode,inconsistent_text,Air,air
+DQ1243,deliveries,DL0003575,ship_mode,inconsistent_text,Sea,SEA
+DQ1244,deliveries,DL0005034,ship_mode,inconsistent_text,Sea,SEA
+DQ1245,deliveries,DL0013405,ship_mode,inconsistent_text,Sea,Ocean
+DQ1246,deliveries,DL0001164,ship_mode,inconsistent_text,Sea,sea
+DQ1247,deliveries,DL0009336,ship_mode,inconsistent_text,Sea, Sea
+DQ1248,deliveries,DL0018449,ship_mode,inconsistent_text,Road,road
+DQ1249,deliveries,DL0000116,ship_mode,inconsistent_text,Road, Road
+DQ1250,deliveries,DL0010009,ship_mode,inconsistent_text,Air,Air 
+DQ1251,deliveries,DL0018178,ship_mode,inconsistent_text,Sea,SEA
+DQ1252,deliveries,DL0018999,ship_mode,inconsistent_text,Air,Air Freight
+DQ1253,deliveries,DL0013022,ship_mode,inconsistent_text,Road,road
+DQ1254,deliveries,DL0007738,ship_mode,inconsistent_text,Road,Truck
+DQ1255,deliveries,DL0013976,ship_mode,inconsistent_text,Road,Road 
+DQ1256,deliveries,DL0019754,ship_mode,inconsistent_text,Sea, Sea
+DQ1257,deliveries,DL0014327,ship_mode,inconsistent_text,Road,road
+DQ1258,deliveries,DL0017078,ship_mode,inconsistent_text,Air,Air 
+DQ1259,deliveries,DL0017877,ship_mode,inconsistent_text,Sea, Sea
+DQ1260,deliveries,DL0019817,ship_mode,inconsistent_text,Sea,SEA
+DQ1261,deliveries,DL0010375,ship_mode,inconsistent_text,Sea,Sea 
+DQ1262,deliveries,DL0008578,ship_mode,inconsistent_text,Sea, Sea
+DQ1263,deliveries,DL0018440,ship_mode,inconsistent_text,Air,Air Freight
+DQ1264,deliveries,DL0008108,ship_mode,inconsistent_text,Sea,SEA
+DQ1265,deliveries,DL0012935,ship_mode,inconsistent_text,Road,ROAD
+DQ1266,deliveries,DL0013043,ship_mode,inconsistent_text,Sea,SEA
+DQ1267,deliveries,DL0007289,ship_mode,inconsistent_text,Sea,Sea 
+DQ1268,deliveries,DL0011400,ship_mode,inconsistent_text,Sea,sea
+DQ1269,deliveries,DL0014270,ship_mode,inconsistent_text,Sea,Ocean
+DQ1270,deliveries,DL0002885,ship_mode,inconsistent_text,Sea, Sea
+DQ1271,deliveries,DL0001018,ship_mode,inconsistent_text,Road,ROAD
+DQ1272,deliveries,DL0009577,ship_mode,inconsistent_text,Sea, Sea
+DQ1273,deliveries,DL0018507,ship_mode,inconsistent_text,Air,air
+DQ1274,deliveries,DL0002558,ship_mode,inconsistent_text,Air,Air 
+DQ1275,deliveries,DL0018476,ship_mode,inconsistent_text,Road, Road
+DQ1276,deliveries,DL0006083,ship_mode,inconsistent_text,Road,road
+DQ1277,deliveries,DL0015374,ship_mode,inconsistent_text,Sea,SEA
+DQ1278,deliveries,DL0017519,ship_mode,inconsistent_text,Road, Road
+DQ1279,deliveries,DL0002935,ship_mode,inconsistent_text,Sea,SEA
+DQ1280,deliveries,DL0009702,ship_mode,inconsistent_text,Air,air
+DQ1281,deliveries,DL0007338,ship_mode,inconsistent_text,Sea,Sea 
+DQ1282,deliveries,DL0012835,ship_mode,inconsistent_text,Sea,Sea 
+DQ1283,deliveries,DL0014003,ship_mode,inconsistent_text,Sea, Sea
+DQ1284,deliveries,DL0013634,ship_mode,inconsistent_text,Air,Air Freight
+DQ1285,deliveries,DL0014843,ship_mode,inconsistent_text,Sea,sea
+DQ1286,deliveries,DL0001879,ship_mode,inconsistent_text,Air,air
+DQ1287,deliveries,DL0011264,ship_mode,inconsistent_text,Air,Air Freight
+DQ1288,deliveries,DL0008888,ship_mode,inconsistent_text,Sea,Sea 
+DQ1289,deliveries,DL0011307,ship_mode,inconsistent_text,Sea,SEA
+DQ1290,deliveries,DL0003809,ship_mode,inconsistent_text,Sea,Sea 
+DQ1291,deliveries,DL0002279,ship_mode,inconsistent_text,Air,Air 
+DQ1292,deliveries,DL0014189,ship_mode,inconsistent_text,Road,Truck
+DQ1293,deliveries,DL0019933,ship_mode,inconsistent_text,Sea,Sea 
+DQ1294,deliveries,DL0015141,ship_mode,inconsistent_text,Air,AIR
+DQ1295,deliveries,DL0015842,ship_mode,inconsistent_text,Road,Truck
+DQ1296,deliveries,DL0000024,ship_mode,inconsistent_text,Road,ROAD
+DQ1297,deliveries,DL0001511,ship_mode,inconsistent_text,Sea,Ocean
+DQ1298,deliveries,DL0001129,ship_mode,inconsistent_text,Road,road
+DQ1299,deliveries,DL0006978,ship_mode,inconsistent_text,Sea,Sea 
+DQ1300,deliveries,DL0008440,ship_mode,inconsistent_text,Sea, Sea
+DQ1301,deliveries,DL0016905,ship_mode,inconsistent_text,Sea,Ocean
+DQ1302,deliveries,DL0017331,ship_mode,inconsistent_text,Sea,Ocean
+DQ1303,deliveries,DL0002942,ship_mode,inconsistent_text,Air,Air Freight
+DQ1304,deliveries,DL0002206,ship_mode,inconsistent_text,Road,road
+DQ1305,deliveries,DL0002126,ship_mode,inconsistent_text,Sea,Sea 
+DQ1306,deliveries,DL0017466,ship_mode,inconsistent_text,Sea,Sea 
+DQ1307,deliveries,DL0010645,ship_mode,inconsistent_text,Road,Truck
+DQ1308,deliveries,DL0007136,ship_mode,inconsistent_text,Sea,Sea 
+DQ1309,deliveries,DL0018381,ship_mode,inconsistent_text,Air, Air
+DQ1310,deliveries,DL0013499,ship_mode,inconsistent_text,Road,Road 
+DQ1311,deliveries,DL0019864,ship_mode,inconsistent_text,Air,air
+DQ1312,deliveries,DL0007084,ship_mode,inconsistent_text,Road,road
+DQ1313,deliveries,DL0008286,ship_mode,inconsistent_text,Sea,SEA
+DQ1314,deliveries,DL0016312,ship_mode,inconsistent_text,Sea,SEA
+DQ1315,deliveries,DL0018669,ship_mode,inconsistent_text,Sea,SEA
+DQ1316,deliveries,DL0007954,ship_mode,inconsistent_text,Road,road
+DQ1317,deliveries,DL0012769,ship_mode,inconsistent_text,Air,Air 
+DQ1318,deliveries,DL0012527,ship_mode,inconsistent_text,Road,ROAD
+DQ1319,deliveries,DL0003354,ship_mode,inconsistent_text,Sea, Sea
+DQ1320,deliveries,DL0016135,ship_mode,inconsistent_text,Sea,sea
+DQ1321,deliveries,DL0018904,ship_mode,inconsistent_text,Sea,SEA
+DQ1322,deliveries,DL0002725,ship_mode,inconsistent_text,Air,Air 
+DQ1323,deliveries,DL0010140,ship_mode,inconsistent_text,Air,Air Freight
+DQ1324,deliveries,DL0017900,ship_mode,inconsistent_text,Air,air
+DQ1325,deliveries,DL0004046,ship_mode,inconsistent_text,Air,Air Freight
+DQ1326,deliveries,DL0010358,ship_mode,inconsistent_text,Air,AIR
+DQ1327,deliveries,DL0017989,ship_mode,inconsistent_text,Air,AIR
+DQ1328,deliveries,DL0006842,ship_mode,inconsistent_text,Road,ROAD
+DQ1329,deliveries,DL0014325,ship_mode,inconsistent_text,Air, Air
+DQ1330,deliveries,DL0013508,ship_mode,inconsistent_text,Sea,sea
+DQ1331,deliveries,DL0001982,ship_mode,inconsistent_text,Sea, Sea
+DQ1332,deliveries,DL0000746,ship_mode,inconsistent_text,Air,AIR
+DQ1333,deliveries,DL0010691,ship_mode,inconsistent_text,Air,air
+DQ1334,deliveries,DL0015698,ship_mode,inconsistent_text,Sea,sea
+DQ1335,deliveries,DL0012811,ship_mode,inconsistent_text,Road,road
+DQ1336,deliveries,DL0004778,ship_mode,inconsistent_text,Air,AIR
+DQ1337,deliveries,DL0002853,ship_mode,inconsistent_text,Road,road
+DQ1338,deliveries,DL0018654,ship_mode,inconsistent_text,Road,Road 
+DQ1339,deliveries,DL0015093,ship_mode,inconsistent_text,Sea,SEA
+DQ1340,deliveries,DL0013601,ship_mode,inconsistent_text,Air, Air
+DQ1341,deliveries,DL0014857,ship_mode,inconsistent_text,Road,Road 
+DQ1342,deliveries,DL0012805,ship_mode,inconsistent_text,Air,Air Freight
+DQ1343,deliveries,DL0018252,ship_mode,inconsistent_text,Air,air
+DQ1344,deliveries,DL0017909,ship_mode,inconsistent_text,Air,Air 
+DQ1345,deliveries,DL0005196,ship_mode,inconsistent_text,Air,Air 
+DQ1346,deliveries,DL0016519,ship_mode,inconsistent_text,Sea, Sea
+DQ1347,deliveries,DL0001618,ship_mode,inconsistent_text,Sea,Sea 
+DQ1348,deliveries,DL0005331,ship_mode,inconsistent_text,Road,ROAD
+DQ1349,deliveries,DL0013372,ship_mode,inconsistent_text,Road,road
+DQ1350,deliveries,DL0011115,ship_mode,inconsistent_text,Road, Road
+DQ1351,deliveries,DL0020138,ship_mode,inconsistent_text,Air,Air Freight
+DQ1352,deliveries,DL0013523,ship_mode,inconsistent_text,Road,road
+DQ1353,deliveries,DL0001435,ship_mode,inconsistent_text,Air,AIR
+DQ1354,deliveries,DL0013735,ship_mode,inconsistent_text,Road,Truck
+DQ1355,deliveries,DL0013327,ship_mode,inconsistent_text,Air,Air 
+DQ1356,deliveries,DL0015856,ship_mode,inconsistent_text,Air,AIR
+DQ1357,deliveries,DL0008308,ship_mode,inconsistent_text,Sea,Sea 
+DQ1358,deliveries,DL0018521,ship_mode,inconsistent_text,Air,AIR
+DQ1359,deliveries,DL0014609,ship_mode,inconsistent_text,Sea,Ocean
+DQ1360,deliveries,DL0002905,ship_mode,inconsistent_text,Sea,Sea 
+DQ1361,deliveries,DL0009770,ship_mode,inconsistent_text,Sea, Sea
+DQ1362,deliveries,DL0019974,ship_mode,inconsistent_text,Air,AIR
+DQ1363,deliveries,DL0011173,ship_mode,inconsistent_text,Sea,sea
+DQ1364,deliveries,DL0014112,ship_mode,inconsistent_text,Sea,Ocean
+DQ1365,deliveries,DL0006381,ship_mode,inconsistent_text,Sea,Ocean
+DQ1366,deliveries,DL0018953,ship_mode,inconsistent_text,Road, Road
+DQ1367,deliveries,DL0009797,ship_mode,inconsistent_text,Sea, Sea
+DQ1368,deliveries,DL0014390,ship_mode,inconsistent_text,Sea,SEA
+DQ1369,deliveries,DL0017533,ship_mode,inconsistent_text,Road,Road 
+DQ1370,deliveries,DL0011815,ship_mode,inconsistent_text,Sea,Sea 
+DQ1371,deliveries,DL0018390,ship_mode,inconsistent_text,Road,road
+DQ1372,deliveries,DL0002814,ship_mode,inconsistent_text,Sea,Ocean
+DQ1373,deliveries,DL0009170,ship_mode,inconsistent_text,Road,Truck
+DQ1374,deliveries,DL0012055,ship_mode,inconsistent_text,Road,Truck
+DQ1375,deliveries,DL0004553,ship_mode,inconsistent_text,Sea, Sea
+DQ1376,deliveries,DL0000975,ship_mode,inconsistent_text,Sea,Ocean
+DQ1377,deliveries,DL0006343,ship_mode,inconsistent_text,Air,Air 
+DQ1378,deliveries,DL0014123,ship_mode,inconsistent_text,Air,Air 
+DQ1379,deliveries,DL0019092,ship_mode,inconsistent_text,Air,Air 
+DQ1380,deliveries,DL0020040,ship_mode,inconsistent_text,Air,AIR
+DQ1381,deliveries,DL0014196,ship_mode,inconsistent_text,Sea,SEA
+DQ1382,deliveries,DL0016722,ship_mode,inconsistent_text,Sea,Sea 
+DQ1383,deliveries,DL0002392,ship_mode,inconsistent_text,Air, Air
+DQ1384,deliveries,DL0007591,ship_mode,inconsistent_text,Air,AIR
+DQ1385,deliveries,DL0000424,ship_mode,inconsistent_text,Sea,Sea 
+DQ1386,deliveries,DL0007740,ship_mode,inconsistent_text,Sea,Sea 
+DQ1387,deliveries,DL0018455,ship_mode,inconsistent_text,Sea, Sea
+DQ1388,deliveries,DL0009993,ship_mode,inconsistent_text,Sea,Ocean
+DQ1389,deliveries,DL0019440,ship_mode,inconsistent_text,Air,Air Freight
+DQ1390,deliveries,DL0016941,ship_mode,inconsistent_text,Road,Truck
+DQ1391,deliveries,DL0019692,ship_mode,inconsistent_text,Sea, Sea
+DQ1392,deliveries,DL0011210,ship_mode,inconsistent_text,Road,ROAD
+DQ1393,deliveries,DL0013723,ship_mode,inconsistent_text,Sea,Ocean
+DQ1394,deliveries,DL0001157,ship_mode,inconsistent_text,Sea, Sea
+DQ1395,deliveries,DL0000705,ship_mode,inconsistent_text,Sea,SEA
+DQ1396,deliveries,DL0000405,ship_mode,inconsistent_text,Sea,SEA
+DQ1397,deliveries,DL0005469,ship_mode,inconsistent_text,Sea,Ocean
+DQ1398,deliveries,DL0005546,ship_mode,inconsistent_text,Sea,Ocean
+DQ1399,deliveries,DL0016814,ship_mode,inconsistent_text,Sea,Sea 
+DQ1400,deliveries,DL0003749,ship_mode,inconsistent_text,Sea,Ocean
+DQ1401,deliveries,DL0008674,ship_mode,inconsistent_text,Sea,SEA
+DQ1402,deliveries,DL0000234,ship_mode,inconsistent_text,Road,ROAD
+DQ1403,deliveries,DL0003398,ship_mode,inconsistent_text,Sea, Sea
+DQ1404,deliveries,DL0017863,ship_mode,inconsistent_text,Air,Air Freight
+DQ1405,deliveries,DL0007826,ship_mode,inconsistent_text,Sea,Ocean
+DQ1406,deliveries,DL0014024,ship_mode,inconsistent_text,Sea, Sea
+DQ1407,deliveries,DL0015309,ship_mode,inconsistent_text,Sea,Ocean
+DQ1408,deliveries,DL0000724,ship_mode,inconsistent_text,Sea,SEA
+DQ1409,deliveries,DL0008569,ship_mode,inconsistent_text,Sea,sea
+DQ1410,deliveries,DL0002533,ship_mode,inconsistent_text,Sea, Sea
+DQ1411,deliveries,DL0015468,ship_mode,inconsistent_text,Air,air
+DQ1412,deliveries,DL0003358,ship_mode,inconsistent_text,Sea,SEA
+DQ1413,deliveries,DL0013603,ship_mode,inconsistent_text,Air,Air Freight
+DQ1414,deliveries,DL0014149,ship_mode,inconsistent_text,Sea,sea
+DQ1415,deliveries,DL0011231,ship_mode,inconsistent_text,Road,road
+DQ1416,deliveries,DL0004610,ship_mode,inconsistent_text,Road,Truck
+DQ1417,deliveries,DL0003757,ship_mode,inconsistent_text,Road,road
+DQ1418,deliveries,DL0014338,ship_mode,inconsistent_text,Sea,Ocean
+DQ1419,deliveries,DL0002154,ship_mode,inconsistent_text,Sea,Ocean
+DQ1420,deliveries,DL0009488,ship_mode,inconsistent_text,Sea,Ocean
+DQ1421,deliveries,DL0006619,ship_mode,inconsistent_text,Road, Road
+DQ1422,deliveries,DL0010848,ship_mode,inconsistent_text,Road,Truck
+DQ1423,deliveries,DL0011855,ship_mode,inconsistent_text,Sea,Ocean
+DQ1424,deliveries,DL0016157,ship_mode,inconsistent_text,Road,Road 
+DQ1425,deliveries,DL0008946,ship_mode,inconsistent_text,Sea,sea
+DQ1426,deliveries,DL0004436,ship_mode,inconsistent_text,Sea,Ocean
+DQ1427,deliveries,DL0019677,ship_mode,inconsistent_text,Sea,SEA
+DQ1428,deliveries,DL0018739,ship_mode,inconsistent_text,Road,Road 
+DQ1429,deliveries,DL0000874,ship_mode,inconsistent_text,Sea, Sea
+DQ1430,deliveries,DL0009517,ship_mode,inconsistent_text,Road, Road
+DQ1431,deliveries,DL0014269,ship_mode,inconsistent_text,Air,AIR
+DQ1432,deliveries,DL0002858,ship_mode,inconsistent_text,Sea,Ocean
+DQ1433,deliveries,DL0019094,ship_mode,inconsistent_text,Air,Air Freight
+DQ1434,deliveries,DL0000769,ship_mode,inconsistent_text,Road,Road 
+DQ1435,deliveries,DL0003172,ship_mode,inconsistent_text,Sea,sea
+DQ1436,deliveries,DL0012974,ship_mode,inconsistent_text,Road, Road
+DQ1437,deliveries,DL0013463,ship_mode,inconsistent_text,Sea,Ocean
+DQ1438,deliveries,DL0019307,ship_mode,inconsistent_text,Air,Air Freight
+DQ1439,deliveries,DL0013208,ship_mode,inconsistent_text,Road, Road
+DQ1440,deliveries,DL0007929,ship_mode,inconsistent_text,Sea,sea
+DQ1441,deliveries,DL0014985,ship_mode,inconsistent_text,Sea,sea
+DQ1442,deliveries,DL0001760,ship_mode,inconsistent_text,Sea, Sea
+DQ1443,deliveries,DL0014957,ship_mode,inconsistent_text,Sea,SEA
+DQ1444,deliveries,DL0011387,ship_mode,inconsistent_text,Road, Road
+DQ1445,deliveries,DL0004054,ship_mode,inconsistent_text,Sea,Ocean
+DQ1446,deliveries,DL0012096,ship_mode,inconsistent_text,Road, Road
+DQ1447,deliveries,DL0001169,ship_mode,inconsistent_text,Sea, Sea
+DQ1448,deliveries,DL0017399,ship_mode,inconsistent_text,Road,road
+DQ1449,deliveries,DL0017763,ship_mode,inconsistent_text,Sea,Ocean
+DQ1450,deliveries,DL0012658,ship_mode,inconsistent_text,Air,air
+DQ1451,deliveries,DL0008522,ship_mode,inconsistent_text,Sea,Ocean
+DQ1452,deliveries,DL0017414,ship_mode,inconsistent_text,Road, Road
+DQ1453,deliveries,DL0006887,ship_mode,inconsistent_text,Sea,SEA
+DQ1454,deliveries,DL0003151,ship_mode,inconsistent_text,Road, Road
+DQ1455,deliveries,DL0011132,ship_mode,inconsistent_text,Sea,SEA
+DQ1456,deliveries,DL0015409,ship_mode,inconsistent_text,Sea,sea
+DQ1457,deliveries,DL0002547,ship_mode,inconsistent_text,Road, Road
+DQ1458,deliveries,DL0020035,ship_mode,inconsistent_text,Road,Road 
+DQ1459,deliveries,DL0000848,ship_mode,inconsistent_text,Sea,SEA
+DQ1460,deliveries,DL0000541,ship_mode,inconsistent_text,Sea,sea
+DQ1461,deliveries,DL0006758,ship_mode,inconsistent_text,Sea, Sea
+DQ1462,deliveries,DL0009696,ship_mode,inconsistent_text,Sea,Sea 
+DQ1463,deliveries,DL0014873,ship_mode,inconsistent_text,Sea, Sea
+DQ1464,deliveries,DL0007378,ship_mode,inconsistent_text,Air, Air
+DQ1465,deliveries,DL0006846,ship_mode,inconsistent_text,Air,AIR
+DQ1466,deliveries,DL0005633,ship_mode,inconsistent_text,Road,Road 
+DQ1467,deliveries,DL0006614,ship_mode,inconsistent_text,Sea, Sea
+DQ1468,deliveries,DL0002265,ship_mode,inconsistent_text,Road,road
+DQ1469,deliveries,DL0019543,ship_mode,inconsistent_text,Sea, Sea
+DQ1470,deliveries,DL0005016,ship_mode,inconsistent_text,Sea,sea
+DQ1471,deliveries,DL0017035,ship_mode,inconsistent_text,Road,road
+DQ1472,deliveries,DL0008107,ship_mode,inconsistent_text,Sea,sea
+DQ1473,deliveries,DL0003998,ship_mode,inconsistent_text,Sea, Sea
+DQ1474,deliveries,DL0002378,ship_mode,inconsistent_text,Sea,sea
+DQ1475,deliveries,DL0010160,ship_mode,inconsistent_text,Air,AIR
+DQ1476,deliveries,DL0003352,ship_mode,inconsistent_text,Sea,Sea 
+DQ1477,deliveries,DL0001445,ship_mode,inconsistent_text,Air,air
+DQ1478,deliveries,DL0018417,ship_mode,inconsistent_text,Air, Air
+DQ1479,deliveries,DL0018198,ship_mode,inconsistent_text,Sea, Sea
+DQ1480,deliveries,DL0012454,ship_mode,inconsistent_text,Air,Air Freight
+DQ1481,deliveries,DL0018895,ship_mode,inconsistent_text,Sea, Sea
+DQ1482,deliveries,DL0005797,ship_mode,inconsistent_text,Road,Road 
+DQ1483,deliveries,DL0014996,ship_mode,inconsistent_text,Sea, Sea
+DQ1484,deliveries,DL0013908,ship_mode,inconsistent_text,Air,AIR
+DQ1485,deliveries,DL0015783,ship_mode,inconsistent_text,Sea,SEA
+DQ1486,deliveries,DL0017849,ship_mode,inconsistent_text,Road,Truck
+DQ1487,deliveries,DL0000601,ship_mode,inconsistent_text,Sea,Ocean
+DQ1488,deliveries,DL0014685,ship_mode,inconsistent_text,Sea,sea
+DQ1489,deliveries,DL0015941,ship_mode,inconsistent_text,Air,Air Freight
+DQ1490,deliveries,DL0000697,ship_mode,inconsistent_text,Road,Truck
+DQ1491,deliveries,DL0008536,ship_mode,inconsistent_text,Air,Air Freight
+DQ1492,deliveries,DL0010605,ship_mode,inconsistent_text,Air, Air
+DQ1493,deliveries,DL0001484,ship_mode,inconsistent_text,Sea,Ocean
+DQ1494,deliveries,DL0005123,ship_mode,inconsistent_text,Sea,SEA
+DQ1495,deliveries,DL0013852,ship_mode,inconsistent_text,Air,air
+DQ1496,deliveries,DL0010208,ship_mode,inconsistent_text,Sea,SEA
+DQ1497,deliveries,DL0005891,ship_mode,inconsistent_text,Sea,SEA
+DQ1498,deliveries,DL0013844,ship_mode,inconsistent_text,Air, Air
+DQ1499,deliveries,DL0016663,ship_mode,inconsistent_text,Sea,sea
+DQ1500,deliveries,DL0020053,ship_mode,inconsistent_text,Sea,SEA
+DQ1501,deliveries,DL0010786,ship_mode,inconsistent_text,Sea,Sea 
+DQ1502,deliveries,DL0013829,ship_mode,inconsistent_text,Sea,Ocean
+DQ1503,deliveries,DL0013394,ship_mode,inconsistent_text,Sea, Sea
+DQ1504,deliveries,DL0005021,ship_mode,inconsistent_text,Air,Air 
+DQ1505,deliveries,DL0018015,ship_mode,inconsistent_text,Sea,sea
+DQ1506,deliveries,DL0000839,ship_mode,inconsistent_text,Air,air
+DQ1507,deliveries,DL0014268,ship_mode,inconsistent_text,Air,AIR
+DQ1508,deliveries,DL0008593,ship_mode,inconsistent_text,Sea,Sea 
+DQ1509,deliveries,DL0012656,ship_mode,inconsistent_text,Sea, Sea
+DQ1510,deliveries,DL0005737,ship_mode,inconsistent_text,Sea,sea
+DQ1511,deliveries,DL0002317,ship_mode,inconsistent_text,Sea,Ocean
+DQ1512,deliveries,DL0010796,ship_mode,inconsistent_text,Sea,sea
+DQ1513,deliveries,DL0001625,ship_mode,inconsistent_text,Sea,Ocean
+DQ1514,deliveries,DL0014066,ship_mode,inconsistent_text,Road,Truck
+DQ1515,deliveries,DL0002640,ship_mode,inconsistent_text,Sea, Sea
+DQ1516,deliveries,DL0000639,ship_mode,inconsistent_text,Sea,sea
+DQ1517,deliveries,DL0009494,ship_mode,inconsistent_text,Sea,Ocean
+DQ1518,deliveries,DL0019625,ship_mode,inconsistent_text,Sea,sea
+DQ1519,deliveries,DL0019246,ship_mode,inconsistent_text,Sea,Ocean
+DQ1520,deliveries,DL0004825,ship_mode,inconsistent_text,Road,ROAD
+DQ1521,deliveries,DL0011024,ship_mode,inconsistent_text,Sea, Sea
+DQ1522,deliveries,DL0000440,ship_mode,inconsistent_text,Sea,Ocean
+DQ1523,deliveries,DL0015358,ship_mode,inconsistent_text,Sea,sea
+DQ1524,deliveries,DL0001539,ship_mode,inconsistent_text,Sea,Sea 
+DQ1525,deliveries,DL0004541,ship_mode,inconsistent_text,Air, Air
+DQ1526,deliveries,DL0005177,ship_mode,inconsistent_text,Sea,Sea 
+DQ1527,deliveries,DL0009181,ship_mode,inconsistent_text,Sea,Sea 
+DQ1528,deliveries,DL0009500,ship_mode,inconsistent_text,Sea, Sea
+DQ1529,deliveries,DL0018424,ship_mode,inconsistent_text,Sea,Ocean
+DQ1530,deliveries,DL0010299,ship_mode,inconsistent_text,Sea,Ocean
+DQ1531,deliveries,DL0007869,ship_mode,inconsistent_text,Sea,sea
+DQ1532,deliveries,DL0001565,ship_mode,inconsistent_text,Road,Road 
+DQ1533,deliveries,DL0019472,ship_mode,inconsistent_text,Air,air
+DQ1534,deliveries,DL0000109,ship_mode,inconsistent_text,Sea, Sea
+DQ1535,deliveries,DL0012418,ship_mode,inconsistent_text,Air,AIR
+DQ1536,deliveries,DL0006492,ship_mode,inconsistent_text,Sea,Ocean
+DQ1537,deliveries,DL0017591,ship_mode,inconsistent_text,Sea,sea
+DQ1538,deliveries,DL0015494,ship_mode,inconsistent_text,Air, Air
+DQ1539,deliveries,DL0000146,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1540,deliveries,DL0019848,delivery_status,inconsistent_text,In Transit,IN TRANSIT
+DQ1541,deliveries,DL0002571,delivery_status,inconsistent_text,Received, Received
+DQ1542,deliveries,DL0010607,delivery_status,inconsistent_text,Received,Received 
+DQ1543,deliveries,DL0019967,delivery_status,inconsistent_text,In Transit,In Transit 
+DQ1544,deliveries,DL0012296,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1545,deliveries,DL0014877,delivery_status,inconsistent_text,Received, Received
+DQ1546,deliveries,DL0013868,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1547,deliveries,DL0015602,delivery_status,inconsistent_text,Received,Received 
+DQ1548,deliveries,DL0013111,delivery_status,inconsistent_text,Received, Received
+DQ1549,deliveries,DL0001926,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1550,deliveries,DL0011490,delivery_status,inconsistent_text,Received,received
+DQ1551,deliveries,DL0010035,delivery_status,inconsistent_text,Received, Received
+DQ1552,deliveries,DL0017756,delivery_status,inconsistent_text,Received,Received 
+DQ1553,deliveries,DL0011885,delivery_status,inconsistent_text,Received,received
+DQ1554,deliveries,DL0011816,delivery_status,inconsistent_text,Received, Received
+DQ1555,deliveries,DL0009836,delivery_status,inconsistent_text,Received,Received 
+DQ1556,deliveries,DL0011704,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1557,deliveries,DL0008643,delivery_status,inconsistent_text,Received,received
+DQ1558,deliveries,DL0002379,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1559,deliveries,DL0007193,delivery_status,inconsistent_text,Received,received
+DQ1560,deliveries,DL0008180,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1561,deliveries,DL0003020,delivery_status,inconsistent_text,Received,Received 
+DQ1562,deliveries,DL0007345,delivery_status,inconsistent_text,Received, Received
+DQ1563,deliveries,DL0000381,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1564,deliveries,DL0016227,delivery_status,inconsistent_text,Received,received
+DQ1565,deliveries,DL0014147,delivery_status,inconsistent_text,Received, Received
+DQ1566,deliveries,DL0020026,delivery_status,inconsistent_text,In Transit,In Transit 
+DQ1567,deliveries,DL0006144,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1568,deliveries,DL0012744,delivery_status,inconsistent_text,Received,Received 
+DQ1569,deliveries,DL0007637,delivery_status,inconsistent_text,Received,Received 
+DQ1570,deliveries,DL0016715,delivery_status,inconsistent_text,Received,Received 
+DQ1571,deliveries,DL0015701,delivery_status,inconsistent_text,Received, Received
+DQ1572,deliveries,DL0001542,delivery_status,inconsistent_text,Received,Received 
+DQ1573,deliveries,DL0012517,delivery_status,inconsistent_text,Received,Received 
+DQ1574,deliveries,DL0018384,delivery_status,inconsistent_text,Received,received
+DQ1575,deliveries,DL0004611,delivery_status,inconsistent_text,Received,Received 
+DQ1576,deliveries,DL0010138,delivery_status,inconsistent_text,Received, Received
+DQ1577,deliveries,DL0000745,delivery_status,inconsistent_text,Received, Received
+DQ1578,deliveries,DL0006259,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1579,deliveries,DL0013696,delivery_status,inconsistent_text,Received, Received
+DQ1580,deliveries,DL0010511,delivery_status,inconsistent_text,Received,Received 
+DQ1581,deliveries,DL0005725,delivery_status,inconsistent_text,Received,received
+DQ1582,deliveries,DL0001844,delivery_status,inconsistent_text,Received,received
+DQ1583,deliveries,DL0003928,delivery_status,inconsistent_text,Received,received
+DQ1584,deliveries,DL0002046,delivery_status,inconsistent_text,Received,received
+DQ1585,deliveries,DL0017560,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1586,deliveries,DL0019377,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1587,deliveries,DL0001195,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1588,deliveries,DL0000412,delivery_status,inconsistent_text,Received,received
+DQ1589,deliveries,DL0003344,delivery_status,inconsistent_text,Received,Received 
+DQ1590,deliveries,DL0008357,delivery_status,inconsistent_text,Received, Received
+DQ1591,deliveries,DL0016752,delivery_status,inconsistent_text,Received,Received 
+DQ1592,deliveries,DL0007018,delivery_status,inconsistent_text,Received, Received
+DQ1593,deliveries,DL0011457,delivery_status,inconsistent_text,Received,Received 
+DQ1594,deliveries,DL0004406,delivery_status,inconsistent_text,Received,Received 
+DQ1595,deliveries,DL0015239,delivery_status,inconsistent_text,Received,Received 
+DQ1596,deliveries,DL0003041,delivery_status,inconsistent_text,Received,received
+DQ1597,deliveries,DL0019430,delivery_status,inconsistent_text,In Transit, In Transit
+DQ1598,deliveries,DL0002279,delivery_status,inconsistent_text,Received, Received
+DQ1599,deliveries,DL0013126,delivery_status,inconsistent_text,Received,received
+DQ1600,deliveries,DL0010093,delivery_status,inconsistent_text,Received,Received 
+DQ1601,deliveries,DL0019018,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1602,deliveries,DL0000999,delivery_status,inconsistent_text,Received, Received
+DQ1603,deliveries,DL0016857,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1604,deliveries,DL0012993,delivery_status,inconsistent_text,Received, Received
+DQ1605,deliveries,DL0007769,delivery_status,inconsistent_text,Received, Received
+DQ1606,deliveries,DL0011231,delivery_status,inconsistent_text,Received, Received
+DQ1607,deliveries,DL0019304,delivery_status,inconsistent_text,Received, Received
+DQ1608,deliveries,DL0013911,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1609,deliveries,DL0019441,delivery_status,inconsistent_text,In Transit,IN TRANSIT
+DQ1610,deliveries,DL0016243,delivery_status,inconsistent_text,Received, Received
+DQ1611,deliveries,DL0012393,delivery_status,inconsistent_text,Received,Received 
+DQ1612,deliveries,DL0016495,delivery_status,inconsistent_text,Received,received
+DQ1613,deliveries,DL0005024,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1614,deliveries,DL0000236,delivery_status,inconsistent_text,Received,received
+DQ1615,deliveries,DL0005608,delivery_status,inconsistent_text,Received,received
+DQ1616,deliveries,DL0006677,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1617,deliveries,DL0013640,delivery_status,inconsistent_text,Received,received
+DQ1618,deliveries,DL0012266,delivery_status,inconsistent_text,Received,Received 
+DQ1619,deliveries,DL0010148,delivery_status,inconsistent_text,Received,received
+DQ1620,deliveries,DL0001739,delivery_status,inconsistent_text,Received,received
+DQ1621,deliveries,DL0000078,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1622,deliveries,DL0014691,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1623,deliveries,DL0005980,delivery_status,inconsistent_text,Received, Received
+DQ1624,deliveries,DL0002857,delivery_status,inconsistent_text,Received, Received
+DQ1625,deliveries,DL0010889,delivery_status,inconsistent_text,Received,received
+DQ1626,deliveries,DL0011877,delivery_status,inconsistent_text,Received,Received 
+DQ1627,deliveries,DL0003943,delivery_status,inconsistent_text,Received, Received
+DQ1628,deliveries,DL0019055,delivery_status,inconsistent_text,Received,received
+DQ1629,deliveries,DL0016459,delivery_status,inconsistent_text,Received, Received
+DQ1630,deliveries,DL0019215,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1631,deliveries,DL0008758,delivery_status,inconsistent_text,Received,Received 
+DQ1632,deliveries,DL0015884,delivery_status,inconsistent_text,Received,Received 
+DQ1633,deliveries,DL0012763,delivery_status,inconsistent_text,Received, Received
+DQ1634,deliveries,DL0003336,delivery_status,inconsistent_text,Received, Received
+DQ1635,deliveries,DL0011618,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1636,deliveries,DL0008179,delivery_status,inconsistent_text,Received,Received 
+DQ1637,deliveries,DL0009137,delivery_status,inconsistent_text,Received,received
+DQ1638,deliveries,DL0017319,delivery_status,inconsistent_text,Received,received
+DQ1639,deliveries,DL0001522,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1640,deliveries,DL0005509,delivery_status,inconsistent_text,Received, Received
+DQ1641,deliveries,DL0010124,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1642,deliveries,DL0005340,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1643,deliveries,DL0016977,delivery_status,inconsistent_text,Received, Received
+DQ1644,deliveries,DL0013624,delivery_status,inconsistent_text,Received, Received
+DQ1645,deliveries,DL0007266,delivery_status,inconsistent_text,Received,received
+DQ1646,deliveries,DL0009604,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1647,deliveries,DL0014005,delivery_status,inconsistent_text,Received,Received 
+DQ1648,deliveries,DL0008485,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1649,deliveries,DL0009705,delivery_status,inconsistent_text,Received, Received
+DQ1650,deliveries,DL0008440,delivery_status,inconsistent_text,Received,Received 
+DQ1651,deliveries,DL0018124,delivery_status,inconsistent_text,Received, Received
+DQ1652,deliveries,DL0009529,delivery_status,inconsistent_text,Received,Received 
+DQ1653,deliveries,DL0019714,delivery_status,inconsistent_text,Received,received
+DQ1654,deliveries,DL0015199,delivery_status,inconsistent_text,Received,received
+DQ1655,deliveries,DL0012369,delivery_status,inconsistent_text,Received, Received
+DQ1656,deliveries,DL0006279,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1657,deliveries,DL0015755,delivery_status,inconsistent_text,Received, Received
+DQ1658,deliveries,DL0011554,delivery_status,inconsistent_text,Received, Received
+DQ1659,deliveries,DL0009691,delivery_status,inconsistent_text,Received,received
+DQ1660,deliveries,DL0019123,delivery_status,inconsistent_text,Received,received
+DQ1661,deliveries,DL0002420,delivery_status,inconsistent_text,Received, Received
+DQ1662,deliveries,DL0005089,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1663,deliveries,DL0014224,delivery_status,inconsistent_text,Received,received
+DQ1664,deliveries,DL0003474,delivery_status,inconsistent_text,Received, Received
+DQ1665,deliveries,DL0014222,delivery_status,inconsistent_text,Received,Received 
+DQ1666,deliveries,DL0005330,delivery_status,inconsistent_text,Received,Received 
+DQ1667,deliveries,DL0008929,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1668,deliveries,DL0018341,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1669,deliveries,DL0007231,delivery_status,inconsistent_text,Received,Received 
+DQ1670,deliveries,DL0005092,delivery_status,inconsistent_text,Received,received
+DQ1671,deliveries,DL0015688,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1672,deliveries,DL0010296,delivery_status,inconsistent_text,Received,received
+DQ1673,deliveries,DL0018488,delivery_status,inconsistent_text,Received,Received 
+DQ1674,deliveries,DL0001582,delivery_status,inconsistent_text,Received,Received 
+DQ1675,deliveries,DL0012172,delivery_status,inconsistent_text,Received, Received
+DQ1676,deliveries,DL0018997,delivery_status,inconsistent_text,Received,received
+DQ1677,deliveries,DL0015914,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1678,deliveries,DL0012983,delivery_status,inconsistent_text,Received,Received 
+DQ1679,deliveries,DL0018048,delivery_status,inconsistent_text,Received,Received 
+DQ1680,deliveries,DL0004880,delivery_status,inconsistent_text,Received,received
+DQ1681,deliveries,DL0012627,delivery_status,inconsistent_text,Received,Received 
+DQ1682,deliveries,DL0001939,delivery_status,inconsistent_text,Received,received
+DQ1683,deliveries,DL0001811,delivery_status,inconsistent_text,Received,received
+DQ1684,deliveries,DL0018577,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1685,deliveries,DL0012836,delivery_status,inconsistent_text,Received,Received 
+DQ1686,deliveries,DL0011532,delivery_status,inconsistent_text,Received, Received
+DQ1687,deliveries,DL0009298,delivery_status,inconsistent_text,Received, Received
+DQ1688,deliveries,DL0014602,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1689,deliveries,DL0004398,delivery_status,inconsistent_text,Received,Received 
+DQ1690,deliveries,DL0019280,delivery_status,inconsistent_text,Received,Received 
+DQ1691,deliveries,DL0003322,delivery_status,inconsistent_text,Received,received
+DQ1692,deliveries,DL0019203,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1693,deliveries,DL0012883,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1694,deliveries,DL0004326,delivery_status,inconsistent_text,Received,received
+DQ1695,deliveries,DL0010675,delivery_status,inconsistent_text,Received,received
+DQ1696,deliveries,DL0016866,delivery_status,inconsistent_text,Received,Received 
+DQ1697,deliveries,DL0000310,delivery_status,inconsistent_text,Received,received
+DQ1698,deliveries,DL0014832,delivery_status,inconsistent_text,Received,Received 
+DQ1699,deliveries,DL0018916,delivery_status,inconsistent_text,Received,received
+DQ1700,deliveries,DL0019991,delivery_status,inconsistent_text,In Transit,In Transit 
+DQ1701,deliveries,DL0013491,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1702,deliveries,DL0017775,delivery_status,inconsistent_text,Received, Received
+DQ1703,deliveries,DL0007046,delivery_status,inconsistent_text,Received, Received
+DQ1704,deliveries,DL0000128,delivery_status,inconsistent_text,Received,received
+DQ1705,deliveries,DL0015702,delivery_status,inconsistent_text,Received,Received 
+DQ1706,deliveries,DL0013672,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1707,deliveries,DL0017033,delivery_status,inconsistent_text,Received,received
+DQ1708,deliveries,DL0008151,delivery_status,inconsistent_text,Received,received
+DQ1709,deliveries,DL0003114,delivery_status,inconsistent_text,Received,received
+DQ1710,deliveries,DL0010362,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1711,deliveries,DL0002303,delivery_status,inconsistent_text,Received,Received 
+DQ1712,deliveries,DL0005270,delivery_status,inconsistent_text,Received,Received 
+DQ1713,deliveries,DL0005572,delivery_status,inconsistent_text,Received,received
+DQ1714,deliveries,DL0006381,delivery_status,inconsistent_text,Received,Received 
+DQ1715,deliveries,DL0015957,delivery_status,inconsistent_text,Received, Received
+DQ1716,deliveries,DL0017935,delivery_status,inconsistent_text,Received, Received
+DQ1717,deliveries,DL0013297,delivery_status,inconsistent_text,Received, Received
+DQ1718,deliveries,DL0008799,delivery_status,inconsistent_text,Received,Received 
+DQ1719,deliveries,DL0019595,delivery_status,inconsistent_text,Received,received
+DQ1720,deliveries,DL0010499,delivery_status,inconsistent_text,Received,Received 
+DQ1721,deliveries,DL0013910,delivery_status,inconsistent_text,Received,received
+DQ1722,deliveries,DL0017119,delivery_status,inconsistent_text,Received,received
+DQ1723,deliveries,DL0016796,delivery_status,inconsistent_text,Received, Received
+DQ1724,deliveries,DL0000891,delivery_status,inconsistent_text,Received,received
+DQ1725,deliveries,DL0012867,delivery_status,inconsistent_text,Received,Received 
+DQ1726,deliveries,DL0007881,delivery_status,inconsistent_text,Received,received
+DQ1727,deliveries,DL0003492,delivery_status,inconsistent_text,Received,Received 
+DQ1728,deliveries,DL0006444,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1729,deliveries,DL0012368,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1730,deliveries,DL0018301,delivery_status,inconsistent_text,Received,Received 
+DQ1731,deliveries,DL0019033,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1732,deliveries,DL0013022,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1733,deliveries,DL0016421,delivery_status,inconsistent_text,Received,Received 
+DQ1734,deliveries,DL0014813,delivery_status,inconsistent_text,Received,RECEIVED
+DQ1735,deliveries,DL0002864,delivery_status,inconsistent_text,Received, Received
+DQ1736,deliveries,DL0009315,delivery_status,inconsistent_text,Received,Received 
+DQ1737,deliveries,DL0001006,delivery_status,inconsistent_text,Received,Received 
+DQ1738,deliveries,DL0004784,delivery_status,inconsistent_text,Received,Received 
+DQ1739,deliveries,DL0013715,delivery_status,inconsistent_text,Received,received
+DQ1740,quality_inspections,QI0006616,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ1741,quality_inspections,QI0017530,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ1742,quality_inspections,QI0016090,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ1743,quality_inspections,QI0008193,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1744,quality_inspections,QI0000049,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1745,quality_inspections,QI0003340,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ1746,quality_inspections,QI0012167,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1747,quality_inspections,QI0003191,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1748,quality_inspections,QI0008709,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1749,quality_inspections,QI0000703,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ1750,quality_inspections,QI0006608,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ1751,quality_inspections,QI0011839,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1752,quality_inspections,QI0000738,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1753,quality_inspections,QI0019091,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ1754,quality_inspections,QI0009704,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1755,quality_inspections,QI0002472,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1756,quality_inspections,QI0008626,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1757,quality_inspections,QI0002569,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ1758,quality_inspections,QI0013679,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1759,quality_inspections,QI0015180,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ1760,quality_inspections,QI0017567,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ1761,quality_inspections,QI0008462,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ1762,quality_inspections,QI0009555,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1763,quality_inspections,QI0008145,primary_defect_type,inconsistent_text,Finishing,Finishing 
+DQ1764,quality_inspections,QI0017941,primary_defect_type,inconsistent_text,Colour Mismatch,colour mismatch
+DQ1765,quality_inspections,QI0008319,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ1766,quality_inspections,QI0009980,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1767,quality_inspections,QI0001500,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1768,quality_inspections,QI0013033,primary_defect_type,inconsistent_text,Colour Mismatch,Colour Mismatch 
+DQ1769,quality_inspections,QI0006856,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ1770,quality_inspections,QI0010755,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1771,quality_inspections,QI0003087,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1772,quality_inspections,QI0017833,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1773,quality_inspections,QI0000335,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ1774,quality_inspections,QI0012770,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ1775,quality_inspections,QI0017842,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ1776,quality_inspections,QI0011136,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1777,quality_inspections,QI0001611,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1778,quality_inspections,QI0010785,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ1779,quality_inspections,QI0009282,primary_defect_type,inconsistent_text,Finishing,Finishing 
+DQ1780,quality_inspections,QI0012084,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1781,quality_inspections,QI0004422,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1782,quality_inspections,QI0003506,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ1783,quality_inspections,QI0016890,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1784,quality_inspections,QI0017890,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1785,quality_inspections,QI0009470,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ1786,quality_inspections,QI0004765,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1787,quality_inspections,QI0014985,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ1788,quality_inspections,QI0019250,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1789,quality_inspections,QI0010746,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1790,quality_inspections,QI0005442,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ1791,quality_inspections,QI0004659,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1792,quality_inspections,QI0005035,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1793,quality_inspections,QI0017561,primary_defect_type,inconsistent_text,Finishing,Finishing 
+DQ1794,quality_inspections,QI0006086,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1795,quality_inspections,QI0012354,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ1796,quality_inspections,QI0012254,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ1797,quality_inspections,QI0001138,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1798,quality_inspections,QI0019961,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1799,quality_inspections,QI0011746,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1800,quality_inspections,QI0019101,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1801,quality_inspections,QI0005842,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1802,quality_inspections,QI0007395,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1803,quality_inspections,QI0018186,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ1804,quality_inspections,QI0013358,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1805,quality_inspections,QI0003877,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1806,quality_inspections,QI0010481,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1807,quality_inspections,QI0009753,primary_defect_type,inconsistent_text,Colour Mismatch,colour mismatch
+DQ1808,quality_inspections,QI0019044,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ1809,quality_inspections,QI0001624,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1810,quality_inspections,QI0005682,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ1811,quality_inspections,QI0010132,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1812,quality_inspections,QI0007074,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ1813,quality_inspections,QI0014674,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1814,quality_inspections,QI0000369,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ1815,quality_inspections,QI0016615,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1816,quality_inspections,QI0017709,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1817,quality_inspections,QI0006717,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1818,quality_inspections,QI0019661,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ1819,quality_inspections,QI0015318,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1820,quality_inspections,QI0018593,primary_defect_type,inconsistent_text,Finishing,Finishing 
+DQ1821,quality_inspections,QI0000834,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1822,quality_inspections,QI0019858,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1823,quality_inspections,QI0014448,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1824,quality_inspections,QI0018813,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ1825,quality_inspections,QI0012385,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ1826,quality_inspections,QI0000247,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1827,quality_inspections,QI0007216,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1828,quality_inspections,QI0002238,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ1829,quality_inspections,QI0006823,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1830,quality_inspections,QI0006020,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1831,quality_inspections,QI0014299,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ1832,quality_inspections,QI0007396,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1833,quality_inspections,QI0003004,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ1834,quality_inspections,QI0002989,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1835,quality_inspections,QI0011566,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ1836,quality_inspections,QI0014524,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1837,quality_inspections,QI0009982,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ1838,quality_inspections,QI0008613,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ1839,quality_inspections,QI0006523,primary_defect_type,inconsistent_text,Colour Mismatch,Colour Mismatch 
+DQ1840,quality_inspections,QI0000070,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1841,quality_inspections,QI0009376,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1842,quality_inspections,QI0004231,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1843,quality_inspections,QI0018358,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1844,quality_inspections,QI0017347,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ1845,quality_inspections,QI0003156,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ1846,quality_inspections,QI0018011,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1847,quality_inspections,QI0018936,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1848,quality_inspections,QI0015203,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1849,quality_inspections,QI0012441,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1850,quality_inspections,QI0019125,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1851,quality_inspections,QI0012041,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1852,quality_inspections,QI0012672,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1853,quality_inspections,QI0012820,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1854,quality_inspections,QI0004120,primary_defect_type,inconsistent_text,Finishing,Finishing 
+DQ1855,quality_inspections,QI0016488,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ1856,quality_inspections,QI0017025,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1857,quality_inspections,QI0011059,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1858,quality_inspections,QI0004884,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1859,quality_inspections,QI0002711,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1860,quality_inspections,QI0011151,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ1861,quality_inspections,QI0006231,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1862,quality_inspections,QI0008828,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1863,quality_inspections,QI0000492,primary_defect_type,inconsistent_text,Colour Mismatch,Colour Mismatch 
+DQ1864,quality_inspections,QI0012590,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1865,quality_inspections,QI0012315,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ1866,quality_inspections,QI0002384,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ1867,quality_inspections,QI0016477,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1868,quality_inspections,QI0003688,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1869,quality_inspections,QI0014549,primary_defect_type,inconsistent_text,Colour Mismatch,Colour Mismatch 
+DQ1870,quality_inspections,QI0005397,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1871,quality_inspections,QI0002301,primary_defect_type,inconsistent_text,Colour Mismatch,Colour Mismatch 
+DQ1872,quality_inspections,QI0012539,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1873,quality_inspections,QI0008472,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1874,quality_inspections,QI0003276,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1875,quality_inspections,QI0005800,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ1876,quality_inspections,QI0005051,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1877,quality_inspections,QI0018253,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1878,quality_inspections,QI0003109,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1879,quality_inspections,QI0008807,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1880,quality_inspections,QI0000160,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1881,quality_inspections,QI0019763,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ1882,quality_inspections,QI0010819,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ1883,quality_inspections,QI0010515,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1884,quality_inspections,QI0004109,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ1885,quality_inspections,QI0006033,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1886,quality_inspections,QI0016833,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1887,quality_inspections,QI0012380,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1888,quality_inspections,QI0001264,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1889,quality_inspections,QI0015205,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1890,quality_inspections,QI0020570,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1891,quality_inspections,QI0007094,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1892,quality_inspections,QI0017665,primary_defect_type,inconsistent_text,Finishing,Finishing 
+DQ1893,quality_inspections,QI0009230,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ1894,quality_inspections,QI0017440,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1895,quality_inspections,QI0010310,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1896,quality_inspections,QI0003006,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1897,quality_inspections,QI0000138,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1898,quality_inspections,QI0007735,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1899,quality_inspections,QI0017802,primary_defect_type,inconsistent_text,Colour Mismatch,Colour Mismatch 
+DQ1900,quality_inspections,QI0010973,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1901,quality_inspections,QI0004094,primary_defect_type,inconsistent_text,Colour Mismatch,Colour Mismatch 
+DQ1902,quality_inspections,QI0010208,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1903,quality_inspections,QI0009385,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ1904,quality_inspections,QI0010993,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1905,quality_inspections,QI0017605,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1906,quality_inspections,QI0009784,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1907,quality_inspections,QI0000063,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1908,quality_inspections,QI0005721,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1909,quality_inspections,QI0019107,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1910,quality_inspections,QI0012069,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ1911,quality_inspections,QI0013800,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1912,quality_inspections,QI0004489,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1913,quality_inspections,QI0016383,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1914,quality_inspections,QI0014260,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1915,quality_inspections,QI0018421,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1916,quality_inspections,QI0001237,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ1917,quality_inspections,QI0018608,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1918,quality_inspections,QI0004523,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1919,quality_inspections,QI0014065,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1920,quality_inspections,QI0016506,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1921,quality_inspections,QI0004928,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1922,quality_inspections,QI0015547,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1923,quality_inspections,QI0005636,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ1924,quality_inspections,QI0005634,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1925,quality_inspections,QI0002423,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1926,quality_inspections,QI0011627,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ1927,quality_inspections,QI0000002,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1928,quality_inspections,QI0009462,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1929,quality_inspections,QI0001396,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ1930,quality_inspections,QI0019911,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1931,quality_inspections,QI0018859,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1932,quality_inspections,QI0017452,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1933,quality_inspections,QI0014014,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1934,quality_inspections,QI0017051,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ1935,quality_inspections,QI0003951,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ1936,quality_inspections,QI0008945,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1937,quality_inspections,QI0014817,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ1938,quality_inspections,QI0016838,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1939,quality_inspections,QI0001946,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1940,quality_inspections,QI0007717,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ1941,quality_inspections,QI0012769,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ1942,quality_inspections,QI0005067,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1943,quality_inspections,QI0001127,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ1944,quality_inspections,QI0018977,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ1945,quality_inspections,QI0019987,primary_defect_type,inconsistent_text,Colour Mismatch,colour mismatch
+DQ1946,quality_inspections,QI0006563,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1947,quality_inspections,QI0008073,primary_defect_type,inconsistent_text,Measurement,Measurement 
+DQ1948,quality_inspections,QI0001479,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ1949,quality_inspections,QI0012788,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1950,quality_inspections,QI0015895,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ1951,quality_inspections,QI0020103,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ1952,quality_inspections,QI0019346,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1953,quality_inspections,QI0012986,primary_defect_type,inconsistent_text,Colour Mismatch,colour mismatch
+DQ1954,quality_inspections,QI0006317,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ1955,quality_inspections,QI0017678,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ1956,quality_inspections,QI0017503,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1957,quality_inspections,QI0000721,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ1958,quality_inspections,QI0017345,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1959,quality_inspections,QI0016474,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1960,quality_inspections,QI0008036,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1961,quality_inspections,QI0002062,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1962,quality_inspections,QI0005013,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1963,quality_inspections,QI0000463,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ1964,quality_inspections,QI0009851,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ1965,quality_inspections,QI0016563,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ1966,quality_inspections,QI0020888,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ1967,quality_inspections,QI0012815,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ1968,quality_inspections,QI0016285,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ1969,quality_inspections,QI0016757,primary_defect_type,inconsistent_text,Colour Mismatch,Colour Mismatch 
+DQ1970,quality_inspections,QI0003675,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1971,quality_inspections,QI0020077,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1972,quality_inspections,QI0005600,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ1973,quality_inspections,QI0010611,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1974,quality_inspections,QI0011867,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ1975,quality_inspections,QI0017089,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1976,quality_inspections,QI0001823,primary_defect_type,inconsistent_text,Colour Mismatch,colour mismatch
+DQ1977,quality_inspections,QI0012026,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1978,quality_inspections,QI0006258,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ1979,quality_inspections,QI0011820,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1980,quality_inspections,QI0005039,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1981,quality_inspections,QI0017901,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ1982,quality_inspections,QI0015048,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ1983,quality_inspections,QI0004933,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ1984,quality_inspections,QI0011967,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1985,quality_inspections,QI0016975,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1986,quality_inspections,QI0013446,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ1987,quality_inspections,QI0020072,primary_defect_type,inconsistent_text,Finishing,FINISHING
+DQ1988,quality_inspections,QI0004851,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ1989,quality_inspections,QI0015376,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ1990,quality_inspections,QI0013554,primary_defect_type,inconsistent_text,Colour Mismatch,Colour Mismatch 
+DQ1991,quality_inspections,QI0015776,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ1992,quality_inspections,QI0010347,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1993,quality_inspections,QI0013942,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ1994,quality_inspections,QI0013583,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ1995,quality_inspections,QI0016247,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ1996,quality_inspections,QI0020327,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ1997,quality_inspections,QI0017947,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ1998,quality_inspections,QI0007679,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ1999,quality_inspections,QI0015034,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ2000,quality_inspections,QI0012401,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ2001,quality_inspections,QI0016516,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ2002,quality_inspections,QI0005791,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ2003,quality_inspections,QI0010581,primary_defect_type,inconsistent_text,Colour Mismatch,colour mismatch
+DQ2004,quality_inspections,QI0012260,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ2005,quality_inspections,QI0003906,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ2006,quality_inspections,QI0003464,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ2007,quality_inspections,QI0005866,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ2008,quality_inspections,QI0003856,primary_defect_type,inconsistent_text,Colour Mismatch,Colour Mismatch 
+DQ2009,quality_inspections,QI0018747,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ2010,quality_inspections,QI0008112,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ2011,quality_inspections,QI0014335,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ2012,quality_inspections,QI0018814,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ2013,quality_inspections,QI0012780,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ2014,quality_inspections,QI0005302,primary_defect_type,inconsistent_text,Colour Mismatch,Colour Mismatch 
+DQ2015,quality_inspections,QI0020182,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ2016,quality_inspections,QI0005790,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ2017,quality_inspections,QI0002204,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ2018,quality_inspections,QI0001830,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ2019,quality_inspections,QI0017209,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ2020,quality_inspections,QI0008490,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ2021,quality_inspections,QI0007498,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ2022,quality_inspections,QI0004449,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ2023,quality_inspections,QI0020429,primary_defect_type,inconsistent_text,Finishing,Finishing 
+DQ2024,quality_inspections,QI0018955,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ2025,quality_inspections,QI0001474,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ2026,quality_inspections,QI0014539,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ2027,quality_inspections,QI0014471,primary_defect_type,inconsistent_text,Colour Mismatch,colour mismatch
+DQ2028,quality_inspections,QI0003380,primary_defect_type,inconsistent_text,Finishing,Finishing 
+DQ2029,quality_inspections,QI0016523,primary_defect_type,inconsistent_text,Colour Mismatch,colour mismatch
+DQ2030,quality_inspections,QI0014033,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ2031,quality_inspections,QI0018390,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ2032,quality_inspections,QI0019485,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ2033,quality_inspections,QI0019420,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ2034,quality_inspections,QI0013362,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ2035,quality_inspections,QI0015446,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ2036,quality_inspections,QI0002815,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ2037,quality_inspections,QI0010030,primary_defect_type,inconsistent_text,Colour Mismatch,colour mismatch
+DQ2038,quality_inspections,QI0017908,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ2039,quality_inspections,QI0013966,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ2040,quality_inspections,QI0006702,primary_defect_type,inconsistent_text,Colour Mismatch,Colour Mismatch 
+DQ2041,quality_inspections,QI0000686,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ2042,quality_inspections,QI0003472,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ2043,quality_inspections,QI0002148,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ2044,quality_inspections,QI0006687,primary_defect_type,inconsistent_text,Colour Mismatch,colour mismatch
+DQ2045,quality_inspections,QI0001350,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ2046,quality_inspections,QI0005145,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ2047,quality_inspections,QI0012540,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ2048,quality_inspections,QI0018637,primary_defect_type,inconsistent_text,Colour Mismatch,colour mismatch
+DQ2049,quality_inspections,QI0017734,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ2050,quality_inspections,QI0018642,primary_defect_type,inconsistent_text,Colour Mismatch,Colour Mismatch 
+DQ2051,quality_inspections,QI0011865,primary_defect_type,inconsistent_text,Finishing,Finishing 
+DQ2052,quality_inspections,QI0015628,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ2053,quality_inspections,QI0015116,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ2054,quality_inspections,QI0014559,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ2055,quality_inspections,QI0013220,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ2056,quality_inspections,QI0017219,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ2057,quality_inspections,QI0012882,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ2058,quality_inspections,QI0008842,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ2059,quality_inspections,QI0002859,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ2060,quality_inspections,QI0016836,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ2061,quality_inspections,QI0012117,primary_defect_type,inconsistent_text,Finishing,finishing
+DQ2062,quality_inspections,QI0020823,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ2063,quality_inspections,QI0007003,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ2064,quality_inspections,QI0013469,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ2065,quality_inspections,QI0000105,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ2066,quality_inspections,QI0020474,primary_defect_type,inconsistent_text,Stitching,STITCHING
+DQ2067,quality_inspections,QI0016107,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ2068,quality_inspections,QI0002117,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ2069,quality_inspections,QI0009119,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ2070,quality_inspections,QI0005209,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ2071,quality_inspections,QI0010344,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ2072,quality_inspections,QI0009201,primary_defect_type,inconsistent_text,Measurement,measurement
+DQ2073,quality_inspections,QI0009382,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ2074,quality_inspections,QI0018999,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ2075,quality_inspections,QI0016445,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ2076,quality_inspections,QI0008540,primary_defect_type,inconsistent_text,Fabric Flaw,Fabric Flaw 
+DQ2077,quality_inspections,QI0000444,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ2078,quality_inspections,QI0000542,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ2079,quality_inspections,QI0003022,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ2080,quality_inspections,QI0016950,primary_defect_type,inconsistent_text,Colour Mismatch, Colour Mismatch
+DQ2081,quality_inspections,QI0008826,primary_defect_type,inconsistent_text,Stitching,Stitching 
+DQ2082,quality_inspections,QI0015647,primary_defect_type,inconsistent_text,Stitching,stitching
+DQ2083,quality_inspections,QI0018532,primary_defect_type,inconsistent_text,Fabric Flaw,fabric flaw
+DQ2084,quality_inspections,QI0004787,primary_defect_type,inconsistent_text,Colour Mismatch,COLOUR MISMATCH
+DQ2085,quality_inspections,QI0000945,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ2086,quality_inspections,QI0015986,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ2087,quality_inspections,QI0014470,primary_defect_type,inconsistent_text,Finishing, Finishing
+DQ2088,quality_inspections,QI0000119,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ2089,quality_inspections,QI0005631,primary_defect_type,inconsistent_text,Fabric Flaw, Fabric Flaw
+DQ2090,quality_inspections,QI0004862,primary_defect_type,inconsistent_text,Measurement, Measurement
+DQ2091,quality_inspections,QI0006486,primary_defect_type,inconsistent_text,Stitching, Stitching
+DQ2092,quality_inspections,QI0008224,primary_defect_type,inconsistent_text,Fabric Flaw,FABRIC FLAW
+DQ2093,quality_inspections,QI0008470,primary_defect_type,inconsistent_text,Measurement,MEASUREMENT
+DQ2094,quality_inspections,QI0006538,defective_quantity,invalid_value_defective_gt_inspected,1,58
+DQ2095,quality_inspections,QI0002424,defective_quantity,invalid_value_defective_gt_inspected,1,135
+DQ2096,quality_inspections,QI0006949,defective_quantity,invalid_value_defective_gt_inspected,1,51
+DQ2097,quality_inspections,QI0019827,defective_quantity,invalid_value_defective_gt_inspected,2,59
+DQ2098,quality_inspections,QI0016651,defective_quantity,invalid_value_defective_gt_inspected,5,132
+DQ2099,quality_inspections,QI0014785,defective_quantity,invalid_value_defective_gt_inspected,1,63
+DQ2100,deliveries,DL0003613,received_date,invalid_value_received_before_shipped,2024-06-01,2024-05-27
+DQ2101,deliveries,DL0003143,received_date,invalid_value_received_before_shipped,2024-06-10,2024-05-11
+DQ2102,deliveries,DL0007070,received_date,invalid_value_received_before_shipped,2024-10-08,2024-10-02
+DQ2103,deliveries,DL0007211,received_date,invalid_value_received_before_shipped,2024-11-04,2024-10-06
+DQ2104,deliveries,DL0013639,received_date,invalid_value_received_before_shipped,2025-06-11,2025-05-23
+DQ2105,deliveries,DL0000516,(entire row),exact_duplicate_row,,row repeated once
+DQ2106,deliveries,DL0000765,(entire row),exact_duplicate_row,,row repeated once
+DQ2107,deliveries,DL0000959,(entire row),exact_duplicate_row,,row repeated once
+DQ2108,deliveries,DL0001083,(entire row),exact_duplicate_row,,row repeated once
+DQ2109,deliveries,DL0001240,(entire row),exact_duplicate_row,,row repeated once
+DQ2110,deliveries,DL0001318,(entire row),exact_duplicate_row,,row repeated once
+DQ2111,deliveries,DL0001634,(entire row),exact_duplicate_row,,row repeated once
+DQ2112,deliveries,DL0001659,(entire row),exact_duplicate_row,,row repeated once
+DQ2113,deliveries,DL0001957,(entire row),exact_duplicate_row,,row repeated once
+DQ2114,deliveries,DL0002058,(entire row),exact_duplicate_row,,row repeated once
+DQ2115,deliveries,DL0002060,(entire row),exact_duplicate_row,,row repeated once
+DQ2116,deliveries,DL0002714,(entire row),exact_duplicate_row,,row repeated once
+DQ2117,deliveries,DL0003152,(entire row),exact_duplicate_row,,row repeated once
+DQ2118,deliveries,DL0004068,(entire row),exact_duplicate_row,,row repeated once
+DQ2119,deliveries,DL0004215,(entire row),exact_duplicate_row,,row repeated once
+DQ2120,deliveries,DL0004239,(entire row),exact_duplicate_row,,row repeated once
+DQ2121,deliveries,DL0004701,(entire row),exact_duplicate_row,,row repeated once
+DQ2122,deliveries,DL0005353,(entire row),exact_duplicate_row,,row repeated once
+DQ2123,deliveries,DL0005536,(entire row),exact_duplicate_row,,row repeated once
+DQ2124,deliveries,DL0006230,(entire row),exact_duplicate_row,,row repeated once
+DQ2125,deliveries,DL0006879,(entire row),exact_duplicate_row,,row repeated once
+DQ2126,deliveries,DL0007031,(entire row),exact_duplicate_row,,row repeated once
+DQ2127,deliveries,DL0007098,(entire row),exact_duplicate_row,,row repeated once
+DQ2128,deliveries,DL0007174,(entire row),exact_duplicate_row,,row repeated once
+DQ2129,deliveries,DL0007219,(entire row),exact_duplicate_row,,row repeated once
+DQ2130,deliveries,DL0007224,(entire row),exact_duplicate_row,,row repeated once
+DQ2131,deliveries,DL0008073,(entire row),exact_duplicate_row,,row repeated once
+DQ2132,deliveries,DL0008154,(entire row),exact_duplicate_row,,row repeated once
+DQ2133,deliveries,DL0008504,(entire row),exact_duplicate_row,,row repeated once
+DQ2134,deliveries,DL0008940,(entire row),exact_duplicate_row,,row repeated once
+DQ2135,deliveries,DL0008987,(entire row),exact_duplicate_row,,row repeated once
+DQ2136,deliveries,DL0009011,(entire row),exact_duplicate_row,,row repeated once
+DQ2137,deliveries,DL0009780,(entire row),exact_duplicate_row,,row repeated once
+DQ2138,deliveries,DL0010049,(entire row),exact_duplicate_row,,row repeated once
+DQ2139,deliveries,DL0010518,(entire row),exact_duplicate_row,,row repeated once
+DQ2140,deliveries,DL0010683,(entire row),exact_duplicate_row,,row repeated once
+DQ2141,deliveries,DL0010756,(entire row),exact_duplicate_row,,row repeated once
+DQ2142,deliveries,DL0010966,(entire row),exact_duplicate_row,,row repeated once
+DQ2143,deliveries,DL0011148,(entire row),exact_duplicate_row,,row repeated once
+DQ2144,deliveries,DL0011359,(entire row),exact_duplicate_row,,row repeated once
+DQ2145,deliveries,DL0012559,(entire row),exact_duplicate_row,,row repeated once
+DQ2146,deliveries,DL0012835,(entire row),exact_duplicate_row,,row repeated once
+DQ2147,deliveries,DL0014034,(entire row),exact_duplicate_row,,row repeated once
+DQ2148,deliveries,DL0014327,(entire row),exact_duplicate_row,,row repeated once
+DQ2149,deliveries,DL0014616,(entire row),exact_duplicate_row,,row repeated once
+DQ2150,deliveries,DL0015538,(entire row),exact_duplicate_row,,row repeated once
+DQ2151,deliveries,DL0016308,(entire row),exact_duplicate_row,,row repeated once
+DQ2152,deliveries,DL0016829,(entire row),exact_duplicate_row,,row repeated once
+DQ2153,deliveries,DL0017101,(entire row),exact_duplicate_row,,row repeated once
+DQ2154,deliveries,DL0017519,(entire row),exact_duplicate_row,,row repeated once
+DQ2155,deliveries,DL0017526,(entire row),exact_duplicate_row,,row repeated once
+DQ2156,deliveries,DL0017560,(entire row),exact_duplicate_row,,row repeated once
+DQ2157,deliveries,DL0018201,(entire row),exact_duplicate_row,,row repeated once
+DQ2158,deliveries,DL0018255,(entire row),exact_duplicate_row,,row repeated once
+DQ2159,deliveries,DL0018423,(entire row),exact_duplicate_row,,row repeated once
+DQ2160,deliveries,DL0019194,(entire row),exact_duplicate_row,,row repeated once
+DQ2161,deliveries,DL0019618,(entire row),exact_duplicate_row,,row repeated once
+DQ2162,deliveries,DL0019633,(entire row),exact_duplicate_row,,row repeated once
+DQ2163,deliveries,DL0019871,(entire row),exact_duplicate_row,,row repeated once
+DQ2164,deliveries,DL0019971,(entire row),exact_duplicate_row,,row repeated once
+DQ2165,quality_inspections,QI0000049,(entire row),exact_duplicate_row,,row repeated once
+DQ2166,quality_inspections,QI0000252,(entire row),exact_duplicate_row,,row repeated once
+DQ2167,quality_inspections,QI0000438,(entire row),exact_duplicate_row,,row repeated once
+DQ2168,quality_inspections,QI0001436,(entire row),exact_duplicate_row,,row repeated once
+DQ2169,quality_inspections,QI0001603,(entire row),exact_duplicate_row,,row repeated once
+DQ2170,quality_inspections,QI0002789,(entire row),exact_duplicate_row,,row repeated once
+DQ2171,quality_inspections,QI0002836,(entire row),exact_duplicate_row,,row repeated once
+DQ2172,quality_inspections,QI0002861,(entire row),exact_duplicate_row,,row repeated once
+DQ2173,quality_inspections,QI0003479,(entire row),exact_duplicate_row,,row repeated once
+DQ2174,quality_inspections,QI0003935,(entire row),exact_duplicate_row,,row repeated once
+DQ2175,quality_inspections,QI0003952,(entire row),exact_duplicate_row,,row repeated once
+DQ2176,quality_inspections,QI0003981,(entire row),exact_duplicate_row,,row repeated once
+DQ2177,quality_inspections,QI0004055,(entire row),exact_duplicate_row,,row repeated once
+DQ2178,quality_inspections,QI0004179,(entire row),exact_duplicate_row,,row repeated once
+DQ2179,quality_inspections,QI0004375,(entire row),exact_duplicate_row,,row repeated once
+DQ2180,quality_inspections,QI0005108,(entire row),exact_duplicate_row,,row repeated once
+DQ2181,quality_inspections,QI0005542,(entire row),exact_duplicate_row,,row repeated once
+DQ2182,quality_inspections,QI0005661,(entire row),exact_duplicate_row,,row repeated once
+DQ2183,quality_inspections,QI0006075,(entire row),exact_duplicate_row,,row repeated once
+DQ2184,quality_inspections,QI0006671,(entire row),exact_duplicate_row,,row repeated once
+DQ2185,quality_inspections,QI0006995,(entire row),exact_duplicate_row,,row repeated once
+DQ2186,quality_inspections,QI0007091,(entire row),exact_duplicate_row,,row repeated once
+DQ2187,quality_inspections,QI0007327,(entire row),exact_duplicate_row,,row repeated once
+DQ2188,quality_inspections,QI0007661,(entire row),exact_duplicate_row,,row repeated once
+DQ2189,quality_inspections,QI0007941,(entire row),exact_duplicate_row,,row repeated once
+DQ2190,quality_inspections,QI0008401,(entire row),exact_duplicate_row,,row repeated once
+DQ2191,quality_inspections,QI0008522,(entire row),exact_duplicate_row,,row repeated once
+DQ2192,quality_inspections,QI0008701,(entire row),exact_duplicate_row,,row repeated once
+DQ2193,quality_inspections,QI0008711,(entire row),exact_duplicate_row,,row repeated once
+DQ2194,quality_inspections,QI0008786,(entire row),exact_duplicate_row,,row repeated once
+DQ2195,quality_inspections,QI0008825,(entire row),exact_duplicate_row,,row repeated once
+DQ2196,quality_inspections,QI0008902,(entire row),exact_duplicate_row,,row repeated once
+DQ2197,quality_inspections,QI0009504,(entire row),exact_duplicate_row,,row repeated once
+DQ2198,quality_inspections,QI0009593,(entire row),exact_duplicate_row,,row repeated once
+DQ2199,quality_inspections,QI0009844,(entire row),exact_duplicate_row,,row repeated once
+DQ2200,quality_inspections,QI0009872,(entire row),exact_duplicate_row,,row repeated once
+DQ2201,quality_inspections,QI0010097,(entire row),exact_duplicate_row,,row repeated once
+DQ2202,quality_inspections,QI0010472,(entire row),exact_duplicate_row,,row repeated once
+DQ2203,quality_inspections,QI0010839,(entire row),exact_duplicate_row,,row repeated once
+DQ2204,quality_inspections,QI0011387,(entire row),exact_duplicate_row,,row repeated once
+DQ2205,quality_inspections,QI0011757,(entire row),exact_duplicate_row,,row repeated once
+DQ2206,quality_inspections,QI0012015,(entire row),exact_duplicate_row,,row repeated once
+DQ2207,quality_inspections,QI0012602,(entire row),exact_duplicate_row,,row repeated once
+DQ2208,quality_inspections,QI0012634,(entire row),exact_duplicate_row,,row repeated once
+DQ2209,quality_inspections,QI0012814,(entire row),exact_duplicate_row,,row repeated once
+DQ2210,quality_inspections,QI0013061,(entire row),exact_duplicate_row,,row repeated once
+DQ2211,quality_inspections,QI0013604,(entire row),exact_duplicate_row,,row repeated once
+DQ2212,quality_inspections,QI0013875,(entire row),exact_duplicate_row,,row repeated once
+DQ2213,quality_inspections,QI0014122,(entire row),exact_duplicate_row,,row repeated once
+DQ2214,quality_inspections,QI0014276,(entire row),exact_duplicate_row,,row repeated once
+DQ2215,quality_inspections,QI0014606,(entire row),exact_duplicate_row,,row repeated once
+DQ2216,quality_inspections,QI0015038,(entire row),exact_duplicate_row,,row repeated once
+DQ2217,quality_inspections,QI0015057,(entire row),exact_duplicate_row,,row repeated once
+DQ2218,quality_inspections,QI0015483,(entire row),exact_duplicate_row,,row repeated once
+DQ2219,quality_inspections,QI0015604,(entire row),exact_duplicate_row,,row repeated once
+DQ2220,quality_inspections,QI0015809,(entire row),exact_duplicate_row,,row repeated once
+DQ2221,quality_inspections,QI0017224,(entire row),exact_duplicate_row,,row repeated once
+DQ2222,quality_inspections,QI0017693,(entire row),exact_duplicate_row,,row repeated once
+DQ2223,quality_inspections,QI0017960,(entire row),exact_duplicate_row,,row repeated once
+DQ2224,quality_inspections,QI0018368,(entire row),exact_duplicate_row,,row repeated once
+DQ2225,quality_inspections,QI0018797,(entire row),exact_duplicate_row,,row repeated once
+DQ2226,quality_inspections,QI0019263,(entire row),exact_duplicate_row,,row repeated once
+DQ2227,quality_inspections,QI0019410,(entire row),exact_duplicate_row,,row repeated once

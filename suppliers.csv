@@ -1,0 +1,41 @@
+supplier_id,supplier_name,country,region,specialization,supplier_tier,payment_terms_days,onboarded_date,is_active,standard_lead_time_days
+S001,Fern Outerwear Ltd,Turkey,Europe & North Africa,Outerwear,Preferred,45,2015-02-02,True,30
+S002,Lotus Textiles,Bangladesh,South Asia,Jersey & Basics,Preferred,45,2009-12-12,True,53
+S003,Saffron Apparel,TURKEY,Europe & North Africa,Jersey & Basics,Strategic,60,2016-02-01,True,26
+S004,Glacier Leather & Trim,Indonesia,Southeast Asia,Accessories,Approved,45,2009-05-08,True,47
+S005,Zephyr Footwear Co.,Bangladesh,South Asia,Footwear,Preferred,45,2012-07-04,True,53
+S006,Willow Technical Garments,Romania,Europe & North Africa,Outerwear,Approved,60,2010-06-22,True,32
+S007,Ridge Denim Works,Vietnam,Southeast Asia,Denim,Approved,30,2015-01-03,False,49
+S008,Sable Knit Studio,India,South Asia,Knitwear,Preferred,60,2021-07-03,True,45
+S009,Jade Fashion House,China,East Asia,Woven & Dresses,Strategic,60,2015-06-23,True,54
+S010,Fern Textiles,Portugal,Europe & North Africa,Jersey & Basics,Approved,60,2013-08-05,True,33
+S011,Dune Fashion House,China,East Asia,Woven & Dresses,Strategic,60,2017-09-13,True,54
+S012,Juniper Apparel,China,East Asia,Jersey & Basics,Approved,45,2015-08-29,True,51
+S013,Delta Leather & Trim,Morocco,Europe & North Africa,Accessories,Preferred,60,2013-09-01,True,34
+S014,Fern Shoe Works,China,East Asia,Footwear,Preferred,60,2010-12-17,True,50
+S015,Sable Indigo Mills,India,South Asia,Denim,Preferred,45,2013-03-23,True,51
+S016,Tidal Leather & Trim,China,East Asia,Accessories,Strategic,60,2021-09-28,True,54
+S017,Zephyr Accessories Ltd,Turkey,Europe & North Africa,Accessories,Strategic,60,2010-10-01,True,32
+S018,Harbor Footwear Co.,Morocco,Europe & North Africa,Footwear,Approved,45,2011-06-04,True,32
+S019,Granite Knitting Co.,China,East Asia,Knitwear,Approved,30,2015-06-18,True,52
+S020,Cobalt Leather & Trim,bangladesh,South Asia,Accessories,Strategic,,2009-07-04,True,46
+S021,Aster Technical Garments,Morocco,Europe & North Africa,Outerwear,Preferred,60,2021-05-27,True,26
+S022,Crescent Knitting Co.,Bangladesh,South Asia,Knitwear,Approved,60,2018-11-18,False,54
+S023,Topaz Knit Studio,China,East Asia,Knitwear,Approved,30,2018-06-12,True,48
+S024,Bramble Fashion House,Pakistan,South Asia,Woven & Dresses,Approved,30,2015-01-26,True,52
+S025,Granite Denim Works, Romania,Europe & North Africa,Denim,Preferred,60,2016-10-13,True,33
+S026,Saffron Indigo Mills,China,East Asia,Denim,Preferred,60,2020-11-12,True,52
+S027,Lotus Jersey Mills, Cambodia,Southeast Asia,Jersey & Basics,Strategic,,2017-11-13,True,42
+S028,Pearl Knit Studio,Sri Lanka,South Asia,Knitwear,Approved,30,2013-01-12,True,44
+S029,Jade Indigo Mills,Sri Lanka,South Asia,Denim,Preferred,45,2012-05-03,True,44
+S030,Zephyr Denim Works,Cambodia,Southeast Asia,Denim,Strategic,60,2018-06-23,True,50
+S031,Ember Knitting Co.,Vietnam,Southeast Asia,Knitwear,Preferred,45,2019-01-16,True,44
+S032,Aster Outerwear Ltd,Turkey,Europe & North Africa,Outerwear,Preferred,45,2022-06-23,True,33
+S033,Maple Shoe Works,Vietnam,Southeast Asia,Footwear,Approved,60,2012-05-18,True,53
+S034,Willow Shoe Works,Indonesia,Southeast Asia,Footwear,Approved,60,2015-08-01,True,44
+S035,Crescent Garments,Portugal,Europe & North Africa,Woven & Dresses,Approved,60,2013-05-17,True,27
+S036,Tidal Apparel, India,South Asia,Jersey & Basics,Approved,45,2009-05-30,True,47
+S037,Fern Weaving Co.,Portugal,Europe & North Africa,Woven & Dresses,Preferred,45,2018-12-16,True,31
+S038,Halcyon Accessories Ltd,Sri Lanka,South Asia,Accessories,Approved,45,2015-05-29,True,45
+S039,Maple Fashion House,Vietnam,Southeast Asia,Woven & Dresses,Preferred,45,2013-06-12,True,43
+S040,Pearl Technical Garments,Bangladesh,South Asia,Outerwear,Preferred,60,2010-09-13,True,55

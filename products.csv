@@ -1,0 +1,151 @@
+product_id,product_name,category,subcategory,season,unit_of_measure,standard_cost_usd,reorder_point_qty,safety_stock_qty
+P001,Slim Jeans - Light Wash,Denim,Jeans,Core,piece,16.08,7020,2990
+P002,Slim Jeans - Dark Wash,Denim,Jeans,Spring/Summer,piece,21.15,2520,1280
+P003,Straight Jeans - Mid Wash,denim,Jeans,Autumn/Winter,piece,15.18,6200,3250
+P004,Straight Jeans - Dark Wash,Denim,Jeans,Spring/Summer,piece,22.64,7360,3730
+P005,Straight Jeans - Washed Grey,Denim,Jeans,Autumn/Winter,piece,17.38,12370,6570
+P006,Straight Jeans - Ecru,Denim,Jeans,Spring/Summer,piece,18.21,8110,3690
+P007,Wide-Leg Jeans - Light Wash,Denim,Jeans,Autumn/Winter,piece,14.05,9520,4110
+P008,Wide-Leg Jeans - Mid Wash,Denim,Jeans,Core,piece,20.74,7050,3370
+P009,Relaxed Jeans - Dark Wash,Denim,Jeans,Autumn/Winter,piece,17.56,12370,6640
+P010,Relaxed Jeans - Ecru,Denim,Jeans,Spring/Summer,piece,20.09,3010,1480
+P011,Relaxed Jeans - Indigo,Denim,Jeans,Spring/Summer,piece,16.23,4210,1890
+P012,Trucker Jacket - Mid Wash,Denim,Denim Jackets,Core,piece,15.61,21150,11150
+P013,Trucker Jacket - Ecru,Denim,Denim Jackets,Autumn/Winter,piece,14.51,5290,2670
+P014,Cropped Denim Jacket - Black,Denim,Denim Jackets,Core,piece,13.8,6510,3460
+P015,Cropped Denim Jacket - Washed Grey,Denim,Denim Jackets,Core,piece,18.06,5510,2330
+P016,Cropped Denim Jacket - Ecru,Denim,Denim Jackets,Core,piece,20.54,3600,1590
+P017,Cropped Denim Jacket - Indigo,Denim,Denim Jackets,Spring/Summer,piece,17.68,7970,3850
+P018,A-Line Denim Skirt - Dark Wash,Denim,Denim Skirts,Core,piece,24.04,8330,3800
+P019,A-Line Denim Skirt - Washed Grey,Denim,Denim Skirts,Autumn/Winter,piece,16.73,17060,9040
+P020,Mini Denim Skirt - Black,Denim,Denim Skirts,Core,piece,18.67,9810,4140
+P021,Crew Neck Sweater - Forest,Knitwear,Sweaters,Core,piece,20.83,7700,3690
+P022,Crew Neck Sweater - Burgundy,Knitwear,Sweaters,Autumn/Winter,piece,17.0,4680,1950
+P023,V-Neck Sweater - Burgundy,Knitwear,Sweaters,Autumn/Winter,piece,21.49,4460,2330
+P024,V-Neck Sweater - Cream,Knitwear,Sweaters,Autumn/Winter,piece,17.14,6870,3630
+P025,Chunky Knit Sweater - Oatmeal,Knitwear,Sweaters,Autumn/Winter,piece,10.8,9230,4280
+P026,Chunky Knit Sweater - Navy,Knitwear ,Sweaters,Spring/Summer,piece,13.02,8550,4470
+P027,Chunky Knit Sweater - Forest,Knitwear,Sweaters,Autumn/Winter,piece,20.09,4440,2350
+P028,Chunky Knit Sweater - Burgundy,Knitwear,Sweaters,Core,piece,12.48,2450,1080
+P029,Button Cardigan - Oatmeal,Knitwear,Cardigans,Autumn/Winter,piece,16.87,4560,2380
+P030,Button Cardigan - Black,Knitwear,Cardigans,Spring/Summer,piece,11.57,4270,1790
+P031,Button Cardigan - Burgundy,Knitwear,Cardigans,Core,piece,11.92,4390,2360
+P032,Button Cardigan - Cream,Knitwear,Cardigans,Autumn/Winter,piece,17.13,2830,1470
+P033,Button Cardigan - Charcoal,Knitwear,Cardigans,Autumn/Winter,piece,13.11,4260,2290
+P034,Open Cardigan - Oatmeal,Knitwear,Cardigans,Spring/Summer,piece,15.0,6280,2570
+P035,Open Cardigan - Navy,Knitwear,Cardigans,Autumn/Winter,piece,20.18,8480,4330
+P036,Open Cardigan - Cream,Knitwear,Cardigans,Autumn/Winter,piece,15.27,4410,2130
+P037,Rib Beanie - Oatmeal,Knitwear,Knit Accessories,Spring/Summer,piece,16.73,4960,2570
+P038,Rib Beanie - Burgundy,Knitwear,Knit Accessories,Autumn/Winter,piece,11.06,10150,4710
+P039,Rib Beanie - Cream,Knitwear,Knit Accessories,Autumn/Winter,piece,16.25,1520,660
+P040,Rib Beanie - Charcoal,Knitwear,Knit Accessories,Core,piece,19.06,8530,3960
+P041,Knit Scarf - Navy,Knitwear,Knit Accessories,Autumn/Winter,piece,14.28,11990,6290
+P042,Knit Scarf - Cream,Knitwear,Knit Accessories,Autumn/Winter,piece,19.34,3690,1920
+P043,Wool Blend Coat - Black,Outerwear,Coats,Autumn/Winter,piece,31.64,7310,3470
+P044,Wool Blend Coat - Camel,Outerwear,Coats,Spring/Summer,piece,53.67,6440,2690
+P045,Wool Blend Coat - Navy,Outerwear,Coats,Autumn/Winter,piece,43.52,2120,870
+P046,Wool Blend Coat - Charcoal,Outerwear,Coats,Autumn/Winter,piece,43.5,820,340
+P047,Trench Coat - Camel,Outerwear,Coats,Autumn/Winter,piece,28.65,4750,2550
+P048,Trench Coat - Olive,Outerwear,Coats,Autumn/Winter,piece,38.38,2920,1570
+P049,Trench Coat - Navy,Outerwear,Coats,Autumn/Winter,piece,23.3,3310,1500
+P050,Trench Coat - Charcoal,Outerwear,Coats,Spring/Summer,piece,36.33,5970,2960
+P051,Parka - Black,Outerwear,Coats,Core,piece,31.16,2390,1190
+P052,Parka - Camel,Outerwear,Coats,Autumn/Winter,piece,33.5,5480,2530
+P053,Parka - Navy,Outerwear,Coats,Autumn/Winter,piece,41.5,4940,2470
+P054,Parka - Charcoal,Outerwear ,Coats,Core,piece,37.55,2650,1330
+P055,Puffer Jacket - Stone,Outerwear,Jackets,Spring/Summer,piece,55.16,3790,1950
+P056,Bomber Jacket - Camel,Outerwear,Jackets,Autumn/Winter,piece,47.21,2810,1340
+P057,Bomber Jacket - Stone,Outerwear,Jackets,Core,piece,30.61,3400,1570
+P058,Utility Jacket - Camel,Outerwear,Jackets,Autumn/Winter,piece,56.15,6120,2820
+P059,Utility Jacket - Olive,Outerwear,Jackets,Spring/Summer,piece,39.66,7500,3030
+P060,Utility Jacket - Charcoal,Outerwear,Jackets,Autumn/Winter,piece,47.38,1380,560
+P061,Court Sneaker - Grey,Footwear,Sneakers,Spring/Summer,pair,20.31,6670,3470
+P062,Court Sneaker - Sand,Footwear,Sneakers,Core,pair,27.19,4020,1890
+P063,Chunky Sneaker - White,Footwear,Sneakers,Core,pair,25.46,9860,5160
+P064,Chunky Sneaker - Black,Footwear,Sneakers,Core,pair,32.87,5620,2720
+P065,Chunky Sneaker - Tan,Footwear,Sneakers,Core,pair,37.0,4110,1880
+P066,Chunky Sneaker - Sand,Footwear,Sneakers,Spring/Summer,pair,21.25,8510,3460
+P067,Slip-On Sneaker - White,Footwear,Sneakers,Spring/Summer,pair,30.67,2130,940
+P068,Slip-On Sneaker - Grey,Footwear,Sneakers,Spring/Summer,pair,19.24,6620,3280
+P069,Slip-On Sneaker - Navy,Footwear,Sneakers,Core,pair,27.24,2810,1230
+P070,Slip-On Sneaker - Sand,Footwear,Sneakers,Core,pair,24.11,9700,4830
+P071,Chelsea Boot - Navy,Footwear,Boots,Autumn/Winter,pair,24.48,2610,1090
+P072,Chelsea Boot - Sand,Footwear,Boots,Core,pair,35.69,7940,3710
+P073,Ankle Boot - Tan,Footwear,Boots,Core,pair,27.82,10900,5750
+P074,Ankle Boot - Sand,Footwear,Boots,Spring/Summer,pair,26.92,4780,2500
+P075,Flat Sandal - Tan,Footwear,Sandals,Autumn/Winter,pair,27.64,6300,3260
+P076,Flat Sandal - Grey,Footwear,Sandals,Core,pair,23.49,8390,4150
+P077,Flat Sandal - Navy, Footwear,Sandals,Core,pair,28.71,10270,4600
+P078,Slide Sandal - Black,Footwear,Sandals,Core,pair,27.89,2120,900
+P079,Slide Sandal - Navy,Footwear,Sandals,Autumn/Winter,pair,27.51,2860,1470
+P080,Slide Sandal - Sand,Footwear,Sandals,Core,pair,19.76,5410,2560
+P081,Tote Bag - Black,Accessories,Bags,Autumn/Winter,piece,6.53,21420,9380
+P082,Tote Bag - Olive,Accessories,Bags,Core,piece,5.31,8940,3980
+P083,Tote Bag - Multi,Accessories,Bags,Core,piece,3.27,3420,1400
+P084,Crossbody Bag - Black,Accessories,Bags,Autumn/Winter,piece,4.96,11890,5280
+P085,Crossbody Bag - Tan,Accessories,Bags,Spring/Summer,piece,6.73,4430,1970
+P086,Crossbody Bag - Olive,Accessories,Bags,Autumn/Winter,piece,6.44,3780,1650
+P087,Crossbody Bag - Multi,Accessories,Bags,Core,piece,2.79,9940,4130
+P088,Backpack - Black,Accessories,Bags,Core,piece,3.31,4620,2420
+P089,Backpack - White,Accessories,Bags,Core,piece,7.17,19720,10010
+P090,Backpack - Olive,Accessories,Bags,Spring/Summer,piece,9.86,11740,6050
+P091,Backpack - Multi,Accessories,Bags,Core,piece,7.6,5870,2730
+P092,Leather Belt - Tan,Accessories,Belts,Core,piece,6.67,11440,4980
+P093,Woven Belt - Tan,Accessories,Belts,Core,piece,2.84,4740,2340
+P094,Woven Belt - Olive,Accessories,Belts,Spring/Summer,piece,11.09,8550,4120
+P095,Woven Belt - Red,Accessories,Belts,Core,piece,3.54,8140,3980
+P096,Cap - White,Accessories,Small Goods,Core,piece,5.16,6900,2980
+P097,Cap - Olive,Accessories,Small Goods,Core,piece,5.31,7970,3790
+P098,Cap - Navy,Accessories,Small Goods,Spring/Summer,piece,6.93,9100,4880
+P099,Sunglasses Case - Olive,Accessories,Small Goods,Autumn/Winter,piece,5.16,5150,2080
+P100,Sunglasses Case - Red,Accessories,Small Goods,Core,piece,6.84,5670,2300
+P101,Wallet - White,Accessories,Small Goods,Core,piece,6.02,6000,2620
+P102,Hair Accessory Set - Tan,Accessories,Small Goods,Core,piece,10.54,6840,3390
+P103,Hair Accessory Set - Red,Accessories,Small Goods,Core,piece,9.86,8420,4360
+P104,Hair Accessory Set - Multi,Accessories,Small Goods,Core,piece,6.48,5930,2540
+P105,Basic Tee - Black,Jersey & Basics,T-Shirts,Spring/Summer,piece,4.94,8390,3760
+P106,Basic Tee - Grey Marl,Jersey & Basics,T-Shirts,Core,piece,4.43,13140,6610
+P107,Basic Tee - Navy,Jersey & Basics,T-Shirts,Core,piece,4.25,18110,8520
+P108,Basic Tee - Sand,Jersey & Basics,T-Shirts,Core,piece,4.91,29220,14440
+P109,Long-Sleeve Tee - White,Jersey & Basics,T-Shirts,Core,piece,4.5,12600,6000
+P110,Long-Sleeve Tee - Navy,Jersey & Basics,T-Shirts,Core,piece,7.93,17940,7480
+P111,Rib Tank - Grey Marl,Jersey & Basics,Tops,Core,piece,5.26,12500,6650
+P112,Rib Tank - Navy,Jersey & Basics,Tops,Core,piece,6.17,5110,2700
+P113,Rib Tank - Sand,jersey & basics,Tops,Core,piece,3.41,10820,5820
+P114,Crop Top - Black,Jersey & Basics,Tops,Core,piece,4.48,18110,9420
+P115,Crop Top - Sage,Jersey & Basics,Tops,Core,piece,5.01,15090,7340
+P116,Polo Shirt - White,Jersey & Basics,Tops,Core,piece,5.9,11160,4820
+P117,Polo Shirt - Black,Jersey & Basics,Tops,Core,piece,3.76,15390,6620
+P118,Polo Shirt - Navy,Jersey & Basics,Tops,Core,piece,6.69,18520,7900
+P119,Polo Shirt - Sage,Jersey & Basics,Tops,Core,piece,3.7,11970,5150
+P120,Polo Shirt - Sand,Jersey & Basics,Tops,Core,piece,6.11,7430,3960
+P121,Sweatshirt - White,Jersey & Basics,Loungewear,Core,piece,8.21,25940,13110
+P122,Sweatshirt - Black,Jersey & Basics,Loungewear,Core,piece,5.42,14200,5930
+P123,Sweatshirt - Navy,Jersey & Basics,Loungewear,Core,piece,3.44,13870,5970
+P124,Sweatshirt - Sand,Jersey & Basics,Loungewear,Core,piece,6.51,5900,2370
+P125,Jogger - White,Jersey & Basics,Loungewear,Core,piece,5.34,2890,1430
+P126,Jogger - Grey Marl,Jersey & Basics,Loungewear,Core,piece,7.72,22010,11490
+P127,Jogger - Navy,Jersey & Basics,Loungewear,Core,piece,4.76,16140,7060
+P128,Jogger - Sage,Jersey & Basics,Loungewear,Core,piece,5.33,6300,2780
+P129,Lounge Shorts - Black,Jersey & Basics,Loungewear,Core,piece,7.78,5130,2570
+P130,Lounge Shorts - Navy,Jersey & Basics,Loungewear,Spring/Summer,piece,6.92,8750,4210
+P131,Midi Dress - Black,Woven & Dresses,Dresses,Autumn/Winter,piece,8.56,6870,3550
+P132,Midi Dress - Terracotta,Woven & Dresses,Dresses,Spring/Summer,piece,11.51,3490,1460
+P133,Shirt Dress - White,WOVEN & DRESSES,Dresses,Core,piece,14.62,7030,3480
+P134,Shirt Dress - Black,Woven & Dresses,Dresses,Core,piece,12.01,3260,1750
+P135,Shirt Dress - Stripe,Woven & Dresses,Dresses,Spring/Summer,piece,20.38,7330,3100
+P136,Shirt Dress - Terracotta,Woven & Dresses,Dresses,Spring/Summer,piece,11.4,3680,1630
+P137,Wrap Dress - Black,Woven & Dresses,Dresses,Core,piece,17.46,5170,2770
+P138,Wrap Dress - Stripe,Woven & Dresses,Dresses,Spring/Summer,piece,11.66,10040,5030
+P139,Wrap Dress - Terracotta,Woven & Dresses,Dresses,Spring/Summer,piece,18.0,3620,1760
+P140,Slip Dress - Terracotta,Woven & Dresses,Dresses,Core,piece,13.54,25930,13220
+P141,Poplin Shirt - Floral,Woven & Dresses,Shirts & Blouses,Core,piece,14.1,2710,1240
+P142,Poplin Shirt - Sage,Woven & Dresses,Shirts & Blouses,Spring/Summer,piece,11.54,7140,3170
+P143,Linen Blouse - White,Woven & Dresses,Shirts & Blouses,Spring/Summer,piece,9.06,5560,2570
+P144,Linen Blouse - Black,Woven & Dresses,Shirts & Blouses,Spring/Summer,piece,18.46,10820,5740
+P145,Satin Blouse - White,Woven & Dresses,Shirts & Blouses,Spring/Summer,piece,11.94,6130,2870
+P146,Satin Blouse - Black,Woven & Dresses,Shirts & Blouses,Core,piece,15.94,3590,1460
+P147,Satin Blouse - Stripe,Woven & Dresses,Shirts & Blouses,Autumn/Winter,piece,19.66,6250,2550
+P148,Pleated Skirt - Black,Woven & Dresses,Trousers & Skirts,Spring/Summer,piece,15.4,6370,2980
+P149,Pleated Skirt - Floral,Woven & Dresses,Trousers & Skirts,Spring/Summer,piece,11.83,17890,8710
+P150,Pleated Skirt - Sage,Woven & Dresses,Trousers & Skirts,Core,piece,15.38,3550,1510
